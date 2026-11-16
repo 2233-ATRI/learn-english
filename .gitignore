@@ -1,0 +1,23 @@
+/node_modules
+build/
+dist/
+.signing/
+*.log
+.DS_Store
+.env
+.env.*
+!.env.example
+*.p12
+*.pfx
+*.keystore
+*.jks
+*.pem
+*.key
+*.idsig
+
+# The selected dictionary is included in src/core-dictionary.json.
+assets/ecdict/ecdict.csv
+
+# Local source scans and visual inspection images.
+assets/paper-text/2025-images/
+assets/paper-text/qa-*.png

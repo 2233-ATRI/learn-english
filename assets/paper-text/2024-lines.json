@@ -1,0 +1,1412 @@
+[
+  {
+    "text": "Text 1",
+    "x": 0.48541681995700964,
+    "page": 4,
+    "y": 0.08586358229796814
+  },
+  {
+    "text": "In her new book Cogs and Monsters: What Economics Is, and What It Should Be,",
+    "x": 0.15265561678438175,
+    "page": 4,
+    "y": 0.1351307897427626
+  },
+  {
+    "text": "Diane Coyle, an economist at Cambridge University, argues that the digital economy",
+    "x": 0.1140008077061645,
+    "page": 4,
+    "y": 0.1568567393233549
+  },
+  {
+    "text": "requires new ways of thinking about progress. \"Whatever we mean by the economy",
+    "x": 0.11396764192661732,
+    "page": 4,
+    "y": 0.17907984121941808
+  },
+  {
+    "text": "growing, by things getting better, the gains will have to be more evenly shared than",
+    "x": 0.11422903172651717,
+    "page": 4,
+    "y": 0.20096872169403546
+  },
+  {
+    "text": "in the recent past,\" she writes. uAn economy of tech millionaires or billionaires and",
+    "x": 0.11439093907033306,
+    "page": 4,
+    "y": 0.22264209573714427
+  },
+  {
+    "text": "gig workers, with middle-income jobs undercut by automation, will not be politically",
+    "x": 0.11416465722374342,
+    "page": 4,
+    "y": 0.24501177806779695
+  },
+  {
+    "text": "sustainable.”",
+    "x": 0.1145216302496436,
+    "page": 4,
+    "y": 0.26736896192695125
+  },
+  {
+    "text": "Improving living standards and increasing prosperity for more people will require",
+    "x": 0.15291893387548705,
+    "page": 4,
+    "y": 0.2886787328959442
+  },
+  {
+    "text": "greater use of digital technologies to boost productivity in various sectors, including",
+    "x": 0.11426219006478557,
+    "page": 4,
+    "y": 0.3110765675214146
+  },
+  {
+    "text": "health care and construction, says Coyle. But people can't be expected to embrace",
+    "x": 0.11374136008002768,
+    "page": 4,
+    "y": 0.3336339318175187
+  },
+  {
+    "text": "the changes if they're not seeing the benefits- if they're just seeing good jobs being",
+    "x": 0.11400275732120631,
+    "page": 4,
+    "y": 0.35599142301613607
+  },
+  {
+    "text": "destroyed.",
+    "x": 0.11416465722374342,
+    "page": 4,
+    "y": 0.3785516967924906
+  },
+  {
+    "text": "In a recent interview, Coyle said she fears that tech's inequality problem could be",
+    "x": 0.1529501574812712,
+    "page": 4,
+    "y": 0.4008016806469242
+  },
+  {
+    "text": "a roadblock to deploying AI. \"We're talking about disruption,9, she says. \"These are",
+    "x": 0.11429340622929092,
+    "page": 4,
+    "y": 0.42285504920217953
+  },
+  {
+    "text": "transformative technologies that change the ways we spend our time every day, that",
+    "x": 0.11357751056244876,
+    "page": 4,
+    "y": 0.4456224287980519
+  },
+  {
+    "text": "change business models that succeed.” To make such \"tremendous changes” she adds,",
+    "x": 0.11422708211147535,
+    "page": 4,
+    "y": 0.4678017245759781
+  },
+  {
+    "text": "you need social buy-in.",
+    "x": 0.11351312861839623,
+    "page": 4,
+    "y": 0.4905382882683528
+  },
+  {
+    "text": "Instead, says Coyle, resentment is simmering among many as the benefits are",
+    "x": 0.15239616915824492,
+    "page": 4,
+    "y": 0.5131238868164647
+  },
+  {
+    "text": "perceived to go to elites in a handful of prosperous cities.",
+    "x": 0.11344681194185945,
+    "page": 4,
+    "y": 0.5355214755703647
+  },
+  {
+    "text": "According to the Brookings Institution, a short list of eight American cities that",
+    "x": 0.15203724651730294,
+    "page": 4,
+    "y": 0.5581073199900471
+  },
+  {
+    "text": "included San Francisco, San Jose, Boston, and Seattle had roughly 38% of all tech",
+    "x": 0.11406323259389643,
+    "page": 4,
+    "y": 0.580439138098849
+  },
+  {
+    "text": "jobs by 2019. New AI technologies are particularly concentrated: Brookings's Mark",
+    "x": 0.11129909517621782,
+    "page": 4,
+    "y": 0.6028606993308687
+  },
+  {
+    "text": "Muro and Sifan Liu estimate that just 15 cities account for two-thirds of the AI assets",
+    "x": 0.11360676222935474,
+    "page": 4,
+    "y": 0.6255550140917193
+  },
+  {
+    "text": "and capabilities in the United States.",
+    "x": 0.11425634866093891,
+    "page": 4,
+    "y": 0.6478467961131311
+  },
+  {
+    "text": "The dominance of a few cities in the invention and commercialization of AI means",
+    "x": 0.1525541772719772,
+    "page": 4,
+    "y": 0.6705665585815243
+  },
+  {
+    "text": "that geographical disparities in wealth will continue to soar. Not only will this foster",
+    "x": 0.11350727977327078,
+    "page": 4,
+    "y": 0.6930971228764482
+  },
+  {
+    "text": "political and social unrest, but it could, as Coyle suggests, hold back the sorts of AI",
+    "x": 0.11298839196227593,
+    "page": 4,
+    "y": 0.7156559214233801
+  },
+  {
+    "text": "technologies needed for regional economies to grow.",
+    "x": 0.11315029930609183,
+    "page": 4,
+    "y": 0.7378782857047318
+  },
+  {
+    "text": "Part of the solution could lie in somehow loosening the stranglehold that Big",
+    "x": 0.15154567564072982,
+    "page": 4,
+    "y": 0.7606654169834312
+  },
+  {
+    "text": "Tech has on defining the AI agenda. That will likely take increased federal funding for",
+    "x": 0.11337658115268147,
+    "page": 4,
+    "y": 0.7829953910554546
+  },
+  {
+    "text": "research independent of the tech giants.",
+    "x": 0.11256315264479716,
+    "page": 4,
+    "y": 0.8050842470740464
+  },
+  {
+    "text": "A more immediate response is to broaden our digital imaginations to conceive of",
+    "x": 0.1509585140968776,
+    "page": 4,
+    "y": 0.8281398701076885
+  },
+  {
+    "text": "AI technologies that don't simply replace jobs but expand opportunities in the sectors",
+    "x": 0.11230176284489732,
+    "page": 4,
+    "y": 0.8505378686475392
+  },
+  {
+    "text": "that different parts of the country care most about, like health care, education, and",
+    "x": 0.11246365530615564,
+    "page": 4,
+    "y": 0.8728950525066934
+  },
+  {
+    "text": "manufacturing.",
+    "x": 0.11243245402420785,
+    "page": 4,
+    "y": 0.8946477201312758
+  },
+  {
+    "text": "21. Coyle argues in her new book that economic growth should",
+    "x": 0.07860601527085934,
+    "page": 5,
+    "y": 0.13227879081295643
+  },
+  {
+    "text": "[A] give rise to innovations",
+    "x": 0.1187591397523064,
+    "page": 5,
+    "y": 0.15865549598861906
+  },
+  {
+    "text": "[B] diversify career choices",
+    "x": 0.11897059432493273,
+    "page": 5,
+    "y": 0.18399130690598797
+  },
+  {
+    "text": "[C] benefit people equally",
+    "x": 0.1191840207805394,
+    "page": 5,
+    "y": 0.20938509436728386
+  },
+  {
+    "text": "[D] be promoted forcefully",
+    "x": 0.11939352587794654,
+    "page": 5,
+    "y": 0.23435839373015818
+  },
+  {
+    "text": "22. According to Paragraph 2, digital technologies should be used to",
+    "x": 0.07968293227125724,
+    "page": 5,
+    "y": 0.28435192876390825
+  },
+  {
+    "text": "[A] bring about instant prosperity",
+    "x": 0.11984387706134224,
+    "page": 5,
+    "y": 0.3113566723512658
+  },
+  {
+    "text": "[B] reduce people's workload",
+    "x": 0.11976556193615724,
+    "page": 5,
+    "y": 0.337312899632052
+  },
+  {
+    "text": "[C] raise overall work efficiency",
+    "x": 0.11998093039772939,
+    "page": 5,
+    "y": 0.3630831979118812
+  },
+  {
+    "text": "[D] enhance cross-sector cooperation",
+    "x": 0.12019632126706269,
+    "page": 5,
+    "y": 0.38858887745003445
+  },
+  {
+    "text": "23. What does Coyle fear about transformative technologies?",
+    "x": 0.08068348362168935,
+    "page": 5,
+    "y": 0.4393551473702117
+  },
+  {
+    "text": "[A] They may affect work-life balance.",
+    "x": 0.12084247146730143,
+    "page": 5,
+    "y": 0.46582534763070416
+  },
+  {
+    "text": "[B] They may be impractical to deploy.",
+    "x": 0.1213535178063722,
+    "page": 5,
+    "y": 0.49169876293850345
+  },
+  {
+    "text": "[C] They may incur huge expenditure.",
+    "x": 0.12156890120645178,
+    "page": 5,
+    "y": 0.5175495263759196
+  },
+  {
+    "text": "[D] They may be unwelcome to the public.",
+    "x": 0.12198008362337441,
+    "page": 5,
+    "y": 0.5430511244959857
+  },
+  {
+    "text": "24. Several American cities are mentioned to s h o w",
+    "x": 0.08246920292247399,
+    "page": 5,
+    "y": 0.5947556308060213
+  },
+  {
+    "text": "[A] the uneven distribution of AI technologies in the US",
+    "x": 0.12262819076808606,
+    "page": 5,
+    "y": 0.6199289604693435
+  },
+  {
+    "text": "[B] the disappointing prospect of tech jobs in the US",
+    "x": 0.12284358163741936,
+    "page": 5,
+    "y": 0.6458729843100494
+  },
+  {
+    "text": "[C] the fast progress of US regional economies",
+    "x": 0.12306092198197185,
+    "page": 5,
+    "y": 0.6720933201552506
+  },
+  {
+    "text": "[D] the increasing significance of US AI assets",
+    "x": 0.12347406134336739,
+    "page": 5,
+    "y": 0.697973347360351
+  },
+  {
+    "text": "25. With regard to Coyle's concern, the author suggests",
+    "x": 0.08445267071532087,
+    "page": 5,
+    "y": 0.7496358558782705
+  },
+  {
+    "text": "[A] raising funds to start new AI projects",
+    "x": 0.12490537949395866,
+    "page": 5,
+    "y": 0.7758206833861142
+  },
+  {
+    "text": "[B] encouraging collaboration in AI research",
+    "x": 0.125316569380135,
+    "page": 5,
+    "y": 0.8012292251737949
+  },
+  {
+    "text": "[C] guarding against the side effects of AI",
+    "x": 0.125535851730653,
+    "page": 5,
+    "y": 0.8276112668036064
+  },
+  {
+    "text": "[D] redefining the role of AI technologies",
+    "x": 0.1259470341475756,
+    "page": 5,
+    "y": 0.8534981507910931
+  },
+  {
+    "text": "Text 2",
+    "x": 0.48236420499707705,
+    "page": 6,
+    "y": 0.08339972217456527
+  },
+  {
+    "text": "The UK is facing a future construction crisis because of a failure to plant trees to",
+    "x": 0.14852410813932965,
+    "page": 6,
+    "y": 0.13089140697091955
+  },
+  {
+    "text": "produce wood, Confdr has warned. The forestry and wood trade body has called for",
+    "x": 0.10890210473864588,
+    "page": 6,
+    "y": 0.15542643460994546
+  },
+  {
+    "text": "urgent action to reduce the country's reliance on timber imports and provide a stable",
+    "x": 0.10903724782131928,
+    "page": 6,
+    "y": 0.18021857399618882
+  },
+  {
+    "text": "supply of wood for future generations. Currently only 20 per cent of the UK's wood",
+    "x": 0.10927030594857878,
+    "page": 6,
+    "y": 0.2047403160076722
+  },
+  {
+    "text": "requirement is home-grown while it remains the second-largest net importer of timber",
+    "x": 0.1084262014622737,
+    "page": 6,
+    "y": 0.22939516032472043
+  },
+  {
+    "text": "in the world.",
+    "x": 0.10895107720295702,
+    "page": 6,
+    "y": 0.2542542916677465
+  },
+  {
+    "text": "Coming at a time of fresh incentives from the UK government for landowners to",
+    "x": 0.14757034418221468,
+    "page": 6,
+    "y": 0.27889289799557604
+  },
+  {
+    "text": "grow more trees, the trade body says these don't go far enough and fail to promote the",
+    "x": 0.1086318409863262,
+    "page": 6,
+    "y": 0.30356664562835606
+  },
+  {
+    "text": "benefits of planting them to boost timber supplies. uNot only are we facing a carbon",
+    "x": 0.10778578656665955,
+    "page": 6,
+    "y": 0.3285559269152708
+  },
+  {
+    "text": "crisis now, but we will also be facing a future construction crisis because of a failure",
+    "x": 0.10830674002759252,
+    "page": 6,
+    "y": 0.3538852423577298
+  },
+  {
+    "text": "to plant trees to produce wood,“ said Stuart Goodall, chief executive of Confdr. “For",
+    "x": 0.10745872073254618,
+    "page": 6,
+    "y": 0.37907573529387645
+  },
+  {
+    "text": "decades we have not taken responsibility for investing in our domestic wood supply,",
+    "x": 0.10758994153546927,
+    "page": 6,
+    "y": 0.404203244514266
+  },
+  {
+    "text": "leaving us exposed to fluctuating prices and fighting for future supplies of wood as",
+    "x": 0.10742738732059791,
+    "page": 6,
+    "y": 0.429531473323608
+  },
+  {
+    "text": "global demand rises and our own supplies fall.\"",
+    "x": 0.1069710580879321,
+    "page": 6,
+    "y": 0.4545225178265238
+  },
+  {
+    "text": "The UK has ideal conditions for growing wood to build low-carbon homes and",
+    "x": 0.1458801778052339,
+    "page": 6,
+    "y": 0.47996871808784064
+  },
+  {
+    "text": "is a global leader in certifying that its forests are sustainably managed, Confbr says.",
+    "x": 0.1071355697071741,
+    "page": 6,
+    "y": 0.5049785838964417
+  },
+  {
+    "text": "While around three quarters of Scottish homes are built from Scottish timber, the",
+    "x": 0.10648340291432708,
+    "page": 6,
+    "y": 0.5301020336195266
+  },
+  {
+    "text": "use of home-grown wood in England is only around 25 per cent. The causes of the",
+    "x": 0.105831228650471,
+    "page": 6,
+    "y": 0.5552944537917673
+  },
+  {
+    "text": "UK's current position are complex and range from outdated perceptions of productive",
+    "x": 0.105666717031229,
+    "page": 6,
+    "y": 0.5807570150573725
+  },
+  {
+    "text": "forestry to the decimation of trees by grey squirrels. It also encompasses significant",
+    "x": 0.1062875578831368,
+    "page": 6,
+    "y": 0.605884811312925
+  },
+  {
+    "text": "hesitation on behalf of farmers and other landowners to invest in longer-term planting",
+    "x": 0.10534160860148628,
+    "page": 6,
+    "y": 0.6312102927857074
+  },
+  {
+    "text": "projects.",
+    "x": 0.10479127166196661,
+    "page": 6,
+    "y": 0.6558649320776392
+  },
+  {
+    "text": "While productive tree planting can deliver real financial benefits to rural",
+    "x": 0.14340074414836204,
+    "page": 6,
+    "y": 0.6817811729208075
+  },
+  {
+    "text": "economies and contribute to the UK's net-zero strategy, the focus of government",
+    "x": 0.10485003114813092,
+    "page": 6,
+    "y": 0.707193872078105
+  },
+  {
+    "text": "support continues to be on food production and the rewilding and planting of native",
+    "x": 0.10468747693325957,
+    "page": 6,
+    "y": 0.7324547706392224
+  },
+  {
+    "text": "woodland solely for biodiversity. Goodall added: \"While food production and",
+    "x": 0.10364360513601391,
+    "page": 6,
+    "y": 0.7577804571371212
+  },
+  {
+    "text": "biodiversity health are clearly of critical importance, we need our land to also provide",
+    "x": 0.1031853259699865,
+    "page": 6,
+    "y": 0.7831075378058113
+  },
+  {
+    "text": "secure supplies of wood for construction, manufacturing and contribute to net zero.",
+    "x": 0.10351239180409987,
+    "page": 6,
+    "y": 0.8084368327457587
+  },
+  {
+    "text": "uWhile the UK government has stated its ambition for more tree planting, there",
+    "x": 0.14216532315012886,
+    "page": 6,
+    "y": 0.8332135439919932
+  },
+  {
+    "text": "has been little action on the ground. Confdr is now calling for much greater impetus",
+    "x": 0.10250181082317311,
+    "page": 6,
+    "y": 0.8587540968118759
+  },
+  {
+    "text": "behind those aspirations to ensure we have enough wood to meet increasing demand.",
+    "x": 0.10165184159476517,
+    "page": 6,
+    "y": 0.8842135416957119
+  },
+  {
+    "text": "26. It can be learned from Paragraph 1 that the UK needs t o",
+    "x": 0.08225641882268667,
+    "page": 7,
+    "y": 0.1364493532614774
+  },
+  {
+    "text": "[A] increase its domestic wood supply",
+    "x": 0.12220015771478601,
+    "page": 7,
+    "y": 0.16164311866965225
+  },
+  {
+    "text": "[B] reduce its demand for timber",
+    "x": 0.1220044333904801,
+    "page": 7,
+    "y": 0.18697059732141977
+  },
+  {
+    "text": "[C] lower its wood production costs",
+    "x": 0.1220044931445098,
+    "page": 7,
+    "y": 0.2121643627295946
+  },
+  {
+    "text": "[D] lift its control on timber imports",
+    "x": 0.12220030709986028,
+    "page": 7,
+    "y": 0.23702399288526851
+  },
+  {
+    "text": "27. According to Confdr, the UK govemmenfs fresh i n c e n t i v e s .",
+    "x": 0.08176720511222016,
+    "page": 7,
+    "y": 0.2886144432410173
+  },
+  {
+    "text": "[A] can hardly address a construction crisis",
+    "x": 0.12200446326749495,
+    "page": 7,
+    "y": 0.3142760469482871
+  },
+  {
+    "text": "[B] are believed to come at a wrong time",
+    "x": 0.12171080208849895,
+    "page": 7,
+    "y": 0.34027178590805784
+  },
+  {
+    "text": "[C] seem to be misleading for landowners",
+    "x": 0.12171086184252865,
+    "page": 7,
+    "y": 0.3661338422152319
+  },
+  {
+    "text": "[D] will be too costly to put into practice",
+    "x": 0.12171089171954351,
+    "page": 7,
+    "y": 0.3919290673931063
+  },
+  {
+    "text": "28. The UK's exposure to fluctuating wood prices is a result o f",
+    "x": 0.0815715106649291,
+    "page": 7,
+    "y": 0.4432522340196512
+  },
+  {
+    "text": "[A] the govemmenfs inaction on timber imports",
+    "x": 0.1217108319655138,
+    "page": 7,
+    "y": 0.46891383772692097
+  },
+  {
+    "text": "[B] inadequate investment in growing wood",
+    "x": 0.12171080208849895,
+    "page": 7,
+    "y": 0.4947090629047954
+  },
+  {
+    "text": "[C] the competition among timber traders at home",
+    "x": 0.12171080208849895,
+    "page": 7,
+    "y": 0.5205711396059668
+  },
+  {
+    "text": "[D] wood producers9 motive to maximise profits",
+    "x": 0.12171080208849895,
+    "page": 7,
+    "y": 0.5457019691383348
+  },
+  {
+    "text": "29. Which of the following causes the shortage of wood supply in the UK?",
+    "x": 0.08176717523520531,
+    "page": 7,
+    "y": 0.597689531410386
+  },
+  {
+    "text": "[A] Excessive timber consumption in construction.",
+    "x": 0.12200452302152466,
+    "page": 7,
+    "y": 0.6235516081115574
+  },
+  {
+    "text": "[B] Unfavourable conditions for growing wood.",
+    "x": 0.12171086184252865,
+    "page": 7,
+    "y": 0.6494804955480312
+  },
+  {
+    "text": "[C] Outdated technologies of the wood industry.",
+    "x": 0.12200455289853951,
+    "page": 7,
+    "y": 0.6753426130371972
+  },
+  {
+    "text": "[D] Farmers9 unwillingness to plant trees.",
+    "x": 0.12200452302152466,
+    "page": 7,
+    "y": 0.7004734425695653
+  },
+  {
+    "text": "30. What does Goodall think the UK government should do?",
+    "x": 0.08245252407893197,
+    "page": 7,
+    "y": 0.7529288431407115
+  },
+  {
+    "text": "[A] Subsidise the building of low-carbon homes.",
+    "x": 0.12220051623896425,
+    "page": 7,
+    "y": 0.7787908790538882
+  },
+  {
+    "text": "[B] Pay greater attention to boosting rural economies.",
+    "x": 0.12220054611597911,
+    "page": 7,
+    "y": 0.8045861042317626
+  },
+  {
+    "text": "[C] Provide more support for productive tree planting.",
+    "x": 0.12239638994834444,
+    "page": 7,
+    "y": 0.8307155462381274
+  },
+  {
+    "text": "[D] Give priority to pursuing its net-zero strategy.",
+    "x": 0.122690140758385,
+    "page": 7,
+    "y": 0.8565775821513041
+  },
+  {
+    "text": "Text 3",
+    "x": 0.4815451309608484,
+    "page": 8,
+    "y": 0.08518210814294007
+  },
+  {
+    "text": "One of the biggest challenges in keeping unsafe aging drivers off the road is",
+    "x": 0.1486462666625185,
+    "page": 8,
+    "y": 0.13446520246672286
+  },
+  {
+    "text": "convincing them that it's time to turn over the keys. \"It's a complete life-changer”",
+    "x": 0.1097274277847768,
+    "page": 8,
+    "y": 0.1577944584818603
+  },
+  {
+    "text": "when someone stops- or is forced to stop- driving, said former risk manager Anne M.",
+    "x": 0.10918450166599855,
+    "page": 8,
+    "y": 0.18116537241874606
+  },
+  {
+    "text": "Menke.",
+    "x": 0.10961805435113907,
+    "page": 8,
+    "y": 0.20487478643269638
+  },
+  {
+    "text": "“The American Medical Association advises physicians that 'in situations where",
+    "x": 0.1484275346952408,
+    "page": 8,
+    "y": 0.22808828159074437
+  },
+  {
+    "text": "clear evidence of substantial driving impairment implies a strong threat to patient",
+    "x": 0.10970594198799108,
+    "page": 8,
+    "y": 0.25141745562227197
+  },
+  {
+    "text": "and public safety, and where the physician's advice to discontinue driving privileges",
+    "x": 0.10945596472538768,
+    "page": 8,
+    "y": 0.27478975303257375
+  },
+  {
+    "text": "is ignored, it is desirable and ethical to notify the Department of Motor Vehicles,9,9",
+    "x": 0.10940128173356825,
+    "page": 8,
+    "y": 0.2978928982517815
+  },
+  {
+    "text": "Menke wrote. \"Some states require physicians to report, others allow but do not",
+    "x": 0.10934659874174883,
+    "page": 8,
+    "y": 0.3217352486890821
+  },
+  {
+    "text": "mandate reports, while a few consider a report a breach of confidentiality. There could",
+    "x": 0.10909466957943743,
+    "page": 8,
+    "y": 0.345575918462381
+  },
+  {
+    "text": "be liability and penalties if a physician does not act in accordance with state laws on",
+    "x": 0.10874703773144316,
+    "page": 8,
+    "y": 0.3694183098914865
+  },
+  {
+    "text": "reporting and confidentiality,9, she counseled.",
+    "x": 0.10869040283991574,
+    "page": 8,
+    "y": 0.39313952954525333
+  },
+  {
+    "text": "Part of the problem in keeping older drivers safe is that the difficulties are",
+    "x": 0.14779282459019344,
+    "page": 8,
+    "y": 0.4173474448988158
+  },
+  {
+    "text": "addressed piecemeal by different professions with different focuses, including",
+    "x": 0.10906732808352772,
+    "page": 8,
+    "y": 0.4411466719573423
+  },
+  {
+    "text": "gerontologists, highway administration officials, automotive engineers and others,",
+    "x": 0.1090126450917083,
+    "page": 8,
+    "y": 0.46519045612401166
+  },
+  {
+    "text": "said gerontologist Elizabeth Dugan. \"There's not a National Institute of Older Driver",
+    "x": 0.10915325637067284,
+    "page": 8,
+    "y": 0.4888998291461571
+  },
+  {
+    "text": "Studies J she said. \"We need better evidence on what makes drivers unsafe” and what",
+    "x": 0.10958486460610425,
+    "page": 8,
+    "y": 0.5127421385916527
+  },
+  {
+    "text": "can help, said Dugan.",
+    "x": 0.10884664421654203,
+    "page": 8,
+    "y": 0.5364487651628687
+  },
+  {
+    "text": "One thing that does seem to work is requiring drivers to report in person for",
+    "x": 0.14745887094015292,
+    "page": 8,
+    "y": 0.5604679132547821
+  },
+  {
+    "text": "license renewal. Mandatory in-person renewal was associated with a 31 per cent",
+    "x": 0.10873531888319629,
+    "page": 8,
+    "y": 0.5841323182669321
+  },
+  {
+    "text": "reduction in fatal crashes involving drivers 85 or older, according to one study. Passing",
+    "x": 0.10799709849363406,
+    "page": 8,
+    "y": 0.6079741768025736
+  },
+  {
+    "text": "vision tests also produced a similar decline in fatal crashes for those drivers, although",
+    "x": 0.10794045615210776,
+    "page": 8,
+    "y": 0.6318161993054349
+  },
+  {
+    "text": "there appeared to be no benefit from combining the two.",
+    "x": 0.10788578061028722,
+    "page": 8,
+    "y": 0.655524178606213
+  },
+  {
+    "text": "Many older drivers don't see eye doctors or can't afford to. Primary care providers",
+    "x": 0.14669329415468318,
+    "page": 8,
+    "y": 0.6797453343127642
+  },
+  {
+    "text": "have their hands full and may not be able to follow through with patients who have",
+    "x": 0.10748151387076553,
+    "page": 8,
+    "y": 0.7035434136007529
+  },
+  {
+    "text": "trouble driving because they can't turn their heads or remember where they are",
+    "x": 0.10742487897923811,
+    "page": 8,
+    "y": 0.727587320742837
+  },
+  {
+    "text": "going—or have gotten shorter and haven't changed their seat settings sufficiently to",
+    "x": 0.10766313739359465,
+    "page": 8,
+    "y": 0.7514309419260902
+  },
+  {
+    "text": "reach car pedals easily.",
+    "x": 0.1071202112748164,
+    "page": 8,
+    "y": 0.7748020095822443
+  },
+  {
+    "text": "As long as there are other cars on the roads, self-driving cars won't solve the",
+    "x": 0.14573243799842728,
+    "page": 8,
+    "y": 0.7992244350509446
+  },
+  {
+    "text": "problems of crashes, said Dugan. Avoiding dangers posed by all those human drivers",
+    "x": 0.10651869836480272,
+    "page": 8,
+    "y": 0.8231579922541885
+  },
+  {
+    "text": "would require too many algorithms, she said. But we need to do more to improve",
+    "x": 0.10646402282298219,
+    "page": 8,
+    "y": 0.8470007936013432
+  },
+  {
+    "text": "safety, said Dugan. utIf we're going to have 100-year lives, we need cars that a 90-year-",
+    "x": 0.10709091787919868,
+    "page": 8,
+    "y": 0.8706228130872076
+  },
+  {
+    "text": "old can drive comfortably.”",
+    "x": 0.10664563889581243,
+    "page": 8,
+    "y": 0.8939305893965679
+  },
+  {
+    "text": "31. According to Paragraph 1, keeping unsafe aging drivers off the road",
+    "x": 0.08481260758799478,
+    "page": 9,
+    "y": 0.13413436611101145
+  },
+  {
+    "text": "[A] is a new safety measure",
+    "x": 0.1244903805168764,
+    "page": 9,
+    "y": 0.16037049717977309
+  },
+  {
+    "text": "[B] has become a disputed issue",
+    "x": 0.12433182310629448,
+    "page": 9,
+    "y": 0.18557497881335036
+  },
+  {
+    "text": "[C] can be a tough task to complete",
+    "x": 0.12476052476805201,
+    "page": 9,
+    "y": 0.21067422003907782
+  },
+  {
+    "text": "[D] will be beneficial to their health",
+    "x": 0.12528318997228363,
+    "page": 9,
+    "y": 0.23549885196357878
+  },
+  {
+    "text": "32. The American Medical Association's a d v i c e",
+    "x": 0.08640800892276544,
+    "page": 9,
+    "y": 0.2869233357506668
+  },
+  {
+    "text": "[A] has won support from drivers",
+    "x": 0.1250111041713152,
+    "page": 9,
+    "y": 0.31281343383158877
+  },
+  {
+    "text": "[B] is generally considered unrealistic",
+    "x": 0.12515008179898626,
+    "page": 9,
+    "y": 0.3386865369468516
+  },
+  {
+    "text": "[C] is widely dismissed as unnecessary",
+    "x": 0.12558073994553504,
+    "page": 9,
+    "y": 0.36430045664698374
+  },
+  {
+    "text": "[D] has met with different responses",
+    "x": 0.1257177685559141,
+    "page": 9,
+    "y": 0.39013777659714166
+  },
+  {
+    "text": "33. According to Dugan, efforts to keep older drivers s a f e",
+    "x": 0.08625336448176602,
+    "page": 9,
+    "y": 0.4412854910513966
+  },
+  {
+    "text": "[A] have brought about big changes",
+    "x": 0.12583718880317196,
+    "page": 9,
+    "y": 0.4677400909772708
+  },
+  {
+    "text": "[B] need to be well coordinated",
+    "x": 0.12626981090201117,
+    "page": 9,
+    "y": 0.4936140091988003
+  },
+  {
+    "text": "[C] have gained public recognition",
+    "x": 0.12640683951239023,
+    "page": 9,
+    "y": 0.5193795182868683
+  },
+  {
+    "text": "[D] call for relevant legal support",
+    "x": 0.12673962114688242,
+    "page": 9,
+    "y": 0.5450525128136743
+  },
+  {
+    "text": "34. Some older drivers have trouble driving because they tend to",
+    "x": 0.08805822916918694,
+    "page": 9,
+    "y": 0.5957076585510068
+  },
+  {
+    "text": "[A] stick with bad driving habits",
+    "x": 0.12764009700580164,
+    "page": 9,
+    "y": 0.6221327108747158
+  },
+  {
+    "text": "[B] have a weakened memory",
+    "x": 0.12777908210097194,
+    "page": 9,
+    "y": 0.6481641891375841
+  },
+  {
+    "text": "[C] suffer from chronic pains",
+    "x": 0.12791611071135098,
+    "page": 9,
+    "y": 0.6739588382746842
+  },
+  {
+    "text": "[D] neglect car maintenance",
+    "x": 0.12825086376563283,
+    "page": 9,
+    "y": 0.6998213042531675
+  },
+  {
+    "text": "35. Dugan thinks that the solution to the problems of crashes may lie in",
+    "x": 0.08976326832725927,
+    "page": 9,
+    "y": 0.7499948444528636
+  },
+  {
+    "text": "[A] upgrading self-driving vehicles",
+    "x": 0.12915133962455205,
+    "page": 9,
+    "y": 0.776844444875545
+  },
+  {
+    "text": "[B] developing senior-friendly cars",
+    "x": 0.1294860628088371,
+    "page": 9,
+    "y": 0.8028261201455226
+  },
+  {
+    "text": "[C] renovating transport facilities",
+    "x": 0.13011249638199662,
+    "page": 9,
+    "y": 0.828706314685305
+  },
+  {
+    "text": "[D] adjusting the age limit for drivers",
+    "x": 0.13025148147716692,
+    "page": 9,
+    "y": 0.8545184478518241
+  },
+  {
+    "text": "Text 4",
+    "x": 0.4758451097517796,
+    "page": 10,
+    "y": 0.0860736660161914
+  },
+  {
+    "text": "If you look at the apps on your phone, chances are you have at least one related to",
+    "x": 0.14257534973872826,
+    "page": 10,
+    "y": 0.13487375729717913
+  },
+  {
+    "text": "your health- and probably several. Whether it is a mental health app, a fitness tracker,",
+    "x": 0.10313807230746168,
+    "page": 10,
+    "y": 0.15882699510797096
+  },
+  {
+    "text": "a connected health device or something else, many of us are taking advantage of this",
+    "x": 0.10395089054922221,
+    "page": 10,
+    "y": 0.18276484480390426
+  },
+  {
+    "text": "technology to keep better track of our health in some shape or form. Recent research from",
+    "x": 0.10349367842485883,
+    "page": 10,
+    "y": 0.20676981287315668
+  },
+  {
+    "text": "the Organization for the Review of Care and Health Applications found that 350,000 health",
+    "x": 0.103427245448033,
+    "page": 10,
+    "y": 0.2309081991722995
+  },
+  {
+    "text": "apps were available on the market, 90,000 of which launched in 2020 alone.",
+    "x": 0.10375159161874468,
+    "page": 10,
+    "y": 0.2550474858398649
+  },
+  {
+    "text": "While these apps have a great deal to offer, it is not always clear how the personal",
+    "x": 0.1419813660307506,
+    "page": 10,
+    "y": 0.27890209238254754
+  },
+  {
+    "text": "information we input is collected, safeguarded and shared online. Existing health privacy",
+    "x": 0.10362067848007431,
+    "page": 10,
+    "y": 0.3026546708126177
+  },
+  {
+    "text": "law, such as the Health Insurance Portability and Accountability Act, is primarily focused",
+    "x": 0.10355229268826717,
+    "page": 10,
+    "y": 0.32712856712668126
+  },
+  {
+    "text": "on the way hospitals, doctors9 offices, clinics and insurance companies store health records",
+    "x": 0.10348390689646002,
+    "page": 10,
+    "y": 0.35132191682543845
+  },
+  {
+    "text": "online. The health information these apps and health data tracking wearables are collecting",
+    "x": 0.10341747391963418,
+    "page": 10,
+    "y": 0.37621071927895877
+  },
+  {
+    "text": "typically does not receive the same legal protections.",
+    "x": 0.10266523020975558,
+    "page": 10,
+    "y": 0.4006846565188597
+  },
+  {
+    "text": "Without additional protections in place, companies may share (and potentially",
+    "x": 0.14157692463183624,
+    "page": 10,
+    "y": 0.42520848235453873
+  },
+  {
+    "text": "monetize) personal health information in a way consumers may not have authorized or",
+    "x": 0.10282349766514881,
+    "page": 10,
+    "y": 0.4495664357712773
+  },
+  {
+    "text": "anticipated. In 2021, Flo Health faced a Federal Trade Commission (FTC) investigation.",
+    "x": 0.10314588356738691,
+    "page": 10,
+    "y": 0.4740405367145278
+  },
+  {
+    "text": "The FTC alleged in a complaint that “despite express privacy claims, the company took",
+    "x": 0.10307945804405336,
+    "page": 10,
+    "y": 0.498514187473567
+  },
+  {
+    "text": "control of users9 sensitive fertility data and shared it with third parties.\" Flo Health and",
+    "x": 0.1028156789517313,
+    "page": 10,
+    "y": 0.5226897344330597
+  },
+  {
+    "text": "the FTC settled the matter with a Consent Order requiring the company to get app users9",
+    "x": 0.10274729315992416,
+    "page": 10,
+    "y": 0.5475957257382837
+  },
+  {
+    "text": "express affirmative consent before sharing their health information as well as to instruct the",
+    "x": 0.10316932480065485,
+    "page": 10,
+    "y": 0.5720692946456482
+  },
+  {
+    "text": "third parties to delete the data they had obtained.",
+    "x": 0.10241708854426855,
+    "page": 10,
+    "y": 0.5965429863305247
+  },
+  {
+    "text": "Section 5 of the FTC Act empowers the FTC to initiate enforcement action against",
+    "x": 0.1422099795464246,
+    "page": 10,
+    "y": 0.6210009624938437
+  },
+  {
+    "text": "unfair or deceptive acts, meaning the FTC can only act after the fact if a company's privacy",
+    "x": 0.10179379770458674,
+    "page": 10,
+    "y": 0.6452888099511337
+  },
+  {
+    "text": "practices are misleading or cause unjustified consumer harm. While the FTC is doing",
+    "x": 0.1017273647277609,
+    "page": 10,
+    "y": 0.6698969020859982
+  },
+  {
+    "text": "what it can to ensure apps are keeping their promises to consumers around the handling of",
+    "x": 0.10165897893595376,
+    "page": 10,
+    "y": 0.6945052397758869
+  },
+  {
+    "text": "their sensitive health information, the rate at which these health apps are hitting the market",
+    "x": 0.10178597899116922,
+    "page": 10,
+    "y": 0.7191129635782147
+  },
+  {
+    "text": "demonstrates just how immense of a challenge this is.",
+    "x": 0.10201262478487731,
+    "page": 10,
+    "y": 0.7434525412939653
+  },
+  {
+    "text": "As to the prospects for federal legislation, commentators suggest that comprehensive",
+    "x": 0.139849682141349,
+    "page": 10,
+    "y": 0.7682449224745955
+  },
+  {
+    "text": "federal privacy legislation seems unlikely in the short term. States have begun",
+    "x": 0.10138738858370648,
+    "page": 10,
+    "y": 0.7926692166737428
+  },
+  {
+    "text": "implementing their own solutions to shore up protections for consumer-generated health",
+    "x": 0.10131900279189933,
+    "page": 10,
+    "y": 0.8172774315861193
+  },
+  {
+    "text": "data. California has been at the forefront of state privacy efforts with the California",
+    "x": 0.10095948359104727,
+    "page": 10,
+    "y": 0.8419508822832951
+  },
+  {
+    "text": "Consumer Privacy Act of 2018. Virginia, Colorado and Utah have also recently passed",
+    "x": 0.10089109779924013,
+    "page": 10,
+    "y": 0.866559670157395
+  },
+  {
+    "text": "state consumer data privacy legislation.",
+    "x": 0.10111775104644051,
+    "page": 10,
+    "y": 0.8903647564368362
+  },
+  {
+    "text": "36. The research findings are cited in Paragraph 1 to s h o w",
+    "x": 0.08419329513937561,
+    "page": 11,
+    "y": 0.13466052739494727
+  },
+  {
+    "text": "[A] the prevalence of health apps",
+    "x": 0.12319831403159397,
+    "page": 11,
+    "y": 0.16000381143690276
+  },
+  {
+    "text": "[B] the public concern over health",
+    "x": 0.12325701718859494,
+    "page": 11,
+    "y": 0.18516771096723036
+  },
+  {
+    "text": "[C] the popularity of smartphones",
+    "x": 0.12331572781134145,
+    "page": 11,
+    "y": 0.21047779980647746
+  },
+  {
+    "text": "[D] the advancement of technology",
+    "x": 0.12337444589983347,
+    "page": 11,
+    "y": 0.23530163700236845
+  },
+  {
+    "text": "37. What does the author imply about existing health privacy law?",
+    "x": 0.0838625476814769,
+    "page": 11,
+    "y": 0.28651164595305034
+  },
+  {
+    "text": "[A] Its coverage needs to be extended.",
+    "x": 0.12355449728446945,
+    "page": 11,
+    "y": 0.31266347465618616
+  },
+  {
+    "text": "[B] Its enforcement needs strengthening.",
+    "x": 0.12361516393254143,
+    "page": 11,
+    "y": 0.3382806344037282
+  },
+  {
+    "text": "[C] It has discouraged medical misconduct.",
+    "x": 0.12367583804635894,
+    "page": 11,
+    "y": 0.3640951721337338
+  },
+  {
+    "text": "[D] It has disappointed insurance companies.",
+    "x": 0.12373454866910544,
+    "page": 11,
+    "y": 0.3897188527314089
+  },
+  {
+    "text": "38. Before sharing its users' health information, Flo Health is required to",
+    "x": 0.08422460647607434,
+    "page": 11,
+    "y": 0.44109418561061936
+  },
+  {
+    "text": "[A] seek the approval of the FTC",
+    "x": 0.12391656354481242,
+    "page": 11,
+    "y": 0.4673626967758227
+  },
+  {
+    "text": "[B] find qualified third parties",
+    "x": 0.12378152313989906,
+    "page": 11,
+    "y": 0.49336858070191897
+  },
+  {
+    "text": "[C] remove irrelevant personal data",
+    "x": 0.12384023376264555,
+    "page": 11,
+    "y": 0.5189534622413026
+  },
+  {
+    "text": "[D] obtain their explicit permission",
+    "x": 0.1240966149294484,
+    "page": 11,
+    "y": 0.5445982948465966
+  },
+  {
+    "text": "39. What challenge is the FTC currently faced with?",
+    "x": 0.08478237232365715,
+    "page": 11,
+    "y": 0.5962140433191486
+  },
+  {
+    "text": "[A] The complexity of health information.",
+    "x": 0.12427665884833887,
+    "page": 11,
+    "y": 0.621917359799073
+  },
+  {
+    "text": "[B] The rapid increase in new health apps.",
+    "x": 0.12463090100737992,
+    "page": 11,
+    "y": 0.6477588775465041
+  },
+  {
+    "text": "[C] The subtle deceptiveness of health apps.",
+    "x": 0.12488728217418277,
+    "page": 11,
+    "y": 0.6733798682934993
+  },
+  {
+    "text": "[D] The difficulty in assessing consumer harm.",
+    "x": 0.12494599279692928,
+    "page": 11,
+    "y": 0.6991251219908416
+  },
+  {
+    "text": "40. It can be learned from the last paragraph that health data protection",
+    "x": 0.08514249002442016,
+    "page": 11,
+    "y": 0.7502055494227866
+  },
+  {
+    "text": "[A] has been embraced by health app developers",
+    "x": 0.12532372219136712,
+    "page": 11,
+    "y": 0.7766989484069522
+  },
+  {
+    "text": "[B] has been a focus of federal policy-making",
+    "x": 0.12567795688466266,
+    "page": 11,
+    "y": 0.8025012187876451
+  },
+  {
+    "text": "[C] has encountered opposition in California",
+    "x": 0.12593431565422894,
+    "page": 11,
+    "y": 0.828488599801489
+  },
+  {
+    "text": "[D] has gained legislative support in some states",
+    "x": 0.12628660925369004,
+    "page": 11,
+    "y": 0.8540909246149785
+  }
+]

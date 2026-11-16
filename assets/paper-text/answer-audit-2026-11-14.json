@@ -1,0 +1,3290 @@
+{
+  "date": "2026-11-14",
+  "scope": "Delivered 1.1.0 APK: 340 past reading-A questions and 30 original practice questions",
+  "apk": "/Users/hetao/Documents/ChatGPT/学习/拾词英语二/releases/拾词英语二-1.1.0-Android.apk",
+  "apkSHA256": "6a9d8e318cc4956c4308e59770c161b2e31c16668848eaa8b55c0b3f63d25a58",
+  "embeddedHtmlSHA256": "79f6e1ade3958c53116d8687a421f7a73c7dc1239af07abf47f43ff6d676a43d",
+  "pastQuestions": 340,
+  "gradedAnswersMatchingPDF": 339,
+  "disputedReferencePreserved": 1,
+  "transcriptionMismatches": 0,
+  "originalQuestionsReviewedAgainstPassages": 30,
+  "releaseMatchesCurrentQuestionSource": true,
+  "sources": [
+    {
+      "year": 2010,
+      "path": "/Users/hetao/112/【2】2010-2025年考研英语二真题及解析/02、解析部分/速查版/2010考研英语二真题答案.pdf",
+      "sha256": "5026bc9d664971e73d3b4fa64f6f88e1b8b8fb89e99990329940529dd5eed1ee",
+      "totalPdfPages": 12,
+      "answerPages": [
+        1
+      ],
+      "readMethod": "text extraction with visual cross-check"
+    },
+    {
+      "year": 2011,
+      "path": "/Users/hetao/112/【2】2010-2025年考研英语二真题及解析/02、解析部分/速查版/2011考研英语二真题答案.pdf",
+      "sha256": "1319cef6841bf489ded2b8a1415351fd0eb349e51eeba6c39e21c04a64591b8b",
+      "totalPdfPages": 1,
+      "answerPages": [
+        1
+      ],
+      "readMethod": "text extraction with visual cross-check"
+    },
+    {
+      "year": 2012,
+      "path": "/Users/hetao/112/【2】2010-2025年考研英语二真题及解析/02、解析部分/速查版/2012考研英语二真题答案.pdf",
+      "sha256": "0b05e71c6741cc9216085f9b91aacbc05b4e6bbab547f5db8cc6a7799d82ee87",
+      "totalPdfPages": 1,
+      "answerPages": [
+        1
+      ],
+      "readMethod": "text extraction with visual cross-check"
+    },
+    {
+      "year": 2013,
+      "path": "/Users/hetao/112/【2】2010-2025年考研英语二真题及解析/02、解析部分/速查版/2013考研英语二真题答案.pdf",
+      "sha256": "9c5439f6cc8ec44e90899b884a1f33084c2559f636325e63d3a1dd0bb658d8c5",
+      "totalPdfPages": 1,
+      "answerPages": [
+        1
+      ],
+      "readMethod": "text extraction with visual cross-check"
+    },
+    {
+      "year": 2014,
+      "path": "/Users/hetao/112/【2】2010-2025年考研英语二真题及解析/02、解析部分/速查版/2014考研英语二真题答案.pdf",
+      "sha256": "561ffe1fc19a52167e8707ae2ba0b881b3016151d6e9a7590d5cbe770242d61c",
+      "totalPdfPages": 1,
+      "answerPages": [
+        1
+      ],
+      "readMethod": "text extraction with visual cross-check"
+    },
+    {
+      "year": 2015,
+      "path": "/Users/hetao/112/【2】2010-2025年考研英语二真题及解析/02、解析部分/速查版/2015考研英语二真题答案.pdf",
+      "sha256": "936d29fab720a37b4ae5a25e78e00bb5f0d6bca1d9f746a1a30688cdfd0edee2",
+      "totalPdfPages": 1,
+      "answerPages": [
+        1
+      ],
+      "readMethod": "text extraction with visual cross-check"
+    },
+    {
+      "year": 2016,
+      "path": "/Users/hetao/112/【2】2010-2025年考研英语二真题及解析/02、解析部分/速查版/2016考研英语二真题答案.pdf",
+      "sha256": "2788572247fcac7e84f285577cb6113a86d183e4b2b04bb09878d3532e2f7493",
+      "totalPdfPages": 1,
+      "answerPages": [
+        1
+      ],
+      "readMethod": "text extraction with visual cross-check"
+    },
+    {
+      "year": 2017,
+      "path": "/Users/hetao/112/【2】2010-2025年考研英语二真题及解析/02、解析部分/速查版/2017考研英语二真题答案.pdf",
+      "sha256": "4ce801d89b33f7e39da7c3b867cb64fab03bd335d52616af62c6ce4c13dae309",
+      "totalPdfPages": 1,
+      "answerPages": [
+        1
+      ],
+      "readMethod": "text extraction with visual cross-check"
+    },
+    {
+      "year": 2018,
+      "path": "/Users/hetao/112/【2】2010-2025年考研英语二真题及解析/02、解析部分/速查版/2018考研英语二真题答案.pdf",
+      "sha256": "ceb71bc54eb2fe286512851597c155e898087026f6e622214999725497b09339",
+      "totalPdfPages": 1,
+      "answerPages": [
+        1
+      ],
+      "readMethod": "text extraction with visual cross-check"
+    },
+    {
+      "year": 2019,
+      "path": "/Users/hetao/112/【2】2010-2025年考研英语二真题及解析/02、解析部分/速查版/2019考研英语二真题答案.pdf",
+      "sha256": "15452cb564604b851bc034942613294041802df4967b3406e1341aef5130dd10",
+      "totalPdfPages": 1,
+      "answerPages": [
+        1
+      ],
+      "readMethod": "text extraction with visual cross-check"
+    },
+    {
+      "year": 2020,
+      "path": "/Users/hetao/112/【2】2010-2025年考研英语二真题及解析/02、解析部分/速查版/2020考研英语二真题答案.pdf",
+      "sha256": "ea98b06525c79230a55e420739ab0cafe01124899ece4619658f8a0a736a6261",
+      "totalPdfPages": 1,
+      "answerPages": [
+        1
+      ],
+      "readMethod": "text extraction with visual cross-check"
+    },
+    {
+      "year": 2021,
+      "path": "/Users/hetao/112/【2】2010-2025年考研英语二真题及解析/02、解析部分/速查版/2021考研英语二真题答案.pdf",
+      "sha256": "3f03a9487e126edb54ce957415cb7b73084013297e4de6797ce974e20d54b4d2",
+      "totalPdfPages": 1,
+      "answerPages": [
+        1
+      ],
+      "readMethod": "text extraction with visual cross-check"
+    },
+    {
+      "year": 2022,
+      "path": "/Users/hetao/112/【2】2010-2025年考研英语二真题及解析/02、解析部分/速查版/2022考研英语二真题答案.pdf",
+      "sha256": "d6453d0557ad46d86b14c5cec1c31b68a014ee81e729e548be0ae500306f0e46",
+      "totalPdfPages": 1,
+      "answerPages": [
+        1
+      ],
+      "readMethod": "text extraction with visual cross-check"
+    },
+    {
+      "year": 2023,
+      "path": "/Users/hetao/112/【2】2010-2025年考研英语二真题及解析/02、解析部分/速查版/2023考研英语二真题答案.pdf",
+      "sha256": "f580ea8a90f21d372d5283503dd73289eb9d7403a79d7a9050fc4ad3c82f746c",
+      "totalPdfPages": 1,
+      "answerPages": [
+        1
+      ],
+      "readMethod": "text extraction with visual cross-check"
+    },
+    {
+      "year": 2024,
+      "path": "/Users/hetao/112/【2】2010-2025年考研英语二真题及解析/02、解析部分/速查版/2024考研英语二真题答案.pdf",
+      "sha256": "a35dc7bfd69a8637264af4c45b87228214cff8e6a69c9248f7ce37207901058c",
+      "totalPdfPages": 1,
+      "answerPages": [
+        1
+      ],
+      "readMethod": "text extraction with visual cross-check"
+    },
+    {
+      "year": 2025,
+      "path": "/Users/hetao/112/【2】2010-2025年考研英语二真题及解析/02、解析部分/速查版/2025年考研英语二真题答案.pdf",
+      "sha256": "f3ef5f45d1ac13832fe436a469f4392ff395f76659737a452424a1fb72505a85",
+      "totalPdfPages": 6,
+      "answerPages": [
+        2,
+        3
+      ],
+      "readMethod": "visual transcription"
+    },
+    {
+      "year": 2026,
+      "path": "/Users/hetao/112/【3】2026年英语二真题及答案/2026年考研（英语二）真题试题参考答案.pdf",
+      "sha256": "4a9edb2439d748ebe7b7ca1f3a90121dd72bd1e45f4fb910d9e1b112a6d29af2",
+      "totalPdfPages": 8,
+      "answerPages": [
+        3,
+        4
+      ],
+      "readMethod": "text extraction with visual cross-check"
+    },
+    {
+      "years": "2010-2023",
+      "path": "/Users/hetao/112/【2】2010-2025年考研英语二真题及解析/02、解析部分/速查版/2010-2023年真题答案速查合集.pdf",
+      "sha256": "667e02f7742b2378b12de1b5f1d511dca4591254ec170726d613581554918cec",
+      "readMethod": "all 280 reading-A keys visually reviewed; 2021 scanned page and 2018 question 29 verified by image"
+    },
+    {
+      "year": 2025,
+      "path": "/Users/hetao/112/【2】2010-2025年考研英语二真题及解析/01、真题部分/2025年考研英语二真题.pdf",
+      "sha256": "01420693fa85dea0cee6dd6a1444590e9289271142a3aba20f40e38c277448f0",
+      "answerPages": [],
+      "passageAndQuestionPages": [
+        6,
+        7
+      ],
+      "readMethod": "visual review of Text 2 and question 30"
+    }
+  ],
+  "questionComparisons": [
+    {
+      "year": 2010,
+      "text": 1,
+      "number": 21,
+      "pdfAnswer": "D",
+      "apkAnswer": "D",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2010,
+      "text": 1,
+      "number": 22,
+      "pdfAnswer": "A",
+      "apkAnswer": "A",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2010,
+      "text": 1,
+      "number": 23,
+      "pdfAnswer": "B",
+      "apkAnswer": "B",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2010,
+      "text": 1,
+      "number": 24,
+      "pdfAnswer": "C",
+      "apkAnswer": "C",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2010,
+      "text": 1,
+      "number": 25,
+      "pdfAnswer": "C",
+      "apkAnswer": "C",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2010,
+      "text": 2,
+      "number": 26,
+      "pdfAnswer": "A",
+      "apkAnswer": "A",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2010,
+      "text": 2,
+      "number": 27,
+      "pdfAnswer": "C",
+      "apkAnswer": "C",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2010,
+      "text": 2,
+      "number": 28,
+      "pdfAnswer": "B",
+      "apkAnswer": "B",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2010,
+      "text": 2,
+      "number": 29,
+      "pdfAnswer": "D",
+      "apkAnswer": "D",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2010,
+      "text": 2,
+      "number": 30,
+      "pdfAnswer": "B",
+      "apkAnswer": "B",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2010,
+      "text": 3,
+      "number": 31,
+      "pdfAnswer": "A",
+      "apkAnswer": "A",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2010,
+      "text": 3,
+      "number": 32,
+      "pdfAnswer": "A",
+      "apkAnswer": "A",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2010,
+      "text": 3,
+      "number": 33,
+      "pdfAnswer": "D",
+      "apkAnswer": "D",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2010,
+      "text": 3,
+      "number": 34,
+      "pdfAnswer": "C",
+      "apkAnswer": "C",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2010,
+      "text": 3,
+      "number": 35,
+      "pdfAnswer": "B",
+      "apkAnswer": "B",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2010,
+      "text": 4,
+      "number": 36,
+      "pdfAnswer": "D",
+      "apkAnswer": "D",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2010,
+      "text": 4,
+      "number": 37,
+      "pdfAnswer": "A",
+      "apkAnswer": "A",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2010,
+      "text": 4,
+      "number": 38,
+      "pdfAnswer": "C",
+      "apkAnswer": "C",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2010,
+      "text": 4,
+      "number": 39,
+      "pdfAnswer": "B",
+      "apkAnswer": "B",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2010,
+      "text": 4,
+      "number": 40,
+      "pdfAnswer": "D",
+      "apkAnswer": "D",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2011,
+      "text": 1,
+      "number": 21,
+      "pdfAnswer": "B",
+      "apkAnswer": "B",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2011,
+      "text": 1,
+      "number": 22,
+      "pdfAnswer": "D",
+      "apkAnswer": "D",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2011,
+      "text": 1,
+      "number": 23,
+      "pdfAnswer": "C",
+      "apkAnswer": "C",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2011,
+      "text": 1,
+      "number": 24,
+      "pdfAnswer": "A",
+      "apkAnswer": "A",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2011,
+      "text": 1,
+      "number": 25,
+      "pdfAnswer": "B",
+      "apkAnswer": "B",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2011,
+      "text": 2,
+      "number": 26,
+      "pdfAnswer": "D",
+      "apkAnswer": "D",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2011,
+      "text": 2,
+      "number": 27,
+      "pdfAnswer": "B",
+      "apkAnswer": "B",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2011,
+      "text": 2,
+      "number": 28,
+      "pdfAnswer": "C",
+      "apkAnswer": "C",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2011,
+      "text": 2,
+      "number": 29,
+      "pdfAnswer": "A",
+      "apkAnswer": "A",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2011,
+      "text": 2,
+      "number": 30,
+      "pdfAnswer": "A",
+      "apkAnswer": "A",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2011,
+      "text": 3,
+      "number": 31,
+      "pdfAnswer": "C",
+      "apkAnswer": "C",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2011,
+      "text": 3,
+      "number": 32,
+      "pdfAnswer": "D",
+      "apkAnswer": "D",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2011,
+      "text": 3,
+      "number": 33,
+      "pdfAnswer": "C",
+      "apkAnswer": "C",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2011,
+      "text": 3,
+      "number": 34,
+      "pdfAnswer": "D",
+      "apkAnswer": "D",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2011,
+      "text": 3,
+      "number": 35,
+      "pdfAnswer": "B",
+      "apkAnswer": "B",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2011,
+      "text": 4,
+      "number": 36,
+      "pdfAnswer": "B",
+      "apkAnswer": "B",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2011,
+      "text": 4,
+      "number": 37,
+      "pdfAnswer": "C",
+      "apkAnswer": "C",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2011,
+      "text": 4,
+      "number": 38,
+      "pdfAnswer": "B",
+      "apkAnswer": "B",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2011,
+      "text": 4,
+      "number": 39,
+      "pdfAnswer": "A",
+      "apkAnswer": "A",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2011,
+      "text": 4,
+      "number": 40,
+      "pdfAnswer": "D",
+      "apkAnswer": "D",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2012,
+      "text": 1,
+      "number": 21,
+      "pdfAnswer": "A",
+      "apkAnswer": "A",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2012,
+      "text": 1,
+      "number": 22,
+      "pdfAnswer": "C",
+      "apkAnswer": "C",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2012,
+      "text": 1,
+      "number": 23,
+      "pdfAnswer": "D",
+      "apkAnswer": "D",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2012,
+      "text": 1,
+      "number": 24,
+      "pdfAnswer": "B",
+      "apkAnswer": "B",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2012,
+      "text": 1,
+      "number": 25,
+      "pdfAnswer": "A",
+      "apkAnswer": "A",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2012,
+      "text": 2,
+      "number": 26,
+      "pdfAnswer": "C",
+      "apkAnswer": "C",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2012,
+      "text": 2,
+      "number": 27,
+      "pdfAnswer": "B",
+      "apkAnswer": "B",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2012,
+      "text": 2,
+      "number": 28,
+      "pdfAnswer": "B",
+      "apkAnswer": "B",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2012,
+      "text": 2,
+      "number": 29,
+      "pdfAnswer": "A",
+      "apkAnswer": "A",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2012,
+      "text": 2,
+      "number": 30,
+      "pdfAnswer": "C",
+      "apkAnswer": "C",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2012,
+      "text": 3,
+      "number": 31,
+      "pdfAnswer": "A",
+      "apkAnswer": "A",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2012,
+      "text": 3,
+      "number": 32,
+      "pdfAnswer": "B",
+      "apkAnswer": "B",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2012,
+      "text": 3,
+      "number": 33,
+      "pdfAnswer": "A",
+      "apkAnswer": "A",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2012,
+      "text": 3,
+      "number": 34,
+      "pdfAnswer": "C",
+      "apkAnswer": "C",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2012,
+      "text": 3,
+      "number": 35,
+      "pdfAnswer": "D",
+      "apkAnswer": "D",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2012,
+      "text": 4,
+      "number": 36,
+      "pdfAnswer": "D",
+      "apkAnswer": "D",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2012,
+      "text": 4,
+      "number": 37,
+      "pdfAnswer": "D",
+      "apkAnswer": "D",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2012,
+      "text": 4,
+      "number": 38,
+      "pdfAnswer": "B",
+      "apkAnswer": "B",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2012,
+      "text": 4,
+      "number": 39,
+      "pdfAnswer": "D",
+      "apkAnswer": "D",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2012,
+      "text": 4,
+      "number": 40,
+      "pdfAnswer": "C",
+      "apkAnswer": "C",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2013,
+      "text": 1,
+      "number": 21,
+      "pdfAnswer": "A",
+      "apkAnswer": "A",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2013,
+      "text": 1,
+      "number": 22,
+      "pdfAnswer": "D",
+      "apkAnswer": "D",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2013,
+      "text": 1,
+      "number": 23,
+      "pdfAnswer": "B",
+      "apkAnswer": "B",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2013,
+      "text": 1,
+      "number": 24,
+      "pdfAnswer": "B",
+      "apkAnswer": "B",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2013,
+      "text": 1,
+      "number": 25,
+      "pdfAnswer": "C",
+      "apkAnswer": "C",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2013,
+      "text": 2,
+      "number": 26,
+      "pdfAnswer": "A",
+      "apkAnswer": "A",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2013,
+      "text": 2,
+      "number": 27,
+      "pdfAnswer": "C",
+      "apkAnswer": "C",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2013,
+      "text": 2,
+      "number": 28,
+      "pdfAnswer": "C",
+      "apkAnswer": "C",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2013,
+      "text": 2,
+      "number": 29,
+      "pdfAnswer": "B",
+      "apkAnswer": "B",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2013,
+      "text": 2,
+      "number": 30,
+      "pdfAnswer": "D",
+      "apkAnswer": "D",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2013,
+      "text": 3,
+      "number": 31,
+      "pdfAnswer": "D",
+      "apkAnswer": "D",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2013,
+      "text": 3,
+      "number": 32,
+      "pdfAnswer": "A",
+      "apkAnswer": "A",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2013,
+      "text": 3,
+      "number": 33,
+      "pdfAnswer": "B",
+      "apkAnswer": "B",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2013,
+      "text": 3,
+      "number": 34,
+      "pdfAnswer": "C",
+      "apkAnswer": "C",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2013,
+      "text": 3,
+      "number": 35,
+      "pdfAnswer": "B",
+      "apkAnswer": "B",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2013,
+      "text": 4,
+      "number": 36,
+      "pdfAnswer": "B",
+      "apkAnswer": "B",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2013,
+      "text": 4,
+      "number": 37,
+      "pdfAnswer": "C",
+      "apkAnswer": "C",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2013,
+      "text": 4,
+      "number": 38,
+      "pdfAnswer": "A",
+      "apkAnswer": "A",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2013,
+      "text": 4,
+      "number": 39,
+      "pdfAnswer": "D",
+      "apkAnswer": "D",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2013,
+      "text": 4,
+      "number": 40,
+      "pdfAnswer": "C",
+      "apkAnswer": "C",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2014,
+      "text": 1,
+      "number": 21,
+      "pdfAnswer": "B",
+      "apkAnswer": "B",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2014,
+      "text": 1,
+      "number": 22,
+      "pdfAnswer": "A",
+      "apkAnswer": "A",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2014,
+      "text": 1,
+      "number": 23,
+      "pdfAnswer": "D",
+      "apkAnswer": "D",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2014,
+      "text": 1,
+      "number": 24,
+      "pdfAnswer": "B",
+      "apkAnswer": "B",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2014,
+      "text": 1,
+      "number": 25,
+      "pdfAnswer": "C",
+      "apkAnswer": "C",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2014,
+      "text": 2,
+      "number": 26,
+      "pdfAnswer": "A",
+      "apkAnswer": "A",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2014,
+      "text": 2,
+      "number": 27,
+      "pdfAnswer": "C",
+      "apkAnswer": "C",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2014,
+      "text": 2,
+      "number": 28,
+      "pdfAnswer": "B",
+      "apkAnswer": "B",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2014,
+      "text": 2,
+      "number": 29,
+      "pdfAnswer": "A",
+      "apkAnswer": "A",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2014,
+      "text": 2,
+      "number": 30,
+      "pdfAnswer": "D",
+      "apkAnswer": "D",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2014,
+      "text": 3,
+      "number": 31,
+      "pdfAnswer": "B",
+      "apkAnswer": "B",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2014,
+      "text": 3,
+      "number": 32,
+      "pdfAnswer": "A",
+      "apkAnswer": "A",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2014,
+      "text": 3,
+      "number": 33,
+      "pdfAnswer": "D",
+      "apkAnswer": "D",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2014,
+      "text": 3,
+      "number": 34,
+      "pdfAnswer": "D",
+      "apkAnswer": "D",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2014,
+      "text": 3,
+      "number": 35,
+      "pdfAnswer": "C",
+      "apkAnswer": "C",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2014,
+      "text": 4,
+      "number": 36,
+      "pdfAnswer": "B",
+      "apkAnswer": "B",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2014,
+      "text": 4,
+      "number": 37,
+      "pdfAnswer": "C",
+      "apkAnswer": "C",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2014,
+      "text": 4,
+      "number": 38,
+      "pdfAnswer": "A",
+      "apkAnswer": "A",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2014,
+      "text": 4,
+      "number": 39,
+      "pdfAnswer": "C",
+      "apkAnswer": "C",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2014,
+      "text": 4,
+      "number": 40,
+      "pdfAnswer": "D",
+      "apkAnswer": "D",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2015,
+      "text": 1,
+      "number": 21,
+      "pdfAnswer": "A",
+      "apkAnswer": "A",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2015,
+      "text": 1,
+      "number": 22,
+      "pdfAnswer": "B",
+      "apkAnswer": "B",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2015,
+      "text": 1,
+      "number": 23,
+      "pdfAnswer": "B",
+      "apkAnswer": "B",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2015,
+      "text": 1,
+      "number": 24,
+      "pdfAnswer": "C",
+      "apkAnswer": "C",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2015,
+      "text": 1,
+      "number": 25,
+      "pdfAnswer": "D",
+      "apkAnswer": "D",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2015,
+      "text": 2,
+      "number": 26,
+      "pdfAnswer": "C",
+      "apkAnswer": "C",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2015,
+      "text": 2,
+      "number": 27,
+      "pdfAnswer": "C",
+      "apkAnswer": "C",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2015,
+      "text": 2,
+      "number": 28,
+      "pdfAnswer": "C",
+      "apkAnswer": "C",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2015,
+      "text": 2,
+      "number": 29,
+      "pdfAnswer": "B",
+      "apkAnswer": "B",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2015,
+      "text": 2,
+      "number": 30,
+      "pdfAnswer": "D",
+      "apkAnswer": "D",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2015,
+      "text": 3,
+      "number": 31,
+      "pdfAnswer": "D",
+      "apkAnswer": "D",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2015,
+      "text": 3,
+      "number": 32,
+      "pdfAnswer": "A",
+      "apkAnswer": "A",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2015,
+      "text": 3,
+      "number": 33,
+      "pdfAnswer": "D",
+      "apkAnswer": "D",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2015,
+      "text": 3,
+      "number": 34,
+      "pdfAnswer": "A",
+      "apkAnswer": "A",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2015,
+      "text": 3,
+      "number": 35,
+      "pdfAnswer": "B",
+      "apkAnswer": "B",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2015,
+      "text": 4,
+      "number": 36,
+      "pdfAnswer": "B",
+      "apkAnswer": "B",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2015,
+      "text": 4,
+      "number": 37,
+      "pdfAnswer": "C",
+      "apkAnswer": "C",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2015,
+      "text": 4,
+      "number": 38,
+      "pdfAnswer": "A",
+      "apkAnswer": "A",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2015,
+      "text": 4,
+      "number": 39,
+      "pdfAnswer": "D",
+      "apkAnswer": "D",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2015,
+      "text": 4,
+      "number": 40,
+      "pdfAnswer": "A",
+      "apkAnswer": "A",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2016,
+      "text": 1,
+      "number": 21,
+      "pdfAnswer": "B",
+      "apkAnswer": "B",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2016,
+      "text": 1,
+      "number": 22,
+      "pdfAnswer": "B",
+      "apkAnswer": "B",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2016,
+      "text": 1,
+      "number": 23,
+      "pdfAnswer": "A",
+      "apkAnswer": "A",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2016,
+      "text": 1,
+      "number": 24,
+      "pdfAnswer": "C",
+      "apkAnswer": "C",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2016,
+      "text": 1,
+      "number": 25,
+      "pdfAnswer": "A",
+      "apkAnswer": "A",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2016,
+      "text": 2,
+      "number": 26,
+      "pdfAnswer": "A",
+      "apkAnswer": "A",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2016,
+      "text": 2,
+      "number": 27,
+      "pdfAnswer": "C",
+      "apkAnswer": "C",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2016,
+      "text": 2,
+      "number": 28,
+      "pdfAnswer": "A",
+      "apkAnswer": "A",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2016,
+      "text": 2,
+      "number": 29,
+      "pdfAnswer": "D",
+      "apkAnswer": "D",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2016,
+      "text": 2,
+      "number": 30,
+      "pdfAnswer": "C",
+      "apkAnswer": "C",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2016,
+      "text": 3,
+      "number": 31,
+      "pdfAnswer": "D",
+      "apkAnswer": "D",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2016,
+      "text": 3,
+      "number": 32,
+      "pdfAnswer": "B",
+      "apkAnswer": "B",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2016,
+      "text": 3,
+      "number": 33,
+      "pdfAnswer": "D",
+      "apkAnswer": "D",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2016,
+      "text": 3,
+      "number": 34,
+      "pdfAnswer": "A",
+      "apkAnswer": "A",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2016,
+      "text": 3,
+      "number": 35,
+      "pdfAnswer": "B",
+      "apkAnswer": "B",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2016,
+      "text": 4,
+      "number": 36,
+      "pdfAnswer": "B",
+      "apkAnswer": "B",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2016,
+      "text": 4,
+      "number": 37,
+      "pdfAnswer": "C",
+      "apkAnswer": "C",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2016,
+      "text": 4,
+      "number": 38,
+      "pdfAnswer": "D",
+      "apkAnswer": "D",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2016,
+      "text": 4,
+      "number": 39,
+      "pdfAnswer": "D",
+      "apkAnswer": "D",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2016,
+      "text": 4,
+      "number": 40,
+      "pdfAnswer": "C",
+      "apkAnswer": "C",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2017,
+      "text": 1,
+      "number": 21,
+      "pdfAnswer": "A",
+      "apkAnswer": "A",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2017,
+      "text": 1,
+      "number": 22,
+      "pdfAnswer": "B",
+      "apkAnswer": "B",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2017,
+      "text": 1,
+      "number": 23,
+      "pdfAnswer": "C",
+      "apkAnswer": "C",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2017,
+      "text": 1,
+      "number": 24,
+      "pdfAnswer": "D",
+      "apkAnswer": "D",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2017,
+      "text": 1,
+      "number": 25,
+      "pdfAnswer": "B",
+      "apkAnswer": "B",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2017,
+      "text": 2,
+      "number": 26,
+      "pdfAnswer": "B",
+      "apkAnswer": "B",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2017,
+      "text": 2,
+      "number": 27,
+      "pdfAnswer": "D",
+      "apkAnswer": "D",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2017,
+      "text": 2,
+      "number": 28,
+      "pdfAnswer": "D",
+      "apkAnswer": "D",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2017,
+      "text": 2,
+      "number": 29,
+      "pdfAnswer": "C",
+      "apkAnswer": "C",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2017,
+      "text": 2,
+      "number": 30,
+      "pdfAnswer": "A",
+      "apkAnswer": "A",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2017,
+      "text": 3,
+      "number": 31,
+      "pdfAnswer": "C",
+      "apkAnswer": "C",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2017,
+      "text": 3,
+      "number": 32,
+      "pdfAnswer": "D",
+      "apkAnswer": "D",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2017,
+      "text": 3,
+      "number": 33,
+      "pdfAnswer": "A",
+      "apkAnswer": "A",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2017,
+      "text": 3,
+      "number": 34,
+      "pdfAnswer": "D",
+      "apkAnswer": "D",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2017,
+      "text": 3,
+      "number": 35,
+      "pdfAnswer": "A",
+      "apkAnswer": "A",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2017,
+      "text": 4,
+      "number": 36,
+      "pdfAnswer": "B",
+      "apkAnswer": "B",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2017,
+      "text": 4,
+      "number": 37,
+      "pdfAnswer": "D",
+      "apkAnswer": "D",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2017,
+      "text": 4,
+      "number": 38,
+      "pdfAnswer": "C",
+      "apkAnswer": "C",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2017,
+      "text": 4,
+      "number": 39,
+      "pdfAnswer": "D",
+      "apkAnswer": "D",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2017,
+      "text": 4,
+      "number": 40,
+      "pdfAnswer": "B",
+      "apkAnswer": "B",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2018,
+      "text": 1,
+      "number": 21,
+      "pdfAnswer": "A",
+      "apkAnswer": "A",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2018,
+      "text": 1,
+      "number": 22,
+      "pdfAnswer": "C",
+      "apkAnswer": "C",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2018,
+      "text": 1,
+      "number": 23,
+      "pdfAnswer": "B",
+      "apkAnswer": "B",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2018,
+      "text": 1,
+      "number": 24,
+      "pdfAnswer": "D",
+      "apkAnswer": "D",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2018,
+      "text": 1,
+      "number": 25,
+      "pdfAnswer": "A",
+      "apkAnswer": "A",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2018,
+      "text": 2,
+      "number": 26,
+      "pdfAnswer": "C",
+      "apkAnswer": "C",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2018,
+      "text": 2,
+      "number": 27,
+      "pdfAnswer": "A",
+      "apkAnswer": "A",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2018,
+      "text": 2,
+      "number": 28,
+      "pdfAnswer": "A",
+      "apkAnswer": "A",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2018,
+      "text": 2,
+      "number": 29,
+      "pdfAnswer": "C",
+      "apkAnswer": "C",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2018,
+      "text": 2,
+      "number": 30,
+      "pdfAnswer": "C",
+      "apkAnswer": "C",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2018,
+      "text": 3,
+      "number": 31,
+      "pdfAnswer": "B",
+      "apkAnswer": "B",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2018,
+      "text": 3,
+      "number": 32,
+      "pdfAnswer": "C",
+      "apkAnswer": "C",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2018,
+      "text": 3,
+      "number": 33,
+      "pdfAnswer": "D",
+      "apkAnswer": "D",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2018,
+      "text": 3,
+      "number": 34,
+      "pdfAnswer": "A",
+      "apkAnswer": "A",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2018,
+      "text": 3,
+      "number": 35,
+      "pdfAnswer": "D",
+      "apkAnswer": "D",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2018,
+      "text": 4,
+      "number": 36,
+      "pdfAnswer": "A",
+      "apkAnswer": "A",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2018,
+      "text": 4,
+      "number": 37,
+      "pdfAnswer": "D",
+      "apkAnswer": "D",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2018,
+      "text": 4,
+      "number": 38,
+      "pdfAnswer": "D",
+      "apkAnswer": "D",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2018,
+      "text": 4,
+      "number": 39,
+      "pdfAnswer": "B",
+      "apkAnswer": "B",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2018,
+      "text": 4,
+      "number": 40,
+      "pdfAnswer": "B",
+      "apkAnswer": "B",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2019,
+      "text": 1,
+      "number": 21,
+      "pdfAnswer": "C",
+      "apkAnswer": "C",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2019,
+      "text": 1,
+      "number": 22,
+      "pdfAnswer": "B",
+      "apkAnswer": "B",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2019,
+      "text": 1,
+      "number": 23,
+      "pdfAnswer": "D",
+      "apkAnswer": "D",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2019,
+      "text": 1,
+      "number": 24,
+      "pdfAnswer": "B",
+      "apkAnswer": "B",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2019,
+      "text": 1,
+      "number": 25,
+      "pdfAnswer": "D",
+      "apkAnswer": "D",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2019,
+      "text": 2,
+      "number": 26,
+      "pdfAnswer": "D",
+      "apkAnswer": "D",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2019,
+      "text": 2,
+      "number": 27,
+      "pdfAnswer": "D",
+      "apkAnswer": "D",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2019,
+      "text": 2,
+      "number": 28,
+      "pdfAnswer": "B",
+      "apkAnswer": "B",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2019,
+      "text": 2,
+      "number": 29,
+      "pdfAnswer": "A",
+      "apkAnswer": "A",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2019,
+      "text": 2,
+      "number": 30,
+      "pdfAnswer": "C",
+      "apkAnswer": "C",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2019,
+      "text": 3,
+      "number": 31,
+      "pdfAnswer": "C",
+      "apkAnswer": "C",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2019,
+      "text": 3,
+      "number": 32,
+      "pdfAnswer": "D",
+      "apkAnswer": "D",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2019,
+      "text": 3,
+      "number": 33,
+      "pdfAnswer": "B",
+      "apkAnswer": "B",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2019,
+      "text": 3,
+      "number": 34,
+      "pdfAnswer": "A",
+      "apkAnswer": "A",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2019,
+      "text": 3,
+      "number": 35,
+      "pdfAnswer": "B",
+      "apkAnswer": "B",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2019,
+      "text": 4,
+      "number": 36,
+      "pdfAnswer": "B",
+      "apkAnswer": "B",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2019,
+      "text": 4,
+      "number": 37,
+      "pdfAnswer": "B",
+      "apkAnswer": "B",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2019,
+      "text": 4,
+      "number": 38,
+      "pdfAnswer": "D",
+      "apkAnswer": "D",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2019,
+      "text": 4,
+      "number": 39,
+      "pdfAnswer": "D",
+      "apkAnswer": "D",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2019,
+      "text": 4,
+      "number": 40,
+      "pdfAnswer": "C",
+      "apkAnswer": "C",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2020,
+      "text": 1,
+      "number": 21,
+      "pdfAnswer": "A",
+      "apkAnswer": "A",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2020,
+      "text": 1,
+      "number": 22,
+      "pdfAnswer": "D",
+      "apkAnswer": "D",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2020,
+      "text": 1,
+      "number": 23,
+      "pdfAnswer": "B",
+      "apkAnswer": "B",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2020,
+      "text": 1,
+      "number": 24,
+      "pdfAnswer": "C",
+      "apkAnswer": "C",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2020,
+      "text": 1,
+      "number": 25,
+      "pdfAnswer": "D",
+      "apkAnswer": "D",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2020,
+      "text": 2,
+      "number": 26,
+      "pdfAnswer": "C",
+      "apkAnswer": "C",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2020,
+      "text": 2,
+      "number": 27,
+      "pdfAnswer": "D",
+      "apkAnswer": "D",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2020,
+      "text": 2,
+      "number": 28,
+      "pdfAnswer": "B",
+      "apkAnswer": "B",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2020,
+      "text": 2,
+      "number": 29,
+      "pdfAnswer": "D",
+      "apkAnswer": "D",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2020,
+      "text": 2,
+      "number": 30,
+      "pdfAnswer": "A",
+      "apkAnswer": "A",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2020,
+      "text": 3,
+      "number": 31,
+      "pdfAnswer": "D",
+      "apkAnswer": "D",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2020,
+      "text": 3,
+      "number": 32,
+      "pdfAnswer": "D",
+      "apkAnswer": "D",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2020,
+      "text": 3,
+      "number": 33,
+      "pdfAnswer": "A",
+      "apkAnswer": "A",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2020,
+      "text": 3,
+      "number": 34,
+      "pdfAnswer": "D",
+      "apkAnswer": "D",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2020,
+      "text": 3,
+      "number": 35,
+      "pdfAnswer": "B",
+      "apkAnswer": "B",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2020,
+      "text": 4,
+      "number": 36,
+      "pdfAnswer": "D",
+      "apkAnswer": "D",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2020,
+      "text": 4,
+      "number": 37,
+      "pdfAnswer": "C",
+      "apkAnswer": "C",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2020,
+      "text": 4,
+      "number": 38,
+      "pdfAnswer": "D",
+      "apkAnswer": "D",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2020,
+      "text": 4,
+      "number": 39,
+      "pdfAnswer": "B",
+      "apkAnswer": "B",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2020,
+      "text": 4,
+      "number": 40,
+      "pdfAnswer": "B",
+      "apkAnswer": "B",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2021,
+      "text": 1,
+      "number": 21,
+      "pdfAnswer": "B",
+      "apkAnswer": "B",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2021,
+      "text": 1,
+      "number": 22,
+      "pdfAnswer": "A",
+      "apkAnswer": "A",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2021,
+      "text": 1,
+      "number": 23,
+      "pdfAnswer": "D",
+      "apkAnswer": "D",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2021,
+      "text": 1,
+      "number": 24,
+      "pdfAnswer": "C",
+      "apkAnswer": "C",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2021,
+      "text": 1,
+      "number": 25,
+      "pdfAnswer": "B",
+      "apkAnswer": "B",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2021,
+      "text": 2,
+      "number": 26,
+      "pdfAnswer": "B",
+      "apkAnswer": "B",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2021,
+      "text": 2,
+      "number": 27,
+      "pdfAnswer": "C",
+      "apkAnswer": "C",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2021,
+      "text": 2,
+      "number": 28,
+      "pdfAnswer": "C",
+      "apkAnswer": "C",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2021,
+      "text": 2,
+      "number": 29,
+      "pdfAnswer": "A",
+      "apkAnswer": "A",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2021,
+      "text": 2,
+      "number": 30,
+      "pdfAnswer": "B",
+      "apkAnswer": "B",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2021,
+      "text": 3,
+      "number": 31,
+      "pdfAnswer": "A",
+      "apkAnswer": "A",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2021,
+      "text": 3,
+      "number": 32,
+      "pdfAnswer": "B",
+      "apkAnswer": "B",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2021,
+      "text": 3,
+      "number": 33,
+      "pdfAnswer": "C",
+      "apkAnswer": "C",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2021,
+      "text": 3,
+      "number": 34,
+      "pdfAnswer": "C",
+      "apkAnswer": "C",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2021,
+      "text": 3,
+      "number": 35,
+      "pdfAnswer": "A",
+      "apkAnswer": "A",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2021,
+      "text": 4,
+      "number": 36,
+      "pdfAnswer": "B",
+      "apkAnswer": "B",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2021,
+      "text": 4,
+      "number": 37,
+      "pdfAnswer": "A",
+      "apkAnswer": "A",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2021,
+      "text": 4,
+      "number": 38,
+      "pdfAnswer": "A",
+      "apkAnswer": "A",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2021,
+      "text": 4,
+      "number": 39,
+      "pdfAnswer": "D",
+      "apkAnswer": "D",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2021,
+      "text": 4,
+      "number": 40,
+      "pdfAnswer": "B",
+      "apkAnswer": "B",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2022,
+      "text": 1,
+      "number": 21,
+      "pdfAnswer": "D",
+      "apkAnswer": "D",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2022,
+      "text": 1,
+      "number": 22,
+      "pdfAnswer": "C",
+      "apkAnswer": "C",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2022,
+      "text": 1,
+      "number": 23,
+      "pdfAnswer": "C",
+      "apkAnswer": "C",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2022,
+      "text": 1,
+      "number": 24,
+      "pdfAnswer": "B",
+      "apkAnswer": "B",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2022,
+      "text": 1,
+      "number": 25,
+      "pdfAnswer": "A",
+      "apkAnswer": "A",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2022,
+      "text": 2,
+      "number": 26,
+      "pdfAnswer": "D",
+      "apkAnswer": "D",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2022,
+      "text": 2,
+      "number": 27,
+      "pdfAnswer": "A",
+      "apkAnswer": "A",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2022,
+      "text": 2,
+      "number": 28,
+      "pdfAnswer": "C",
+      "apkAnswer": "C",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2022,
+      "text": 2,
+      "number": 29,
+      "pdfAnswer": "D",
+      "apkAnswer": "D",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2022,
+      "text": 2,
+      "number": 30,
+      "pdfAnswer": "A",
+      "apkAnswer": "A",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2022,
+      "text": 3,
+      "number": 31,
+      "pdfAnswer": "C",
+      "apkAnswer": "C",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2022,
+      "text": 3,
+      "number": 32,
+      "pdfAnswer": "D",
+      "apkAnswer": "D",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2022,
+      "text": 3,
+      "number": 33,
+      "pdfAnswer": "B",
+      "apkAnswer": "B",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2022,
+      "text": 3,
+      "number": 34,
+      "pdfAnswer": "B",
+      "apkAnswer": "B",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2022,
+      "text": 3,
+      "number": 35,
+      "pdfAnswer": "B",
+      "apkAnswer": "B",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2022,
+      "text": 4,
+      "number": 36,
+      "pdfAnswer": "A",
+      "apkAnswer": "A",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2022,
+      "text": 4,
+      "number": 37,
+      "pdfAnswer": "B",
+      "apkAnswer": "B",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2022,
+      "text": 4,
+      "number": 38,
+      "pdfAnswer": "D",
+      "apkAnswer": "D",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2022,
+      "text": 4,
+      "number": 39,
+      "pdfAnswer": "C",
+      "apkAnswer": "C",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2022,
+      "text": 4,
+      "number": 40,
+      "pdfAnswer": "C",
+      "apkAnswer": "C",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2023,
+      "text": 1,
+      "number": 21,
+      "pdfAnswer": "A",
+      "apkAnswer": "A",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2023,
+      "text": 1,
+      "number": 22,
+      "pdfAnswer": "B",
+      "apkAnswer": "B",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2023,
+      "text": 1,
+      "number": 23,
+      "pdfAnswer": "B",
+      "apkAnswer": "B",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2023,
+      "text": 1,
+      "number": 24,
+      "pdfAnswer": "C",
+      "apkAnswer": "C",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2023,
+      "text": 1,
+      "number": 25,
+      "pdfAnswer": "D",
+      "apkAnswer": "D",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2023,
+      "text": 2,
+      "number": 26,
+      "pdfAnswer": "D",
+      "apkAnswer": "D",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2023,
+      "text": 2,
+      "number": 27,
+      "pdfAnswer": "A",
+      "apkAnswer": "A",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2023,
+      "text": 2,
+      "number": 28,
+      "pdfAnswer": "C",
+      "apkAnswer": "C",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2023,
+      "text": 2,
+      "number": 29,
+      "pdfAnswer": "B",
+      "apkAnswer": "B",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2023,
+      "text": 2,
+      "number": 30,
+      "pdfAnswer": "D",
+      "apkAnswer": "D",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2023,
+      "text": 3,
+      "number": 31,
+      "pdfAnswer": "C",
+      "apkAnswer": "C",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2023,
+      "text": 3,
+      "number": 32,
+      "pdfAnswer": "D",
+      "apkAnswer": "D",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2023,
+      "text": 3,
+      "number": 33,
+      "pdfAnswer": "A",
+      "apkAnswer": "A",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2023,
+      "text": 3,
+      "number": 34,
+      "pdfAnswer": "A",
+      "apkAnswer": "A",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2023,
+      "text": 3,
+      "number": 35,
+      "pdfAnswer": "B",
+      "apkAnswer": "B",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2023,
+      "text": 4,
+      "number": 36,
+      "pdfAnswer": "A",
+      "apkAnswer": "A",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2023,
+      "text": 4,
+      "number": 37,
+      "pdfAnswer": "C",
+      "apkAnswer": "C",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2023,
+      "text": 4,
+      "number": 38,
+      "pdfAnswer": "D",
+      "apkAnswer": "D",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2023,
+      "text": 4,
+      "number": 39,
+      "pdfAnswer": "B",
+      "apkAnswer": "B",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2023,
+      "text": 4,
+      "number": 40,
+      "pdfAnswer": "A",
+      "apkAnswer": "A",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2024,
+      "text": 1,
+      "number": 21,
+      "pdfAnswer": "C",
+      "apkAnswer": "C",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2024,
+      "text": 1,
+      "number": 22,
+      "pdfAnswer": "C",
+      "apkAnswer": "C",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2024,
+      "text": 1,
+      "number": 23,
+      "pdfAnswer": "D",
+      "apkAnswer": "D",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2024,
+      "text": 1,
+      "number": 24,
+      "pdfAnswer": "A",
+      "apkAnswer": "A",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2024,
+      "text": 1,
+      "number": 25,
+      "pdfAnswer": "D",
+      "apkAnswer": "D",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2024,
+      "text": 2,
+      "number": 26,
+      "pdfAnswer": "A",
+      "apkAnswer": "A",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2024,
+      "text": 2,
+      "number": 27,
+      "pdfAnswer": "A",
+      "apkAnswer": "A",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2024,
+      "text": 2,
+      "number": 28,
+      "pdfAnswer": "B",
+      "apkAnswer": "B",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2024,
+      "text": 2,
+      "number": 29,
+      "pdfAnswer": "D",
+      "apkAnswer": "D",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2024,
+      "text": 2,
+      "number": 30,
+      "pdfAnswer": "C",
+      "apkAnswer": "C",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2024,
+      "text": 3,
+      "number": 31,
+      "pdfAnswer": "C",
+      "apkAnswer": "C",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2024,
+      "text": 3,
+      "number": 32,
+      "pdfAnswer": "D",
+      "apkAnswer": "D",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2024,
+      "text": 3,
+      "number": 33,
+      "pdfAnswer": "B",
+      "apkAnswer": "B",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2024,
+      "text": 3,
+      "number": 34,
+      "pdfAnswer": "B",
+      "apkAnswer": "B",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2024,
+      "text": 3,
+      "number": 35,
+      "pdfAnswer": "B",
+      "apkAnswer": "B",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2024,
+      "text": 4,
+      "number": 36,
+      "pdfAnswer": "A",
+      "apkAnswer": "A",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2024,
+      "text": 4,
+      "number": 37,
+      "pdfAnswer": "A",
+      "apkAnswer": "A",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2024,
+      "text": 4,
+      "number": 38,
+      "pdfAnswer": "D",
+      "apkAnswer": "D",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2024,
+      "text": 4,
+      "number": 39,
+      "pdfAnswer": "B",
+      "apkAnswer": "B",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2024,
+      "text": 4,
+      "number": 40,
+      "pdfAnswer": "D",
+      "apkAnswer": "D",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2025,
+      "text": 1,
+      "number": 21,
+      "pdfAnswer": "B",
+      "apkAnswer": "B",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2025,
+      "text": 1,
+      "number": 22,
+      "pdfAnswer": "C",
+      "apkAnswer": "C",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2025,
+      "text": 1,
+      "number": 23,
+      "pdfAnswer": "A",
+      "apkAnswer": "A",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2025,
+      "text": 1,
+      "number": 24,
+      "pdfAnswer": "D",
+      "apkAnswer": "D",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2025,
+      "text": 1,
+      "number": 25,
+      "pdfAnswer": "A",
+      "apkAnswer": "A",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2025,
+      "text": 2,
+      "number": 26,
+      "pdfAnswer": "B",
+      "apkAnswer": "B",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2025,
+      "text": 2,
+      "number": 27,
+      "pdfAnswer": "C",
+      "apkAnswer": "C",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2025,
+      "text": 2,
+      "number": 28,
+      "pdfAnswer": "C",
+      "apkAnswer": "C",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2025,
+      "text": 2,
+      "number": 29,
+      "pdfAnswer": "B",
+      "apkAnswer": "B",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2025,
+      "text": 2,
+      "number": 30,
+      "pdfAnswer": "D",
+      "apkAnswer": null,
+      "apkReference": "D",
+      "status": "disputed-reference-preserved"
+    },
+    {
+      "year": 2025,
+      "text": 3,
+      "number": 31,
+      "pdfAnswer": "A",
+      "apkAnswer": "A",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2025,
+      "text": 3,
+      "number": 32,
+      "pdfAnswer": "B",
+      "apkAnswer": "B",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2025,
+      "text": 3,
+      "number": 33,
+      "pdfAnswer": "A",
+      "apkAnswer": "A",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2025,
+      "text": 3,
+      "number": 34,
+      "pdfAnswer": "B",
+      "apkAnswer": "B",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2025,
+      "text": 3,
+      "number": 35,
+      "pdfAnswer": "D",
+      "apkAnswer": "D",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2025,
+      "text": 4,
+      "number": 36,
+      "pdfAnswer": "C",
+      "apkAnswer": "C",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2025,
+      "text": 4,
+      "number": 37,
+      "pdfAnswer": "D",
+      "apkAnswer": "D",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2025,
+      "text": 4,
+      "number": 38,
+      "pdfAnswer": "A",
+      "apkAnswer": "A",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2025,
+      "text": 4,
+      "number": 39,
+      "pdfAnswer": "D",
+      "apkAnswer": "D",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2025,
+      "text": 4,
+      "number": 40,
+      "pdfAnswer": "D",
+      "apkAnswer": "D",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2026,
+      "text": 1,
+      "number": 21,
+      "pdfAnswer": "D",
+      "apkAnswer": "D",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2026,
+      "text": 1,
+      "number": 22,
+      "pdfAnswer": "C",
+      "apkAnswer": "C",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2026,
+      "text": 1,
+      "number": 23,
+      "pdfAnswer": "A",
+      "apkAnswer": "A",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2026,
+      "text": 1,
+      "number": 24,
+      "pdfAnswer": "A",
+      "apkAnswer": "A",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2026,
+      "text": 1,
+      "number": 25,
+      "pdfAnswer": "C",
+      "apkAnswer": "C",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2026,
+      "text": 2,
+      "number": 26,
+      "pdfAnswer": "B",
+      "apkAnswer": "B",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2026,
+      "text": 2,
+      "number": 27,
+      "pdfAnswer": "A",
+      "apkAnswer": "A",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2026,
+      "text": 2,
+      "number": 28,
+      "pdfAnswer": "C",
+      "apkAnswer": "C",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2026,
+      "text": 2,
+      "number": 29,
+      "pdfAnswer": "D",
+      "apkAnswer": "D",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2026,
+      "text": 2,
+      "number": 30,
+      "pdfAnswer": "A",
+      "apkAnswer": "A",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2026,
+      "text": 3,
+      "number": 31,
+      "pdfAnswer": "B",
+      "apkAnswer": "B",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2026,
+      "text": 3,
+      "number": 32,
+      "pdfAnswer": "A",
+      "apkAnswer": "A",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2026,
+      "text": 3,
+      "number": 33,
+      "pdfAnswer": "C",
+      "apkAnswer": "C",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2026,
+      "text": 3,
+      "number": 34,
+      "pdfAnswer": "D",
+      "apkAnswer": "D",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2026,
+      "text": 3,
+      "number": 35,
+      "pdfAnswer": "B",
+      "apkAnswer": "B",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2026,
+      "text": 4,
+      "number": 36,
+      "pdfAnswer": "D",
+      "apkAnswer": "D",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2026,
+      "text": 4,
+      "number": 37,
+      "pdfAnswer": "C",
+      "apkAnswer": "C",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2026,
+      "text": 4,
+      "number": 38,
+      "pdfAnswer": "C",
+      "apkAnswer": "C",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2026,
+      "text": 4,
+      "number": 39,
+      "pdfAnswer": "B",
+      "apkAnswer": "B",
+      "apkReference": null,
+      "status": "match"
+    },
+    {
+      "year": 2026,
+      "text": 4,
+      "number": 40,
+      "pdfAnswer": "B",
+      "apkAnswer": "B",
+      "apkReference": null,
+      "status": "match"
+    }
+  ],
+  "combinedSecondaryKeyAgreement": {
+    "2010": 20,
+    "2011": 20,
+    "2012": 20,
+    "2013": 20,
+    "2014": 20,
+    "2015": 20,
+    "2016": 20,
+    "2017": 20,
+    "2018": 20,
+    "2019": 20,
+    "2020": 20,
+    "2021": 20,
+    "2022": 20,
+    "2023": 20
+  },
+  "dispute": {
+    "year": 2025,
+    "question": 30,
+    "suppliedKey": "D",
+    "readingBasedPreference": "C",
+    "currentAppGradingKey": null,
+    "reason": "末段讨论中央与地方如何分配权力和职能，并以地方已更了解居民需求作为理由。C指应扩大地方角色，D把已有优势改为待实现要求。随卷机构参考答案给D，继续保留争议并不计分。"
+  }
+}

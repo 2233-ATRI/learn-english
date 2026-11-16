@@ -1,0 +1,882 @@
+{
+  "reading-habit-q1": {
+    "type": "原因",
+    "anchors": [
+      {
+        "text": "remain closed",
+        "meaning": "仍然合着"
+      },
+      {
+        "text": "conditions",
+        "meaning": "条件"
+      }
+    ],
+    "locate": "题干已指向第一段。圈 remain closed，在原文找到同样的两个词，向后读 The problem 开头的解释句即可。",
+    "evidence": [
+      {
+        "paragraph": 0,
+        "quote": "The problem is often the size of the plan: it requires conditions that are difficult to create every day.",
+        "meaning": "计划太大，需要每天都难以凑齐的条件。"
+      }
+    ],
+    "reasoning": "冒号后直接解释问题。认出 difficult（困难）与 conditions（条件），就能把 demanding conditions（苛刻条件）对应到原句，保留 B。",
+    "options": [
+      "椅子是想象中的场景，原文没有说买不起。",
+      "demanding conditions 对应 difficult to create every day。",
+      "原文没有提到已经读完。",
+      "always 把一种安排绝对化，原文没有评价所有晚间阅读。"
+    ]
+  },
+  "reading-habit-q2": {
+    "type": "目的",
+    "anchors": [
+      {
+        "text": "breakfast table",
+        "meaning": "早餐桌"
+      },
+      {
+        "text": "reminder",
+        "meaning": "提醒物"
+      }
+    ],
+    "locate": "圈题干 breakfast table，到第二段找同词。读它后面一句，看书放在那里产生什么作用，后面的忙闲两种早晨可暂时跳过。",
+    "evidence": [
+      {
+        "paragraph": 1,
+        "quote": "the book itself becomes a reminder.",
+        "meaning": "书本身成了提醒。"
+      }
+    ],
+    "reasoning": "原句 reminder 是“提醒物”，选项 remind 是“提醒”。两者共享 remind 字形，名词换成动词，目的对应 C。",
+    "options": [
+      "文章没有出售书籍的内容。",
+      "书的位置不改变页数。",
+      "remind 与 reminder 构成词性改写。",
+      "早餐是触发阅读的日常情境。"
+    ]
+  },
+  "reading-habit-q3": {
+    "type": "细节定位",
+    "anchors": [
+      {
+        "text": "record",
+        "meaning": "记录"
+      },
+      {
+        "text": "understanding",
+        "meaning": "理解"
+      }
+    ],
+    "locate": "第三段反复出现 record。先读 Yet 后对记录的要求，再读末句 because 后的原因，比较作者看重的是打卡数量还是阅读效果。",
+    "evidence": [
+      {
+        "paragraph": 2,
+        "quote": "Yet a record is useful only when it supports the activity.",
+        "meaning": "记录只有支持阅读活动时才有用。"
+      },
+      {
+        "paragraph": 2,
+        "quote": "because it directs attention toward understanding.",
+        "meaning": "因为它把注意力引向理解。"
+      }
+    ],
+    "reasoning": "把 supports 与 understanding 两个词拼回目标：记录应帮助理解。A 的 support understanding 对上两处词；其他项新增数量、分享或速度要求。",
+    "options": [
+      "支持阅读理解符合本段评价标准。",
+      "作者指出只保护打卡纪录可能偏离目的。",
+      "原文未要求公开分享。",
+      "原文讨论页数和理解，没有要求只测速度。"
+    ]
+  },
+  "reading-habit-q4": {
+    "type": "词义",
+    "anchors": [
+      {
+        "text": "stable",
+        "meaning": "稳定的"
+      },
+      {
+        "text": "regular contact",
+        "meaning": "经常接触"
+      }
+    ],
+    "locate": "题干给出末段和 stable，直接找最后一句。往前看 regular contact，借助“经常接触书本”判断这里说的是怎样的位置。",
+    "evidence": [
+      {
+        "paragraph": 3,
+        "quote": "regular contact with books makes them more likely.",
+        "meaning": "经常接触书本，让这些联系更容易出现。"
+      },
+      {
+        "paragraph": 3,
+        "quote": "The practical goal is to give reading a stable place in ordinary life.",
+        "meaning": "实际目标是让阅读在日常生活里占据稳定的位置。"
+      }
+    ],
+    "reasoning": "regular 表示经常、规律；这里的 stable 延续“长期有固定位置”的意思。steady 是稳定，temporary 是暂时，先用这组相反意思完成筛选。",
+    "options": [
+      "expensive 是昂贵，本段谈阅读与生活的联系，没有以花费解释 stable。",
+      "private 是私人的，原句强调阅读持续存在，没有讨论是否对外公开。",
+      "temporary 是暂时的，与 regular contact 的持续、规律方向相反。",
+      "steady 是稳定的，符合“阅读在日常生活中有固定位置”的语境。"
+    ]
+  },
+  "reading-habit-q5": {
+    "type": "主旨",
+    "anchors": [
+      {
+        "text": "smaller plan",
+        "meaning": "更小的计划"
+      },
+      {
+        "text": "regular reading habit",
+        "meaning": "规律阅读习惯"
+      }
+    ],
+    "locate": "标题题留到最后。首段看 plan 太大带来的问题，第二段看 smaller plan 的办法，末段看 regular reading habit，连接这三个短语。",
+    "evidence": [
+      {
+        "paragraph": 1,
+        "quote": "A smaller plan can be easier to repeat.",
+        "meaning": "小计划更容易重复执行。"
+      },
+      {
+        "paragraph": 3,
+        "quote": "The practical goal is to give reading a stable place in ordinary life.",
+        "meaning": "目标是让阅读稳定地融入日常生活。"
+      }
+    ],
+    "reasoning": "small 对应小计划，routines 对应规律习惯，last 对应稳定坚持。B 把方法和目标连在一起；价格、椅子只属于无关内容或开头细节。",
+    "options": [
+      "价格不是全文讨论对象。",
+      "小而稳定的阅读安排贯穿全文。",
+      "第三段肯定合理记录的作用。",
+      "椅子仅在开头作为情境细节出现。"
+    ]
+  },
+  "hybrid-work-q1": {
+    "type": "例证",
+    "anchors": [
+      {
+        "text": "two teams",
+        "meaning": "两个团队"
+      },
+      {
+        "text": "shared time",
+        "meaning": "共同在场的时间"
+      }
+    ],
+    "locate": "题干的 two teams 在首句。例子作用题先读对比后的总结，找 experiences differ because，看看差异归因于什么。",
+    "evidence": [
+      {
+        "paragraph": 0,
+        "quote": "Their experiences differ because they use shared time for different purposes.",
+        "meaning": "感受不同，因为他们把共同在场的时间用于不同目的。"
+      }
+    ],
+    "reasoning": "because 后给出例子的解释。只抓 use shared time，便能对应 C 的 use of shared time；三天只是共同条件，题目重点在怎样用这段时间。",
+    "options": [
+      "原文未给出统一的最佳到岗天数。",
+      "原文未说所有团队偏爱居家。",
+      "use shared time for different purposes 是直接依据。",
+      "最后一段明确谈到调整日程。"
+    ]
+  },
+  "hybrid-work-q2": {
+    "type": "细节定位",
+    "anchors": [
+      {
+        "text": "designers",
+        "meaning": "设计师"
+      },
+      {
+        "text": "brief exchange",
+        "meaning": "简短交流"
+      }
+    ],
+    "locate": "圈 designers，在第二段找到它。读该句后半段的 brief exchange can，看 can 后面说交流帮助发现了什么。",
+    "evidence": [
+      {
+        "paragraph": 1,
+        "quote": "a brief exchange can reveal an assumption that everyone has overlooked.",
+        "meaning": "简短交流能揭示大家先前忽略的一个假设。"
+      }
+    ],
+    "reasoning": "reveal 对应 notice（发现），overlooked 对应 missed（漏掉）。把“发现＋原先忽略”两个部件对上，B 正好同时覆盖。",
+    "options": [
+      "every future meeting 夸大范围。",
+      "missed 与 overlooked 同义。",
+      "报告属于另一种任务的例子。",
+      "原文肯定独立专注的作用。"
+    ]
+  },
+  "hybrid-work-q3": {
+    "type": "原因",
+    "anchors": [
+      {
+        "text": "New employees",
+        "meaning": "新员工"
+      },
+      {
+        "text": "small question",
+        "meaning": "小问题"
+      }
+    ],
+    "locate": "找第三段 New employees，再看紧跟的一句。将 formal online meeting 与 small question 放在一起，观察小问题和正式会议的落差。",
+    "evidence": [
+      {
+        "paragraph": 2,
+        "quote": "They may hesitate to request a formal online meeting for a small question.",
+        "meaning": "他们可能不愿为一个小问题申请正式线上会议。"
+      }
+    ],
+    "reasoning": "hesitate 是犹豫，small question 是小问题。正式会议显得过于隆重，A 的 may not justify it 表示“可能觉得不值得专门开会”，保持了原句的可能语气。",
+    "options": [
+      "结合 hesitate 与 small question 可得。",
+      "原文没有讨论讨厌同事。",
+      "新人的问题正是需要帮助之处。",
+      "办公地点的可用性没有作为原因。"
+    ]
+  },
+  "hybrid-work-q4": {
+    "type": "推断",
+    "anchors": [
+      {
+        "text": "physical presence alone",
+        "meaning": "仅仅人在现场"
+      },
+      {
+        "text": "questions are welcome",
+        "meaning": "提问受到欢迎"
+      }
+    ],
+    "locate": "按题干原词找第三段 physical presence alone。However 是转折路标，接着读后一句 must 和 need to 后的两个条件。",
+    "evidence": [
+      {
+        "paragraph": 2,
+        "quote": "Experienced workers must have time to respond, and newcomers need to feel that questions are welcome.",
+        "meaning": "老员工要有时间回应，新人要觉得提问受到欢迎。"
+      }
+    ],
+    "reasoning": "and 连接两项要求：有时间＋欢迎提问。D 的 available 对应 have time，welcoming 对应 welcome，两个条件都对齐。",
+    "options": [
+      "办公楼大小不是本段要求。",
+      "原文没有提出增加出勤规定。",
+      "原文没有禁止线上会议。",
+      "available 对应 have time，welcoming 对应 questions are welcome。"
+    ]
+  },
+  "hybrid-work-q5": {
+    "type": "推断",
+    "anchors": [
+      {
+        "text": "Managers",
+        "meaning": "管理者"
+      },
+      {
+        "text": "adjusting its schedule",
+        "meaning": "调整日程"
+      }
+    ],
+    "locate": "问作者建议，先到末段找 Managers therefore。看它提出的问题，再读最后一句 adjusting its schedule，判断日程应该怎样处理。",
+    "evidence": [
+      {
+        "paragraph": 3,
+        "quote": "The answers may change as a project develops.",
+        "meaning": "项目推进时，答案可能改变。"
+      },
+      {
+        "paragraph": 3,
+        "quote": "Reviewing the quality of cooperation gives a team a stronger basis for adjusting its schedule than simply repeating a fixed rule.",
+        "meaning": "检查合作质量，比重复固定规则更有助于调整日程。"
+      }
+    ],
+    "reasoning": "change 和 adjusting 都指向调整。B 随工作需要改变日程，符合末段；A 的 permanent 和 C 的 only 把灵活判断收窄成固定规则。",
+    "options": [
+      "permanent 与 answers may change 不符。",
+      "按工作需要调整概括了结论。",
+      "作者指出计数到岗天数的信息有限。",
+      "protected time 对应保留专注时间。"
+    ]
+  },
+  "urban-trees-q1": {
+    "type": "例证",
+    "anchors": [
+      {
+        "text": "count equally",
+        "meaning": "计数相同"
+      },
+      {
+        "text": "pedestrians",
+        "meaning": "行人"
+      }
+    ],
+    "locate": "题干已限定首段比较。找小树与大树的句子，重点比较 count equally 与紧接的 value very different：数量一样，效果怎样？",
+    "evidence": [
+      {
+        "paragraph": 0,
+        "quote": "count equally in a planting total. Their immediate value to pedestrians can be very different.",
+        "meaning": "在种植总数中都计作一棵，但对行人的实际价值可能很不同。"
+      }
+    ],
+    "reasoning": "equally 与 different 构成对照。C 说总数会掩盖实际价值的差异，正好概括这组关系；其他项直接下达移除或选址命令。",
+    "options": [
+      "原文没有建议移除小树。",
+      "crowded 修饰公交站的人群。",
+      "count equally 与 value very different 形成对应。",
+      "原文未给出所有树的最佳地点。"
+    ]
+  },
+  "urban-trees-q2": {
+    "type": "原因",
+    "anchors": [
+      {
+        "text": "two streets",
+        "meaning": "两条街"
+      },
+      {
+        "text": "different needs",
+        "meaning": "不同需求"
+      }
+    ],
+    "locate": "圈 two streets，找第二段。两条街气温相近，读 but 后面的 overlook their different needs，再回看需求差在哪。",
+    "evidence": [
+      {
+        "paragraph": 1,
+        "quote": "One already has gardens and wide tree cover; the other has little shade and many people waiting outdoors.",
+        "meaning": "一条街已有绿化树荫，另一条缺少遮阴却有很多人在户外等候。"
+      }
+    ],
+    "reasoning": "只抓 one / the other 的对比：已有树荫与 little shade。B 的 unequal needs for additional shade 表示补充树荫的需求不同，原因直接吻合。",
+    "options": [
+      "街道名称没有被提及。",
+      "对应 overlook their different needs。",
+      "表格是说明数量相同的比喻性场景。",
+      "比较条件是 similar summer temperatures。"
+    ]
+  },
+  "urban-trees-q3": {
+    "type": "细节定位",
+    "anchors": [
+      {
+        "text": "smaller project",
+        "meaning": "较小的项目"
+      },
+      {
+        "text": "reliable maintenance",
+        "meaning": "可靠养护"
+      }
+    ],
+    "locate": "圈 smaller planting project，到第三段找 smaller project。读 with 后面的条件和 than 前的结果，确认“小项目更有效”附带什么条件。",
+    "evidence": [
+      {
+        "paragraph": 2,
+        "quote": "A smaller project with reliable maintenance may produce more useful shade over time",
+        "meaning": "有可靠养护的小项目，长期可能产生更多有用的树荫。"
+      }
+    ],
+    "reasoning": "with 后是关键条件。reliable＝dependable，maintenance＝care，over time 表示持续；A 的 dependable continuing care 把这几点换词表达。",
+    "options": [
+      "dependable continuing care 改写 reliable maintenance。",
+      "预算只覆盖第一天正是问题。",
+      "步行路线是应优先考虑的位置。",
+      "最后一段要求查看树木健康状况。"
+    ]
+  },
+  "urban-trees-q4": {
+    "type": "词义",
+    "anchors": [
+      {
+        "text": "commitment",
+        "meaning": "投入与责任"
+      },
+      {
+        "text": "Roots need space",
+        "meaning": "树根需要空间"
+      }
+    ],
+    "locate": "直接找第三段 commitment。它后面连续列出树根、幼树、枝条需要什么，这些例子就是解释词义的线索。",
+    "evidence": [
+      {
+        "paragraph": 2,
+        "quote": "Roots need space, young trees need water, and damaged branches require attention.",
+        "meaning": "树根需要空间，幼树需要水，受损枝条需要照料。"
+      }
+    ],
+    "reasoning": "need、need、require 连续说明后续要做的事，long 又表示时间长。D 的 continuing responsibility 即持续责任，能把这组养护事项合起来。",
+    "options": [
+      "sudden celebration 指突然的庆祝，后面列的是长期养护，时间和行为都不对应。",
+      "simple calculation 指简单计算，树根、浇水、枝条照料描述的是持续工作。",
+      "attractive photograph 指漂亮照片，既未出现在这段，也无法概括 need / require 列表。",
+      "continuing responsibility 指持续责任，能覆盖空间、浇水和照料等长期义务。"
+    ]
+  },
+  "urban-trees-q5": {
+    "type": "态度",
+    "anchors": [
+      {
+        "text": "assessment",
+        "meaning": "评估"
+      },
+      {
+        "text": "busy walking routes",
+        "meaning": "繁忙步行路线"
+      }
+    ],
+    "locate": "题干问作者支持哪种指标，直接读末段 A thoughtful assessment。把 ask 后面三个 whether / how 的检查项目圈出。",
+    "evidence": [
+      {
+        "paragraph": 3,
+        "quote": "whether shade reaches busy walking routes, and whether the hottest neighborhoods receive lasting benefits.",
+        "meaning": "检查树荫是否覆盖繁忙步行路线，最热街区是否持续受益。"
+      }
+    ],
+    "reasoning": "C 的 lasting shade 和 busy routes 对应 lasting benefits、shade、busy walking routes。其余项只数公告、购买数量或仪式大小，没有检查使用效果。",
+    "options": [
+      "公告次数无法体现居民收益。",
+      "购买量仍然只反映投入。",
+      "lasting shade 和 busy routes 均有原文依据。",
+      "仪式大小未用于评估生活改善。"
+    ]
+  },
+  "learning-ai-q1": {
+    "type": "细节定位",
+    "anchors": [
+      {
+        "text": "polished paragraph",
+        "meaning": "润色好的段落"
+      },
+      {
+        "text": "however",
+        "meaning": "然而"
+      }
+    ],
+    "locate": "题干限定首段。找到 polished paragraph 后，转到 however 所在句，读 reveals little about 后面的内容。",
+    "evidence": [
+      {
+        "paragraph": 0,
+        "quote": "The finished paragraph, however, reveals little about the thinking the student has done.",
+        "meaning": "完成的段落很少能表明学生自己进行了多少思考。"
+      }
+    ],
+    "reasoning": "about 后直接填出“无法看出的对象”：the thinking the student has done。C 的 student’s own thinking 是它的简化改写。",
+    "options": [
+      "速度已由 within seconds 交代。",
+      "空白页面只是使用场景。",
+      "对应 the thinking the student has done。",
+      "工具数量不是讨论内容。"
+    ]
+  },
+  "learning-ai-q2": {
+    "type": "细节定位",
+    "anchors": [
+      {
+        "text": "In the second",
+        "meaning": "在第二种方法中"
+      },
+      {
+        "text": "original material",
+        "meaning": "原始材料"
+      }
+    ],
+    "locate": "圈 second method，读第二段 In the second 开始的长句。抓 writes、asks、checks 三个动作，重点看 checks 后如何核对建议。",
+    "evidence": [
+      {
+        "paragraph": 1,
+        "quote": "checks each suggestion against the original material.",
+        "meaning": "对照原始材料逐条检查建议。"
+      }
+    ],
+    "reasoning": "checks＝evaluate，original material＝source material。A 同时保留“评价建议”和“用原材料核对”；其他项跳过了先写或核查这两个动作。",
+    "options": [
+      "checks each suggestion against the original material 是依据。",
+      "逐条检查意味着做出选择。",
+      "方法明确包括先写解释。",
+      "方法需要阅读原材料。"
+    ]
+  },
+  "learning-ai-q3": {
+    "type": "原因",
+    "anchors": [
+      {
+        "text": "Fluent language",
+        "meaning": "流畅的语言"
+      },
+      {
+        "text": "evidence",
+        "meaning": "证据"
+      }
+    ],
+    "locate": "在第三段首句找 Fluent language。题目问为什么会误导，读下一句 while 后面缺少什么，先不看后面三个提问。",
+    "evidence": [
+      {
+        "paragraph": 2,
+        "quote": "A paragraph may connect sentences smoothly while leaving out a necessary piece of evidence.",
+        "meaning": "句子可以衔接流畅，同时遗漏必要证据。"
+      }
+    ],
+    "reasoning": "while 把“流畅”和“缺证据”放在一起。leaving out＝lack / hide a lack，evidence 两边相同，因此 B 的证据不足最贴合原因。",
+    "options": [
+      "词汇难度没有被提及。",
+      "对应 leaving out a necessary piece of evidence。",
+      "作者正建议进一步探究。",
+      "不确定部分仍需识别。"
+    ]
+  },
+  "learning-ai-q4": {
+    "type": "目的",
+    "anchors": [
+      {
+        "text": "independent tasks",
+        "meaning": "独立任务"
+      },
+      {
+        "text": "transfer",
+        "meaning": "迁移"
+      }
+    ],
+    "locate": "题干已指向末段，找 independent tasks。读 to check 后面的 this transfer，再向前一句找 this 指的具体能力。",
+    "evidence": [
+      {
+        "paragraph": 3,
+        "quote": "Can the student apply the same idea to a different problem and explain the result?",
+        "meaning": "学生能否把同一想法用于另一个问题并解释结果？"
+      },
+      {
+        "paragraph": 3,
+        "quote": "Teachers can design short independent tasks to check this transfer.",
+        "meaning": "教师可用短独立任务检查这种迁移。"
+      }
+    ],
+    "reasoning": "to check 直接给出目的；this transfer 指把知识换到不同问题上使用。D 保留 transfer learning，其他项关注次数、文风或出文速度。",
+    "options": [
+      "使用次数不是这里的标准。",
+      "复制文风不等于文中的任务目标，此处考查迁移。",
+      "速度出现在开头作为便利。",
+      "transfer learning 对应 apply the same idea to a different problem。"
+    ]
+  },
+  "learning-ai-q5": {
+    "type": "态度",
+    "anchors": [
+      {
+        "text": "If so",
+        "meaning": "如果可以"
+      },
+      {
+        "text": "assistance",
+        "meaning": "辅助"
+      }
+    ],
+    "locate": "态度题先看结尾作者怎样评价工具。圈 If so，回看它的条件，再看 assistance has contributed，说的是怎样使用才有价值。",
+    "evidence": [
+      {
+        "paragraph": 3,
+        "quote": "If so, assistance has contributed to a skill that the learner can carry forward.",
+        "meaning": "如果学生能独立迁移运用，辅助就促进了可以继续使用的技能。"
+      }
+    ],
+    "reasoning": "has contributed 是肯定，If so 又附带学习条件。C 的 supportive of thoughtful use 同时包含支持和审慎使用，避免把有条件评价变成全盘肯定或否定。",
+    "options": [
+      "作者明确讨论使用条件与风险。",
+      "作者说明工具可以促进技能。",
+      "thoughtful use 概括文中的使用条件。",
+      "全文关注学习效果。"
+    ]
+  },
+  "repair-economy-q1": {
+    "type": "例证",
+    "anchors": [
+      {
+        "text": "spare part",
+        "meaning": "备件"
+      },
+      {
+        "text": "identify the fault",
+        "meaning": "识别故障"
+      }
+    ],
+    "locate": "用题干 spare part 找首段末句。看 if 后面没人会做的两件事：识别故障和说明安装，这能解释便宜零件为什么仍可能没用。",
+    "evidence": [
+      {
+        "paragraph": 0,
+        "quote": "An affordable spare part is of little use if nobody can identify the fault or explain how to install it safely.",
+        "meaning": "如果无人会诊断故障或安全安装，即使备件便宜也难以发挥作用。"
+      }
+    ],
+    "reasoning": "identify 与 explain how 都是在说维修知识。A 的 knowledge needed to carry out a repair 概括这两项；价格不是此例要强调的缺口。",
+    "options": [
+      "identify the fault 和 explain how to install 是依据。",
+      "原文强调 affordable。",
+      "文章没有建议全部丢弃。",
+      "让零件难识别会增加障碍。"
+    ]
+  },
+  "repair-economy-q2": {
+    "type": "原因",
+    "anchors": [
+      {
+        "text": "final price is low",
+        "meaning": "最终费用低"
+      },
+      {
+        "text": "uncertainty",
+        "meaning": "不确定性"
+      }
+    ],
+    "locate": "题干 low repair price 对应第二段 final price is low。即使价格低，后半句仍会说明更换为何有吸引力，读 uncertainty 后的内容。",
+    "evidence": [
+      {
+        "paragraph": 1,
+        "quote": "Even when the final price is low, uncertainty about the process can make replacement attractive.",
+        "meaning": "即便最终价格低，维修流程的不确定性仍可能让换新更有吸引力。"
+      }
+    ],
+    "reasoning": "Even when 先承认便宜，主句再给真正原因 uncertainty。前句还有 waiting，合起来对应 C 的 uncertainty and delay。",
+    "options": [
+      "free 没有原文依据。",
+      "寻找技师是原文的一项成本。",
+      "uncertainty about the process 是直接依据。",
+      "原文没有说明每本手册的建议。"
+    ]
+  },
+  "repair-economy-q3": {
+    "type": "细节定位",
+    "anchors": [
+      {
+        "text": "accessible components",
+        "meaning": "易接近的零部件"
+      },
+      {
+        "text": "Clear manuals",
+        "meaning": "清楚的手册"
+      }
+    ],
+    "locate": "找第三段两个原词，先看它们各自能帮助什么，再读 Together 开头的总结句，把设计和说明的共同效果合起来。",
+    "evidence": [
+      {
+        "paragraph": 2,
+        "quote": "these arrangements turn a general preference for repair into an option that can actually be used.",
+        "meaning": "这些安排把维修从一般偏好变成真正可使用的选择。"
+      }
+    ],
+    "reasoning": "actually be used 表示可以真正执行，对应 B 的 practical。A、D 把“更好维修”扩大成无需决策或永不损坏；C 把减少延误的方向反过来。",
+    "options": [
+      "消费者仍需比较与决定。",
+      "与段尾 option that can actually be used 对应。",
+      "可靠零件供应用于减少延误。",
+      "产品更容易修理没有保证永不损坏。"
+    ]
+  },
+  "repair-economy-q4": {
+    "type": "例证",
+    "anchors": [
+      {
+        "text": "old appliance",
+        "meaning": "旧电器"
+      },
+      {
+        "text": "different circumstances",
+        "meaning": "不同情况"
+      }
+    ],
+    "locate": "例子题已指定末段。找 old appliance，先读它前面一句 different circumstances，再看旧电器和近新电器比较的是哪种条件。",
+    "evidence": [
+      {
+        "paragraph": 3,
+        "quote": "A useful policy should also leave room for different circumstances.",
+        "meaning": "有效政策要给不同情况留出余地。"
+      },
+      {
+        "paragraph": 3,
+        "quote": "An old appliance that consumes large amounts of energy may deserve a different decision from a nearly new one with a minor fault.",
+        "meaning": "高耗能旧电器与只有小故障的近新电器，可能需要不同决定。"
+      }
+    ],
+    "reasoning": "different 重复两次，把段首观点和例子连起来。D 的 depend on circumstances 直接概括；A、B、C 都把具体权衡改成统一做法。",
+    "options": [
+      "能耗正是需要考虑的因素。",
+      "forever 超出文中结论。",
+      "原文并未这样推荐小故障情形。",
+      "对应 leave room for different circumstances。"
+    ]
+  },
+  "repair-economy-q5": {
+    "type": "主旨",
+    "anchors": [
+      {
+        "text": "access to repair",
+        "meaning": "维修可获得性"
+      },
+      {
+        "text": "relevant information",
+        "meaning": "相关信息"
+      }
+    ],
+    "locate": "主旨题最后做。末段结尾用 When people have 列出理想条件，再回看前面几题是否分别涉及维修知识、流程和设计。",
+    "evidence": [
+      {
+        "paragraph": 3,
+        "quote": "When people have practical access to repair and relevant information, they can decide with greater confidence",
+        "meaning": "当人们能实际获得维修服务和相关信息，就更能有把握地决定。"
+      }
+    ],
+    "reasoning": "access 对应 accessible，information 对应 informed。A 同时容纳可维修的条件和知情决定，能够覆盖前面各段；其余项限定在单一因素或统一结论。",
+    "options": [
+      "accessible and informed 同时覆盖实践条件和信息。",
+      "every case 与最后一段的具体权衡冲突。",
+      "全文明确讨论时间、信息等因素。",
+      "第三段说明手册帮助技师定位问题。"
+    ]
+  },
+  "privacy-choice-q1": {
+    "type": "目的",
+    "anchors": [
+      {
+        "text": "most visible button",
+        "meaning": "最显眼的按钮"
+      },
+      {
+        "text": "simply to continue",
+        "meaning": "只是为了继续"
+      }
+    ],
+    "locate": "题干的按钮在首段第二句出现。读按钮后面 simply to，to 后直接说明目的，再用首句 feature 确认要继续到哪里。",
+    "evidence": [
+      {
+        "paragraph": 0,
+        "quote": "they may press the most visible button simply to continue.",
+        "meaning": "他们可能按最显眼的按钮，只是为了继续操作。"
+      }
+    ],
+    "reasoning": "to continue 是目的，首句 wanted feature 是目标功能，B 的 get to the desired feature quickly 把两处合起来。点击行为本身没有证明认真读过。",
+    "options": [
+      "原文指出该动作很少说明考虑程度。",
+      "对应 reaching the feature 和 simply to continue。",
+      "原文没有索要更长说明。",
+      "用户没有要求移除设置。"
+    ]
+  },
+  "privacy-choice-q2": {
+    "type": "例证",
+    "anchors": [
+      {
+        "text": "location access",
+        "meaning": "位置权限"
+      },
+      {
+        "text": "right moment",
+        "meaning": "恰当时机"
+      }
+    ],
+    "locate": "圈 location，找第二段位置权限的例子。先读段首 at the right moment，再看例子说解释放在哪、解释什么，最后读段尾总结。",
+    "evidence": [
+      {
+        "paragraph": 1,
+        "quote": "A short explanation beside a request for location access can describe which feature needs it",
+        "meaning": "在位置请求旁放短解释，说明哪个功能需要位置。"
+      },
+      {
+        "paragraph": 1,
+        "quote": "make relevant information understandable where a decision occurs.",
+        "meaning": "在决策发生处，让相关信息容易理解。"
+      }
+    ],
+    "reasoning": "beside a request 是请求当下，which feature 是具体用途。C 的 specific 与 at the decision point 同时覆盖内容和时机。",
+    "options": [
+      "原文强调与即时需要联系。",
+      "说明应出现在请求时。",
+      "对应 at the right moment 和 where a decision occurs。",
+      "隐藏会增加理解困难。"
+    ]
+  },
+  "privacy-choice-q3": {
+    "type": "原因",
+    "anchors": [
+      {
+        "text": "Default settings",
+        "meaning": "默认设置"
+      },
+      {
+        "text": "keep them",
+        "meaning": "保留它们"
+      }
+    ],
+    "locate": "用 Default settings 找第三段首句。because 是现成的原因标记，只读后面 users 做什么，再用下一句核对修改为何不容易。",
+    "evidence": [
+      {
+        "paragraph": 2,
+        "quote": "Default settings deserve attention because busy users often keep them.",
+        "meaning": "默认设置值得关注，因为忙碌用户常常保留它们。"
+      }
+    ],
+    "reasoning": "keep them＝leave the initial choice unchanged，A 换了说法但动作一样。其他项讲逐条阅读、拒绝功能或时间无限，均偏离 keep 的意思。",
+    "options": [
+      "leave unchanged 改写 keep them。",
+      "原文说的是忙碌用户通常保留默认值。",
+      "拒绝全部位置功能没有依据。",
+      "原文强调时间不足。"
+    ]
+  },
+  "privacy-choice-q4": {
+    "type": "细节定位",
+    "anchors": [
+      {
+        "text": "meaningful choice",
+        "meaning": "有意义的选择"
+      },
+      {
+        "text": "revise",
+        "meaning": "修改"
+      }
+    ],
+    "locate": "在最后一段找 meaningful choice。读 includes 后具体包含什么，再读 Settings should be easy to find，确认修改途径是否方便。",
+    "evidence": [
+      {
+        "paragraph": 3,
+        "quote": "A meaningful choice therefore includes a practical way to revise an earlier decision.",
+        "meaning": "有意义的选择应包括切实可行的方式来修改先前决定。"
+      }
+    ],
+    "reasoning": "revise an earlier decision 几乎直接重现于 D；easy to find 支持 easily。B 的 permanently 固定不变，与 revise 的方向相反。",
+    "options": [
+      "作者要求解释修改效果。",
+      "偏好会变化，需要调整空间。",
+      "设置效果应清晰可知。",
+      "对应 a practical way to revise an earlier decision。"
+    ]
+  },
+  "privacy-choice-q5": {
+    "type": "主旨",
+    "anchors": [
+      {
+        "text": "understandable",
+        "meaning": "容易理解"
+      },
+      {
+        "text": "revise an earlier decision",
+        "meaning": "修改先前决定"
+      }
+    ],
+    "locate": "先看第二段最后一句和末段第二句：一处说信息怎样呈现，一处说决定之后能做什么。用这两条主线检查标题级概括。",
+    "evidence": [
+      {
+        "paragraph": 1,
+        "quote": "make relevant information understandable where a decision occurs.",
+        "meaning": "让用户在作决定时能理解相关信息。"
+      },
+      {
+        "paragraph": 3,
+        "quote": "a practical way to revise an earlier decision.",
+        "meaning": "有切实可行的方式修改先前决定。"
+      }
+    ],
+    "reasoning": "understandable 对应 clear，revise 对应 adjustable。B 同时覆盖“清楚地选”和“之后能改”，其余项删去选择、只加长文本或只数点击，范围都偏了。",
+    "options": [
+      "全文讨论如何改进选择。",
+      "同时概括 clear explanations 与 revise decisions。",
+      "信息长度应服务于当时的理解需要。",
+      "开头说明点击记录难以反映考虑程度。"
+    ]
+  }
+}

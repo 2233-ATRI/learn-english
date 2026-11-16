@@ -1,0 +1,2902 @@
+{
+  "past-2016-1-q21": {
+    "type": "细节定位",
+    "anchors": [
+      {
+        "text": "early exposure",
+        "meaning": "早接触"
+      },
+      {
+        "text": "thought processes",
+        "meaning": "思维过程"
+      }
+    ],
+    "locate": "圈出题干 early exposure，在第2段找到同样短语，再往下找比较年轻人与年长学生的那一句。",
+    "evidence": [
+      {
+        "paragraph": 1,
+        "quote": "It’s not as hard for them to transform their thought processes as it is for older students.",
+        "meaning": "年轻人改变思维方式，比年长学生更容易。"
+      }
+    ],
+    "reasoning": "只抓 transform（改变）和 thought processes（思维过程），它们对应 remodel 与 way of thinking。前面的开发应用、创作等是举例。",
+    "options": [
+      "A 把“未来职业培训”加进了比较句，原句比较的是改变思维的难度。",
+      "B 保留：remodel 与 transform 都表示重塑，way of thinking 对应思维过程。",
+      "C 假设 hypotheses 出现在用途举例里，原文没有说更容易制定逻辑假设。",
+      "D artwork 只是学习计算机能做的事情，perfect 所说的完善作品没有依据。"
+    ]
+  },
+  "past-2016-1-q22": {
+    "type": "细节定位",
+    "anchors": [
+      {
+        "text": "Flatiron School",
+        "meaning": "学校名"
+      },
+      {
+        "text": "interested in",
+        "meaning": "感兴趣"
+      }
+    ],
+    "locate": "用 Flatiron 找到第4段，题干问学校上课考虑了什么，重点看引号内 we try 开头的句子。",
+    "evidence": [
+      {
+        "paragraph": 3,
+        "quote": "we try to gear lessons toward things they’re interested in",
+        "meaning": "我们尽量围绕学生感兴趣的事情安排课程。"
+      }
+    ],
+    "reasoning": "认识 interested in 就够用：题目把“他们感兴趣的事情”压缩成名词 interest。后面的电影应用只是兴趣教学的例子。",
+    "options": [
+      "A experience 是经验，学校安排高中生课程的这句话提到的是兴趣。",
+      "B 保留：interest 是 interested in 的名词改写，直接对应课程安排。",
+      "C career change 描述成年学员的来意，题干问的是高中生课程安排。",
+      "D academic backgrounds 指学业背景，定位句没有把它作为安排依据。"
+    ]
+  },
+  "past-2016-1-q23": {
+    "type": "细节定位",
+    "anchors": [
+      {
+        "text": "Deborah Seehorn",
+        "meaning": "人名"
+      },
+      {
+        "text": "any coding language",
+        "meaning": "任何编程语言"
+      }
+    ],
+    "locate": "圈人名 Deborah Seehorn，在第5段末找到她的观点，回读 But 开始的句子并看 apply to 后的对象。",
+    "evidence": [
+      {
+        "paragraph": 4,
+        "quote": "But the skills they learn – how to think logically through a problem and organize the results – apply to any coding language",
+        "meaning": "但他们学到的逻辑思考和整理结果的技能，适用于任何编程语言。"
+      }
+    ],
+    "reasoning": "把破折号中间的解释先括起来，主干是 skills apply to any coding language：这些技能能迁移到别的语言。",
+    "options": [
+      "A 保留：any coding language 表明技能能帮助学习其他计算机语言。",
+      "B quick turnover 说语言更新快；But 后强调思维技能仍然适用。",
+      "C 进入职场时可能过时的是 Ruby on Rails，选项把它换成所学技能。",
+      "D 原文谈的是思维技能的适用性，没有承诺快速赚大钱。"
+    ]
+  },
+  "past-2016-1-q24": {
+    "type": "推断",
+    "anchors": [
+      {
+        "text": "surrounded by computers",
+        "meaning": "被计算机包围"
+      },
+      {
+        "text": "rest of their lives",
+        "meaning": "余生"
+      }
+    ],
+    "locate": "题干限定最后一段，先看 But 后为什么要开课，再找 computers 在生活中出现的几个场景。",
+    "evidence": [
+      {
+        "paragraph": 5,
+        "quote": "These kids are going to be surrounded by computers – in their pockets, in their offices, in their homes – for the rest of their lives.",
+        "meaning": "这些孩子余生都会在随身物品、办公室和家里接触计算机。"
+      }
+    ],
+    "reasoning": "把 pockets、offices、homes 合起来看，就是生活各处数字化；学会指挥计算机是在为这种生活作准备。",
+    "options": [
+      "A 创新计算机技术是更强的目标，段落只要求能理解和使用计算机。",
+      "B 首句说学生甚至可能不进入 IT，无法推出要在该行业待更久。",
+      "C 保留：生活处处有计算机，所以课程帮助学生适应数字化世界。",
+      "D future army of coders 是被限定的培养目标，原文没有让学生与它竞争。"
+    ]
+  },
+  "past-2016-1-q25": {
+    "type": "词义",
+    "anchors": [
+      {
+        "text": "coax the machine",
+        "meaning": "使机器按意愿行动"
+      },
+      {
+        "text": "what they want",
+        "meaning": "他们想要的结果"
+      }
+    ],
+    "locate": "按题目段号到第6段找 coax，暂时把它当空格，只看 machine 和 producing what they want 的搭配。",
+    "evidence": [
+      {
+        "paragraph": 5,
+        "quote": "how to coax the machine into producing what they want",
+        "meaning": "怎样使机器产生他们想要的结果。"
+      }
+    ],
+    "reasoning": "结构是“让某对象去做自己希望的事”。四个词中 persuade（说服、促使）能填入；其余词无法解释得到所需结果。",
+    "options": [
+      "A 保留：persuade 表示说服、促使，与让机器按意图产出结果相合。",
+      "B frighten 表示吓唬，和学习指挥机器完成任务的语境不合。",
+      "C misguide 表示误导，会偏离想要的结果，方向相反。",
+      "D challenge 表示挑战，只表达对抗或质疑，缺少使其执行的意思。"
+    ]
+  },
+  "past-2016-2-q26": {
+    "type": "原因",
+    "anchors": [
+      {
+        "text": "2 million",
+        "meaning": "二百万"
+      },
+      {
+        "text": "22,000",
+        "meaning": "二万二千"
+      }
+    ],
+    "locate": "题干问列为受威胁物种的主要原因，先看第2段开头 The crash，再向前找第1段的数量变化。",
+    "evidence": [
+      {
+        "paragraph": 0,
+        "quote": "But just some 22,000 birds remain today",
+        "meaning": "但现在只剩约二万二千只。"
+      },
+      {
+        "paragraph": 1,
+        "quote": "The crash was a major reason",
+        "meaning": "这次骤降是一个主要原因。"
+      }
+    ],
+    "reasoning": "即使不认识鸟名，2 million 到 22,000 的数字也显示数量骤减。The crash 承接这个变化，正好回答 major reason。",
+    "options": [
+      "A 保留：大幅减少的数量对应两组数字和 The crash。",
+      "B 16% 描述栖息范围缩小，原文没有说人们低估草地面积。",
+      "C 生物学家提供数量估计，文中没有把他们的呼吁列为主要原因。",
+      "D 土地主与后面的合作方案有关，没有要求把鸟列为受威胁物种。"
+    ]
+  },
+  "past-2016-2-q27": {
+    "type": "原因",
+    "anchors": [
+      {
+        "text": "endangered",
+        "meaning": "濒危"
+      },
+      {
+        "text": "greater regulatory power",
+        "meaning": "更大的监管权力"
+      }
+    ],
+    "locate": "圈 threatened 和 environmentalists，在第2段找到 disappointed；读紧接着的 They had pushed 那句。",
+    "evidence": [
+      {
+        "paragraph": 1,
+        "quote": "They had pushed the agency to designate the bird as “endangered,” a status that gives federal officials greater regulatory power to crack down on threats.",
+        "meaning": "环保人士希望列为濒危，因为该等级赋予联邦官员更大监管权。"
+      }
+    ],
+    "reasoning": "只比较 threatened 与 endangered 的等级，再看 greater regulatory power。希望更大权力却只得到较弱等级，故失望在监管权较少。",
+    "options": [
+      "A 说向政府压力让步，文中没有交代这种施压过程。",
+      "B 原句比较监管权大小，没有比较参与机构数量的多少。",
+      "C 保留：希望 endangered 带来更大权力，当前 threatened 对应较少权力。",
+      "D against conservation policies 把力度不足扩大成违反保护政策。"
+    ]
+  },
+  "past-2016-2-q28": {
+    "type": "细节定位",
+    "anchors": [
+      {
+        "text": "not prosecute",
+        "meaning": "不起诉"
+      },
+      {
+        "text": "pay into a fund",
+        "meaning": "向基金缴款"
+      }
+    ],
+    "locate": "到第3段圈 not prosecute，先看 as long as 的条件，再读下一句 requires 后具体要求参与者做什么。",
+    "evidence": [
+      {
+        "paragraph": 2,
+        "quote": "the plan requires individuals and businesses that damage habitat as part of their operations to pay into a fund",
+        "meaning": "计划要求经营中破坏栖息地的个人和企业向基金缴款。"
+      }
+    ],
+    "reasoning": "不起诉的条件是签署恢复栖息地的计划；下一句把计划要求落到 pay into a fund。用 pay 与选项付款补偿对应即可。",
+    "options": [
+      "A 保留：向恢复栖息地的基金缴款，对应同意支付补偿款。",
+      "B 原文是每毁一英亩补两英亩，而且通过基金操作，非自愿建同等面积。",
+      "C WAFWA 负责监测是另一项安排，原文未将支持监测列为免责条件。",
+      "D 基金用途是恢复栖息地，选项把它换成 USFWS 的日常运转。"
+    ]
+  },
+  "past-2016-2-q29": {
+    "type": "细节定位",
+    "anchors": [
+      {
+        "text": "Ashe",
+        "meaning": "人名"
+      },
+      {
+        "text": "driver’s seat",
+        "meaning": "主导位置"
+      }
+    ],
+    "locate": "在第3段最后找到 Ashe 说的话，题目问 leading role，就看 driver’s seat 前面是谁。",
+    "evidence": [
+      {
+        "paragraph": 2,
+        "quote": "states remain in the driver’s seat for managing the species",
+        "meaning": "各州继续在管理该物种时处于主导位置。"
+      }
+    ],
+    "reasoning": "driver’s seat 字面是驾驶座，在这里表示掌舵。它前面的主语 states 就是答案，无需展开整个基金方案。",
+    "options": [
+      "A federal government 是联邦政府，引用句明确把主导位置留给各州。",
+      "B wildlife agencies 参与监测；题目问 Ashe 明确说谁主导。",
+      "C landowners 是保护计划合作对象，引用句没有把他们放在主导位。",
+      "D 保留：states 是 remain in the driver’s seat 的主语。"
+    ]
+  },
+  "past-2016-2-q30": {
+    "type": "态度",
+    "anchors": [
+      {
+        "text": "Jay Lininger",
+        "meaning": "人名"
+      },
+      {
+        "text": "extinction",
+        "meaning": "灭绝"
+      }
+    ],
+    "locate": "圈人名 Jay Lininger，到末段最后一句找他的批评，再对照前一句环保组织与产业组织各自嫌什么。",
+    "evidence": [
+      {
+        "paragraph": 3,
+        "quote": "environmentalists say it doesn’t go far enough.",
+        "meaning": "环保人士认为计划力度还不够。"
+      },
+      {
+        "paragraph": 3,
+        "quote": "the same industries that are pushing it to extinction",
+        "meaning": "正是那些把它推向灭绝的产业。"
+      }
+    ],
+    "reasoning": "他批评把管理责任交给造成灭绝风险的产业，说明担心保护太弱；这和环保组织的 doesn’t go far enough 同方向。",
+    "options": [
+      "A 他点名产业推动物种灭绝，立场与支持产业组织相反。",
+      "B win-win rhetoric 是本段受质疑的说法，他的批评没有认可它。",
+      "C 保留：他担心产业管理削弱保护，与环保组织嫌力度不足一致。",
+      "D 他批评计划的管理责任安排，无法据此推断支持该计划。"
+    ]
+  },
+  "past-2016-3-q31": {
+    "type": "原因",
+    "anchors": [
+      {
+        "text": "Deep reading",
+        "meaning": "深度阅读"
+      },
+      {
+        "text": "a special kind of time",
+        "meaning": "一种特殊时间"
+      }
+    ],
+    "locate": "题干问时间管理为什么不奏效，去第2段看 don’t seem sufficient，重点读该段最后的总结句。",
+    "evidence": [
+      {
+        "paragraph": 1,
+        "quote": "Deep reading requires not just time, but a special kind of time which can’t be obtained merely by becoming more efficient.",
+        "meaning": "深度阅读需要一种特殊的时间状态，单靠提高效率得不到。"
+      }
+    ],
+    "reasoning": "抓 not just…but… 和 can’t：缺少的是深读需要的状态，而不只是钟表上的空闲。选项里能包含这一要求的最完整。",
+    "options": [
+      "A 只说不能安抚现代心绪，概括范围小于深度阅读所需的特殊状态。",
+      "B 文中没有提出挑战性书籍必须反复阅读，增加了新要求。",
+      "C 随身携书是举例，失败原因并不是大家忘记带书。",
+      "D 保留：cannot be guaranteed 对应特殊阅读时间无法靠效率取得。"
+    ]
+  },
+  "past-2016-3-q32": {
+    "type": "例证",
+    "anchors": [
+      {
+        "text": "empty bottles",
+        "meaning": "空瓶子"
+      },
+      {
+        "text": "fill",
+        "meaning": "填满"
+      }
+    ],
+    "locate": "找第3段 empty bottles，比喻不必逐词翻译，重点看后面的 feel a pressure to fill 以及括号中的时间单位。",
+    "evidence": [
+      {
+        "paragraph": 2,
+        "quote": "we feel a pressure to fill these different-sized bottles (days, hours, minutes) as they pass",
+        "meaning": "时间流逝时，我们感到必须把这些代表日、时、分的瓶子填满。"
+      }
+    ],
+    "reasoning": "瓶子对应时间，fill 对应让时间充实。题目问这种压力是什么，把比喻换回日常说法即可，别把作者随后推荐的读法选进来。",
+    "options": [
+      "A to-do list 出现在更前面，瓶子比喻没有要求更新清单。",
+      "B 保留：把流逝时间的瓶子填满，对应让经过的时间过得充实。",
+      "C 执行计划比“填满时间”更具体，比喻没有限定为完成既定计划。",
+      "D carefree 与 fill 的压力相反，这是从压力读出了轻松。"
+    ]
+  },
+  "past-2016-3-q33": {
+    "type": "目的",
+    "anchors": [
+      {
+        "text": "scheduling regular times",
+        "meaning": "安排固定时间"
+      },
+      {
+        "text": "soul time",
+        "meaning": "沉浸的时间状态"
+      }
+    ],
+    "locate": "题干复现第4段 scheduling regular times，看到 You’d think 先别下结论，继续读 but in fact 后面的解释。",
+    "evidence": [
+      {
+        "paragraph": 3,
+        "quote": "such ritualistic behaviour helps us “step outside time’s flow” into “soul time.”",
+        "meaning": "这种固定仪式帮助我们脱离时间催促，进入沉浸状态。"
+      }
+    ],
+    "reasoning": "but in fact 后才是 Eberle 的观点。固定安排是手段，进入 soul time 是效果，对应 immersive reading（沉浸阅读）。",
+    "options": [
+      "A efficiency mind-set 位于 You’d think 的猜测中，随后被 but 转折。",
+      "B 建议中提到实体书和单一功能设备，没有培养在线阅读习惯。",
+      "C ritualistic 是固定安排本身的特点，题目问这种安排带来的帮助。",
+      "D 保留：进入 soul time，与实现 immersive reading 的含义对应。"
+    ]
+  },
+  "past-2016-3-q34": {
+    "type": "细节定位",
+    "anchors": [
+      {
+        "text": "Carry a book",
+        "meaning": "随身带书"
+      },
+      {
+        "text": "default state",
+        "meaning": "默认状态"
+      }
+    ],
+    "locate": "在末段找 Carry a book，重点读 providing 引出的条件；接着比较阅读和处理事务谁是默认、谁是临时。",
+    "evidence": [
+      {
+        "paragraph": 3,
+        "quote": "so that reading becomes the default state from which you temporarily surface to take care of business",
+        "meaning": "让阅读成为默认状态，临时抽身去处理事务。"
+      }
+    ],
+    "reasoning": "default 是默认、temporarily 是暂时，二者摆出了主次关系：阅读是底色，事务穿插其中。找表达这种主次的选项。",
+    "options": [
+      "A 保留：阅读成为默认状态，对应把阅读放到日常活动的主位。",
+      "B 原文允许阅读中临时处理事务，没有要求先把全部事务办完。",
+      "C 只说阅读后回到事务，漏掉阅读应当成为默认状态这一条件。",
+      "D evenly split 要求平均分时，原文说主次关系，没有五五分配。"
+    ]
+  },
+  "past-2016-3-q35": {
+    "type": "主旨",
+    "anchors": [
+      {
+        "text": "time to read",
+        "meaning": "阅读时间"
+      },
+      {
+        "text": "So what does work",
+        "meaning": "什么才有效"
+      }
+    ],
+    "locate": "主旨题最后做，先看第1段提出的抱怨，再看末段 So what does work 后给出的办法，概括同一个问题。",
+    "evidence": [
+      {
+        "paragraph": 0,
+        "quote": "There’s never any time to read.",
+        "meaning": "总没有时间阅读。"
+      },
+      {
+        "paragraph": 3,
+        "quote": "Perhaps surprisingly, scheduling regular times for reading.",
+        "meaning": "有效办法之一是安排固定阅读时间。"
+      }
+    ],
+    "reasoning": "开头问没有时间读书怎么办，中间分析旧办法，最后给新办法。标题要同时装下问题和解决路径，核心词就是 time 与 read。",
+    "options": [
+      "A easy 把阅读难易作为主题，正文重点是怎样安排适合阅读的时间。",
+      "B 保留：概括从没有时间到寻找有效阅读时间的整条论述。",
+      "C goals 是作者讨论效率问题时的局部，文章并不教设定目标。",
+      "D extensively 指广泛阅读，文中没有讨论扩大书目或阅读范围。"
+    ]
+  },
+  "past-2016-4-q36": {
+    "type": "细节定位",
+    "anchors": [
+      {
+        "text": "Across generational lines",
+        "meaning": "跨越代际"
+      },
+      {
+        "text": "having children",
+        "meaning": "生育孩子"
+      }
+    ],
+    "locate": "题干 cross-generation 指跨代共同点，到第2段找 Across generational lines，直接读 including 后的清单。",
+    "evidence": [
+      {
+        "paragraph": 1,
+        "quote": "including getting married, having children, owning a home, and retiring in their sixties",
+        "meaning": "包括结婚、生子、拥有住房和六十多岁退休。"
+      }
+    ],
+    "reasoning": "清单题只核对清单。getting married 与 having children 合起来就是组建有孩子的家庭，其他选项要么没出现，要么方向改了。",
+    "options": [
+      "A 不同生活方式没列入跨代共同的成功里程碑清单。",
+      "B 保留：结婚、生子两项可合并改写为有孩子的家庭。",
+      "C 原文列的是六十多岁退休，选项改成超过退休年龄继续工作。",
+      "D 清单没有创建盈利企业，不能把它补成共同标准。"
+    ]
+  },
+  "past-2016-4-q37": {
+    "type": "细节定位",
+    "anchors": [
+      {
+        "text": "financially secure",
+        "meaning": "经济有保障"
+      },
+      {
+        "text": "before getting married",
+        "meaning": "结婚之前"
+      }
+    ],
+    "locate": "题干限定第3段，先找 before getting married；长句中多个 to 并列，读含 financially 的这一小段即可。",
+    "evidence": [
+      {
+        "paragraph": 2,
+        "quote": "couples should be financially secure before getting married or having children",
+        "meaning": "夫妻应在结婚或生孩子前具备经济保障。"
+      }
+    ],
+    "reasoning": "before 是时间顺序，financially 对应 finance，getting married 对应 marital。把这三个词对上，就得到重视婚前经济。",
+    "options": [
+      "A 原文 favor a faster pace，选项 slower 直接反向。",
+      "B 原文倾向 regularly changing jobs，选项长期保持同一职业反向。",
+      "C 保留：婚前经济保障对应 pre-marital finance。",
+      "D 原文说父母外出工作，选项换成在家外照护孩子，动作主语错位。"
+    ]
+  },
+  "past-2016-4-q38": {
+    "type": "细节定位",
+    "anchors": [
+      {
+        "text": "priorities and expectations",
+        "meaning": "优先事项和期待"
+      },
+      {
+        "text": "virtually all aspects",
+        "meaning": "几乎所有方面"
+      }
+    ],
+    "locate": "圈题干 priorities and expectations，在第4段找原词；长句里跳过背景修饰，看 that 后面的 spread through。",
+    "evidence": [
+      {
+        "paragraph": 3,
+        "quote": "will increasingly spread through virtually all aspects of American life",
+        "meaning": "会越来越广地影响美国生活几乎所有方面。"
+      }
+    ],
+    "reasoning": "spread through 表示扩展到，virtually all 对应 almost all。后面的消费、住房、政治是范围举例，共同支持覆盖面广。",
+    "options": [
+      "A clear 指越来越清晰，原文 increasingly 修饰影响扩散，并非变清晰。",
+      "B 只限物质问题太窄，原文还列政治等其他生活方面。",
+      "C politics 是将受影响的方面，选项把它变成决定这些期待的原因。",
+      "D 保留：reach almost all 对应 spread through virtually all。"
+    ]
+  },
+  "past-2016-4-q39": {
+    "type": "细节定位",
+    "anchors": [
+      {
+        "text": "Young and old",
+        "meaning": "年轻与年长者"
+      },
+      {
+        "text": "harder",
+        "meaning": "更困难"
+      }
+    ],
+    "locate": "用题干 both young and old 找第5段首句，读 one key point 后的说明；比较对象是现在与以前。",
+    "evidence": [
+      {
+        "paragraph": 4,
+        "quote": "it is harder for young people today to get started in life than it was for earlier generations",
+        "meaning": "今天的年轻人起步比以前几代人更困难。"
+      }
+    ],
+    "reasoning": "harder 和 get started 是主干，选项 getting established 是站稳脚跟的改写。后面的工作、家庭、住房是对这条总判断的展开。",
+    "options": [
+      "A 高薪工作只是起步困难的例子，原文没有单独比较岗位供应数量。",
+      "B 重点是年轻人起步难，文中没有盘点老人已取得多少成就。",
+      "C 房屋负担被列为困难，easy to obtain 与段落方向相反。",
+      "D 保留：getting established 对应 get started，harder 原词直接复现。"
+    ]
+  },
+  "past-2016-4-q40": {
+    "type": "细节定位",
+    "anchors": [
+      {
+        "text": "Schneider",
+        "meaning": "人名"
+      },
+      {
+        "text": "college degrees",
+        "meaning": "大学文凭"
+      }
+    ],
+    "locate": "到最后一段找 Schneider，题目问哪项属实，优先核对引号里 parents、college degrees 和家庭生活的关系。",
+    "evidence": [
+      {
+        "paragraph": 5,
+        "quote": "I still grew up in an upper middle-class home with parents who didn’t have college degrees",
+        "meaning": "父母没有大学文凭，我仍在中上阶层家庭长大。"
+      }
+    ],
+    "reasoning": "didn’t have college degrees 与 upper middle-class 同句出现：无大学文凭仍能过较好的生活。把父母和他本人分清即可。",
+    "options": [
+      "A 他毕业后 struggled to find a job，原文没有说找到梦想工作。",
+      "B working steadily 描述他当前的工作状态，选项换成父母对成功的信念。",
+      "C 保留：父母没有大学文凭，仍为孩子提供较舒适的家庭生活。",
+      "D tougher 指今天生活起步更难，选项偷换为维修技师工作本身难。"
+    ]
+  },
+  "past-2017-1-q21": {
+    "type": "细节定位",
+    "anchors": [
+      {
+        "text": "50,000",
+        "meaning": "五万人"
+      },
+      {
+        "text": "400 events",
+        "meaning": "四百场活动"
+      }
+    ],
+    "locate": "题干限定第1段，圈两组人数和场次数，再看 runners 的年龄、用时范围，用数字判断活动覆盖面。",
+    "evidence": [
+      {
+        "paragraph": 0,
+        "quote": "more than 50,000 runners set off to run 5km around their local park",
+        "meaning": "超过五万人开始在当地公园跑五公里。"
+      },
+      {
+        "paragraph": 0,
+        "quote": "has inspired 400 events in the UK and more abroad",
+        "meaning": "促成英国四百场活动以及更多海外活动。"
+      }
+    ],
+    "reasoning": "数字大、活动从英国扩展到国外，年龄从儿童到祖辈，合起来指参与广泛。无需知道每个人名，找表示受欢迎的选项。",
+    "options": [
+      "A 保留：五万多人、四百场及海外扩展共同支持广受欢迎。",
+      "B 工作人员是 volunteers（志愿者），文中没有说创造许多岗位。",
+      "C 首段介绍参与规模与人员范围，没有描述社区关系得到加强。",
+      "D 每周举办活动没有被称为官方节日，official festival 属额外信息。"
+    ]
+  },
+  "past-2017-1-q22": {
+    "type": "细节定位",
+    "anchors": [
+      {
+        "text": "Olympic “legacy”",
+        "meaning": "奥运遗产"
+      },
+      {
+        "text": "doing weekly sport",
+        "meaning": "每周运动"
+      }
+    ],
+    "locate": "用 Olympic legacy 到第2段，先看 promised 的目标，再读 It has not happened 后关于参与人数的转折。",
+    "evidence": [
+      {
+        "paragraph": 1,
+        "quote": "the great legacy of the Games would be to lever a nation of sport lovers away from their couches",
+        "meaning": "奥运遗产原计划是让全国体育爱好者离开沙发参与运动。"
+      },
+      {
+        "paragraph": 1,
+        "quote": "Worse, the numbers are now falling at an accelerating rate.",
+        "meaning": "更糟的是，参与人数现在加速下降。"
+      }
+    ],
+    "reasoning": "离开 couches 是从坐着看变成亲自运动，后面参与数字下降说明该目标落空。把目标与失败证据合起来看。",
+    "options": [
+      "A population growth 是用来比较体育人数增幅的背景，不是奥运目标。",
+      "B 保留：让人参与运动是承诺，实际运动人数下降说明未实现。",
+      "C 本段没有把提升城市形象作为被检验的目标。",
+      "D 学校运动时数是总体参与下降的例子，范围小于题目问的整体目标。"
+    ]
+  },
+  "past-2017-1-q23": {
+    "type": "细节定位",
+    "anchors": [
+      {
+        "text": "welcomes anybody",
+        "meaning": "欢迎任何人"
+      },
+      {
+        "text": "by contrast",
+        "meaning": "相比之下"
+      }
+    ],
+    "locate": "到第3段找 by contrast，分别看前面的 Parkrun 欢迎谁、后面的奥运强调谁，比较两边的重心。",
+    "evidence": [
+      {
+        "paragraph": 2,
+        "quote": "The ethos welcomes anybody.",
+        "meaning": "活动精神欢迎任何人。"
+      },
+      {
+        "paragraph": 2,
+        "quote": "The stress on success over taking part was intimidating for newcomers.",
+        "meaning": "比起参与更强调成功，会让新手畏缩。"
+      }
+    ],
+    "reasoning": "anybody 和 newcomers 提醒你关注普通人；奥运侧重成功与精英，Parkrun 对首次完成与顶尖选手都鼓掌。",
+    "options": [
+      "A discovering talents 更接近奥运培养精英的目标，没抓住双方差别。",
+      "B 首句说 not a race、只与时钟比，选项误读成群众间竞争。",
+      "C 保留：欢迎任何人、同样鼓励初次参与者，体现不强调精英主义。",
+      "D 文中明确给 first-timer 鼓掌，选项说不吸引新手，方向相反。"
+    ]
+  },
+  "past-2017-1-q24": {
+    "type": "细节定位",
+    "anchors": [
+      {
+        "text": "role for government",
+        "meaning": "政府角色"
+      },
+      {
+        "text": "providing common goods",
+        "meaning": "提供公共产品"
+      }
+    ],
+    "locate": "题干问政府该做什么，到末段找 If there is a role，再看破折号后列出的场地与资金用途。",
+    "evidence": [
+      {
+        "paragraph": 3,
+        "quote": "making sure there is space for playing fields and the money to pave tennis and netball courts",
+        "meaning": "确保有运动场地，并有资金修建网球和篮网球场。"
+      }
+    ],
+    "reasoning": "列举的 playing fields、courts 都是体育设施。题干问 governments should，应取作者建议的公共投入方向。",
+    "options": [
+      "A 首句认为政府介入草根协会规划有些荒唐，重点不在组织赛事。",
+      "B 文中建议提供运动条件，没有提出加强对地方协会的监管。",
+      "C money 用于铺设球场，选项改成给体育俱乐部增资，受益对象变化。",
+      "D 保留：运动场与球场的资金投入可概括为公共体育设施投资。"
+    ]
+  },
+  "past-2017-1-q25": {
+    "type": "态度",
+    "anchors": [
+      {
+        "text": "selling green spaces",
+        "meaning": "出售绿地"
+      },
+      {
+        "text": "make them worse",
+        "meaning": "使情况更糟"
+      }
+    ],
+    "locate": "题干问已做之事，去末段 But successive governments 后看评价；把未来建议与过去行为分开。",
+    "evidence": [
+      {
+        "paragraph": 3,
+        "quote": "selling green spaces, squeezing money from local authorities and declining attention on sport in education",
+        "meaning": "出售绿地、压缩地方资金、降低对体育教育的重视。"
+      }
+    ],
+    "reasoning": "selling、squeezing、declining 三项负面变化后，作者要求做更多，至少别恶化条件，语气明确是批评已有做法。",
+    "options": [
+      "A tolerant 指容忍，连续批评削减场地和资金的语气更明确。",
+      "B 保留：指出政府削减体育条件，并要求改变，体现批评态度。",
+      "C uncertain 指不确定，作者已明确列举问题并提出要求。",
+      "D sympathetic 指同情，文中没有为政府的困难作体谅说明。"
+    ]
+  },
+  "past-2017-2-q26": {
+    "type": "细节定位",
+    "anchors": [
+      {
+        "text": "designed",
+        "meaning": "被设计为"
+      },
+      {
+        "text": "maximal engagement",
+        "meaning": "最大程度投入"
+      }
+    ],
+    "locate": "在第1段找 designed，题干问产品设计目的，读吸引用户的引语，并看下一句 hard to disengage。",
+    "evidence": [
+      {
+        "paragraph": 0,
+        "quote": "digital products are there to promote maximal engagement",
+        "meaning": "数字产品旨在促使用户最大程度投入。"
+      }
+    ],
+    "reasoning": "maximal engagement 和 hard to disengage 共同说明吸住注意力。题干 designed 的目的用吸引用户注意即可概括。",
+    "options": [
+      "A routine 是被侵入的家庭日常，原文没有说产品旨在简化它。",
+      "B 保留：最大投入和难以脱离，直接对应吸住用户注意力。",
+      "C 后文出现家庭紧张，原句设计目的也没有提改善人际关系。",
+      "D 工作效率未出现在这一设计目的句中，属于另加的用途。"
+    ]
+  },
+  "past-2017-2-q27": {
+    "type": "细节定位",
+    "anchors": [
+      {
+        "text": "food-testing",
+        "meaning": "食物测试"
+      },
+      {
+        "text": "fewer",
+        "meaning": "更少"
+      }
+    ],
+    "locate": "用 food-testing 到第2段，食物只是实验场景，直接读 She found 后 20% 和 39% 的结果。",
+    "evidence": [
+      {
+        "paragraph": 1,
+        "quote": "started 20 per cent fewer verbal and 39 per cent fewer nonverbal interactions with their children",
+        "meaning": "与孩子发起的语言互动少了20%，非语言互动少了39%。"
+      }
+    ],
+    "reasoning": "两组百分比后都跟 fewer，减少的对象是 interactions（互动）。选择概括母子交流减少的项。",
+    "options": [
+      "A 实验名称含食物，但测量结果是互动次数，没有测婴儿食欲。",
+      "B 父母看邮件导致分心，选项把主要变化的主体换成孩子注意力。",
+      "C verbal interactions 是语言互动次数，选项扩大为语言发育速度。",
+      "D 保留：两类母子互动都减少，概括为母子交流减少。"
+    ]
+  },
+  "past-2017-2-q28": {
+    "type": "例证",
+    "anchors": [
+      {
+        "text": "still face experiment",
+        "meaning": "静止脸实验"
+      },
+      {
+        "text": "responsive and sensitive",
+        "meaning": "有回应并敏感"
+      }
+    ],
+    "locate": "在第3段找到实验名称，先看孩子 distressed 的反应，再读段末 Radesky 用 but 给出的建议。",
+    "evidence": [
+      {
+        "paragraph": 2,
+        "quote": "parents need to be responsive and sensitive to a child’s verbal or nonverbal expressions of an emotional need",
+        "meaning": "父母需要回应并留意孩子用语言或非语言表达的情感需求。"
+      }
+    ],
+    "reasoning": "例子显示父母不回应时孩子焦虑，段末把例子归结成父母应回应需求。抓 responsive 与 emotional need 即可。",
+    "options": [
+      "A 孩子 increasingly distressed，说明空白表情令其痛苦，非容易习惯。",
+      "B 原文同时重视 verbal 和 nonverbal，选项把语言表达说成不必要。",
+      "C 孩子会因不回应而焦虑，insensitive 与观察到的反应相反。",
+      "D 保留：段末直接要求父母回应孩子表达出来的情感需求。"
+    ]
+  },
+  "past-2017-2-q29": {
+    "type": "细节定位",
+    "anchors": [
+      {
+        "text": "oppressive ideology",
+        "meaning": "压迫性的观念"
+      },
+      {
+        "text": "always be interacting",
+        "meaning": "始终互动"
+      }
+    ],
+    "locate": "在末段圈 oppressive ideology，题干问该观念要求什么，直接读紧跟其后的 that demands 从句。",
+    "evidence": [
+      {
+        "paragraph": 3,
+        "quote": "demands that parents should always be interacting",
+        "meaning": "要求父母应该始终与孩子互动。"
+      }
+    ],
+    "reasoning": "always 是本题最重要的词，对应 constant。后面的三万词是这种高要求的举例，先用定义句回答。",
+    "options": [
+      "A fantasies 是对育儿观念的不现实评价，选项错写成保护孩子免受幻想。",
+      "B 三万词是举例，原文没有 a year，而且定义范围不限教词汇。",
+      "C 保留：constant interaction 与 always be interacting 直接对应。",
+      "D 题干问该观念的要求，原句要求始终互动，非持续担心屏幕使用。"
+    ]
+  },
+  "past-2017-2-q30": {
+    "type": "细节定位",
+    "anchors": [
+      {
+        "text": "gives parents time",
+        "meaning": "给父母时间"
+      },
+      {
+        "text": "have a break",
+        "meaning": "休息一下"
+      }
+    ],
+    "locate": "末段找 Tronick believes，跟到 particularly if 后的父母活动清单，只核对使用屏幕带来的这一好处。",
+    "evidence": [
+      {
+        "paragraph": 3,
+        "quote": "if it gives parents time to have a shower, do housework or simply have a break from their child",
+        "meaning": "如果能让父母有时间洗澡、做家务或暂时休息。"
+      }
+    ],
+    "reasoning": "洗澡、做家务、休息三件事都指父母得到时间。题目用 may 保留条件，不必证明屏幕对孩子学习有益。",
+    "options": [
+      "A 保留：给父母洗澡和休息的时间，对应 some free time。",
+      "B feel happier 说更快乐，没有推导出更有创造力。",
+      "C housework 是父母家务，选项换成孩子 homework，拼写相近但对象不同。",
+      "D 文中说父母休息后更能陪孩子，没有说孩子注意力会提升。"
+    ]
+  },
+  "past-2017-3-q31": {
+    "type": "原因",
+    "anchors": [
+      {
+        "text": "everyone you know",
+        "meaning": "你认识的所有人"
+      },
+      {
+        "text": "doesn’t feel natural",
+        "meaning": "感觉不自然"
+      }
+    ],
+    "locate": "题干问高中毕业生为何不休学，去首段找 everyone 与 silly，读“别人都上大学，自己停一年”的对比。",
+    "evidence": [
+      {
+        "paragraph": 0,
+        "quote": "if everyone you know is going to college in the fall, it seems silly to stay back a year",
+        "meaning": "如果认识的人都秋季上大学，自己停一年似乎显得傻。"
+      }
+    ],
+    "reasoning": "所有人都去、自己留下，是从众压力；接着 doesn’t feel natural 说明感觉不自然，正好对应做得不同很奇怪。",
+    "options": [
+      "A 首段说偏离常规显得不自然，没有说学术方向会被误导。",
+      "B 文中没有把大学的娱乐吸引力列为不休学的理由。",
+      "C 保留：别人都上大学，自己停一年显得奇怪，直接对应从众顾虑。",
+      "D 原文说一年做非学术活动，没有评价校外课程值不值得。"
+    ]
+  },
+  "past-2017-3-q32": {
+    "type": "推断",
+    "anchors": [
+      {
+        "text": "United States and Australia",
+        "meaning": "美国和澳大利亚"
+      },
+      {
+        "text": "lessen the blow",
+        "meaning": "减轻冲击"
+      }
+    ],
+    "locate": "用国家名定位第3段，先看研究结果，再找 lessening 和 adjusting 一组词，判断新生遇到什么被减轻了。",
+    "evidence": [
+      {
+        "paragraph": 2,
+        "quote": "Gap year experiences can lessen the blow when it comes to adjusting to college and being thrown into a brand new environment",
+        "meaning": "间隔年经历可以减轻适应大学和全新环境带来的冲击。"
+      }
+    ],
+    "reasoning": "把长句压成 lessen the blow＝减轻冲击，就能对应 relieve pressures。这里讨论独立和新环境，财务问题要到下一段。",
+    "options": [
+      "A 研究列出准备更充分和适应更好，没有测量是否更加现实。",
+      "B careers 在其他背景讨论中出现，本段研究聚焦大学适应。",
+      "C 财务好处在第4段另谈，题干指定美澳研究，定位范围不符。",
+      "D 保留：减轻适应大学的冲击，可改写为缓解新生压力。"
+    ]
+  },
+  "past-2017-3-q33": {
+    "type": "词义",
+    "anchors": [
+      {
+        "text": "adjusting to college",
+        "meaning": "适应大学"
+      },
+      {
+        "text": "brand new environment",
+        "meaning": "全新环境"
+      }
+    ],
+    "locate": "词义题按第3段找 acclimation，回看同一句前半段的 adjusting to college，这里已有近义表达。",
+    "evidence": [
+      {
+        "paragraph": 2,
+        "quote": "adjusting to college and being thrown into a brand new environment",
+        "meaning": "适应大学，以及进入一个全新的环境。"
+      }
+    ],
+    "reasoning": "一句里前半说适应新环境，后半说可以更专注学业而少犯适应错误。adjusting 和 adaptation 是对应词，不必背生词本身。",
+    "options": [
+      "A 保留：adaptation 表示适应，与前面的 adjusting to college 一致。",
+      "B application 表示申请或应用，定位句讨论已经进入大学后的调整。",
+      "C motivation 表示动机，原句没有描述学习意愿的形成。",
+      "D competition 表示竞争，定位句重点是新环境适应，不是同学竞争。"
+    ]
+  },
+  "past-2017-3-q34": {
+    "type": "原因",
+    "anchors": [
+      {
+        "text": "changing their majors",
+        "meaning": "换专业"
+      },
+      {
+        "text": "costly",
+        "meaning": "花费大"
+      }
+    ],
+    "locate": "题干 save money 对应末段末句，往前找 costly 的原因，再看 gap year 可以提前想清什么。",
+    "evidence": [
+      {
+        "paragraph": 3,
+        "quote": "it can be costly to make up credits after switching too late in the game",
+        "meaning": "太晚换专业后补学分，可能花费很大。"
+      },
+      {
+        "paragraph": 3,
+        "quote": "Taking a gap year to figure things out initially can help prevent stress and save money later on.",
+        "meaning": "先用间隔年想清楚方向，有助于减少后来压力并省钱。"
+      }
+    ],
+    "reasoning": "省钱的链条是提前想清专业→减少后期换专业补学分。题目问通过什么省钱，要选选定合适专业，而非泛泛目标。",
+    "options": [
+      "A 原文额外支出来自换专业补学分，没说来自考试失败。",
+      "B long-term goals 范围较泛，省钱机制具体落在专业选择。",
+      "C Boston College 的例子是校内转院系，选项误写成换大学。",
+      "D 保留：提前明确合适专业，可以减少换专业带来的额外学分支出。"
+    ]
+  },
+  "past-2017-3-q35": {
+    "type": "主旨",
+    "anchors": [
+      {
+        "text": "enhances",
+        "meaning": "增强"
+      },
+      {
+        "text": "save money",
+        "meaning": "省钱"
+      }
+    ],
+    "locate": "先做完其余题，再看第2段 in fact 后的评价和末段省钱结论，判断全文围绕间隔年的支持还是顾虑展开。",
+    "evidence": [
+      {
+        "paragraph": 1,
+        "quote": "a gap year does not hinder the success of academic pursuits – in fact, it probably enhances it.",
+        "meaning": "间隔年不会阻碍学业成功，实际上还可能促进。"
+      },
+      {
+        "paragraph": 3,
+        "quote": "can help prevent stress and save money later on",
+        "meaning": "可以帮助减少日后的压力并省钱。"
+      }
+    ],
+    "reasoning": "作者先提顾虑，随后用适应更好和节省费用两条理由回应。标题选能体现支持立场的，其他项缺少这条论证方向。",
+    "options": [
+      "A 保留：In Favor of 表示赞成，覆盖学业适应与经济收益两条论据。",
+      "B ABCs 表示基本知识介绍，文章重心是论证值得休间隔年。",
+      "C Comes Back 暗示曾消失又回归，文中没有交代这种历史变化。",
+      "D Dilemma 表示两难，作者后文持续提供支持理由而非停留在困境。"
+    ]
+  },
+  "past-2017-4-q36": {
+    "type": "原因",
+    "anchors": [
+      {
+        "text": "2015",
+        "meaning": "年份"
+      },
+      {
+        "text": "more than half",
+        "meaning": "超过一半"
+      }
+    ],
+    "locate": "题干给出2015，直接到第2段圈年份和百分比比较；题目问全国担忧的原因，查看预算被占多少。",
+    "evidence": [
+      {
+        "paragraph": 1,
+        "quote": "for the first time spent more than half of its $5.5 billion annual budget fighting fires",
+        "meaning": "首次把五十五亿美元年度预算的一半以上用于灭火。"
+      }
+    ],
+    "reasoning": "for the first time 和 more than half 合起来表示比例首次这么高；后面 nearly double 再强调增加，答案应抓预算比例。",
+    "options": [
+      "A 管理工作被影响是后果，原文没有用2015说明投入管理努力创纪录。",
+      "B 保留：首次超过半数预算，对应 record-high percentage of budget。",
+      "C 首段已有西部背景，题干问全国财政担忧，不能只取西部生态。",
+      "D 原文说其他工作资金减少，选项把基础设施支出写成大幅增长。"
+    ]
+  },
+  "past-2017-4-q37": {
+    "type": "目的",
+    "anchors": [
+      {
+        "text": "magnifying glass",
+        "meaning": "放大镜"
+      },
+      {
+        "text": "lower-hazard",
+        "meaning": "危险较低"
+      }
+    ],
+    "locate": "在第4段找到 magnifying glass，先用前一段确定 that 指什么，再看 redirect those funds 后的去向。",
+    "evidence": [
+      {
+        "paragraph": 3,
+        "quote": "redirect those funds to concentrate on lower-hazard parts of the landscape",
+        "meaning": "把这些资金转向危险程度较低的地区。"
+      }
+    ],
+    "reasoning": "放大镜是仔细审查花钱方向，前文问何必建容易烧毁的房屋，后文建议投向低风险区，目的就是更安全地用公款。",
+    "options": [
+      "A 作者质疑向易火灾区投入，选项反而要求给这些地区筹更多钱。",
+      "B 作者提出 redirect，选项 avoid redirection 把方向倒过来。",
+      "C lower-hazard 表示风险较低，wildfire-free 夸大成完全没有野火。",
+      "D 保留：审查公款并投向低风险地区，目的是让支出更安全合理。"
+    ]
+  },
+  "past-2017-4-q38": {
+    "type": "细节定位",
+    "anchors": [
+      {
+        "text": "climate is a key element",
+        "meaning": "气候是关键因素"
+      },
+      {
+        "text": "rest of the equation",
+        "meaning": "其他因素"
+      }
+    ],
+    "locate": "题干几乎复现第7段整句，定位后看 while 后的让步，再看 shouldn’t 后作者真正补充的要求。",
+    "evidence": [
+      {
+        "paragraph": 6,
+        "quote": "it shouldn’t come at the expense of the rest of the equation.",
+        "meaning": "重视气候不应以忽略其他因素为代价。"
+      }
+    ],
+    "reasoning": "While 承认气候重要，后半要求兼顾其他因素。把 rest of the equation 理解成剩下的影响因素，就能对应选项。",
+    "options": [
+      "A 本句讨论应考虑哪些因素，没有评价公共辩论是否结束。",
+      "B 前文说气候使火情恶化，这里也没说灭火条件正改善。",
+      "C 保留：不以其他因素为代价，对应其他因素也要受到重视。",
+      "D 第5段提出需要转变看法，选项把需要发生写成已经发生。"
+    ]
+  },
+  "past-2017-4-q39": {
+    "type": "原因",
+    "anchors": [
+      {
+        "text": "interactions go both ways",
+        "meaning": "相互作用是双向的"
+      },
+      {
+        "text": "Failing to recognize that",
+        "meaning": "未认识到这一点"
+      }
+    ],
+    "locate": "找到第8段 overly simplified，往前找 Failing to recognize that，再用上一句确定 that 具体指什么。",
+    "evidence": [
+      {
+        "paragraph": 7,
+        "quote": "The human systems and the landscapes we live on are linked, and the interactions go both ways",
+        "meaning": "人类社会系统与居住的环境相连，相互作用是双向的。"
+      }
+    ],
+    "reasoning": "that 指上一句人与环境双向联系。题干问过度简化从何而来，就是没有看到这种相互关系。",
+    "options": [
+      "A fundamental makeup 说自然的基本构成，原句强调人与环境之间的联系。",
+      "B 只谈 human systems 内部机制，漏掉人与环境的另一半关系。",
+      "C maximize 要求把作用最大化，原句只要求认识已有的双向关系。",
+      "D 保留：interrelations of man and nature 对应人类与环境双向相连。"
+    ]
+  },
+  "past-2017-4-q40": {
+    "type": "态度",
+    "anchors": [
+      {
+        "text": "Balch",
+        "meaning": "人名"
+      },
+      {
+        "text": "inevitable presence",
+        "meaning": "不可避免的存在"
+      }
+    ],
+    "locate": "用 Balch 到倒数第2段，看 But 后的建议，再读末段 living with fire，确定作者主张怎样面对火。",
+    "evidence": [
+      {
+        "paragraph": 8,
+        "quote": "acknowledging fire’s inevitable presence in human life",
+        "meaning": "承认火在人类生活中不可避免地存在。"
+      },
+      {
+        "paragraph": 9,
+        "quote": "living with fire",
+        "meaning": "与火共存。"
+      }
+    ],
+    "reasoning": "inevitable 表示不可避免，living with 表示共存；选项应表达接受并妥善应对，而非消灭或远离。",
+    "options": [
+      "A do away with 是消除，和承认其不可避免存在的建议相反。",
+      "B 保留：come to terms with 表示接受并适应，与承认存在、共存对应。",
+      "C pay a price 强调付出代价，段落重心是改变人与火的相处观念。",
+      "D keep away from 是远离，原文强调理解今天人与火的联系。"
+    ]
+  },
+  "past-2018-1-q21": {
+    "type": "例证",
+    "anchors": [
+      {
+        "text": "broken bike chain",
+        "meaning": "坏掉的自行车链条"
+      },
+      {
+        "text": "practical",
+        "meaning": "实践的"
+      }
+    ],
+    "locate": "到第2段找 bike chain，向前找 but practical；比较“能报总统姓名”和“面对坏车链不知所措”这两个场景。",
+    "evidence": [
+      {
+        "paragraph": 1,
+        "quote": "students should be able to name the 13th president of the United States but be utterly overwhelmed by a broken bike chain",
+        "meaning": "学生能说出第十三任美国总统，却面对坏掉的车链完全不知所措。"
+      }
+    ],
+    "reasoning": "but 前是记忆知识，后是修理实际物品。例子用反差指出动手能力缺口，答案应选择实践能力。",
+    "options": [
+      "A 保留：记得总统却不会处理车链，显示实践动手能力不足。",
+      "B 例子中的学生已有记忆性知识，缺口并非学术训练本身。",
+      "C pioneering 用来称赞教师实践，例子没有测学生的开创精神。",
+      "D 能报总统姓名恰好说明有机械记忆，选项把优势写成缺失。"
+    ]
+  },
+  "past-2018-1-q22": {
+    "type": "细节定位",
+    "anchors": [
+      {
+        "text": "vocational education",
+        "meaning": "职业教育"
+      },
+      {
+        "text": "academically",
+        "meaning": "学业方面"
+      }
+    ],
+    "locate": "用 prejudice 找第4段，直接读 vocational education 后引号里的刻板说法，重点看 can’t make it academically。",
+    "evidence": [
+      {
+        "paragraph": 3,
+        "quote": "it’s for kids who can’t make it academically",
+        "meaning": "它是给学业上无法取得成功的孩子准备的。"
+      }
+    ],
+    "reasoning": "can’t make it 表示做不成，academically 限定学业。题目只让你复述偏见，不是认可这种偏见，选同义改写即可。",
+    "options": [
+      "A stereotype 是别人对职业教育的看法，选项换成孩子思想刻板。",
+      "B career motivation 指职业动力，原句谈学业表现，并非职业意愿。",
+      "C 保留：can’t make it academically 对应学业上不成功。",
+      "D financially 指经济条件，定位句没有拿贫困作为该偏见内容。"
+    ]
+  },
+  "past-2018-1-q23": {
+    "type": "推断",
+    "anchors": [
+      {
+        "text": "once offered",
+        "meaning": "曾经提供"
+      },
+      {
+        "text": "has largely evaporated",
+        "meaning": "大部分已经消失"
+      }
+    ],
+    "locate": "题干限定第5段，圈 once 和 has largely evaporated，把过去与现在对比，只读 high school graduates 所在句。",
+    "evidence": [
+      {
+        "paragraph": 4,
+        "quote": "The job security that the US economy once offered to high school graduates has largely evaporated.",
+        "meaning": "美国经济曾为高中毕业生提供的就业保障，如今大部分已经消失。"
+      }
+    ],
+    "reasoning": "once 说明过去有，evaporated 说明现在失去。反向还原过去状况，就是过去高中毕业生拥有更好的就业机会。",
+    "options": [
+      "A 原文说过去就业保障较好，不能改成过去主要有很大财务忧虑。",
+      "B 保留：曾有的就业保障消失，支持过去机会比现在更多的推断。",
+      "C 制造业地位下降是经济变化，文中没有说毕业生不愿做制造业。",
+      "D More education 是新要求，选项把要求换成已获得的教育特权。"
+    ]
+  },
+  "past-2018-1-q24": {
+    "type": "推断",
+    "anchors": [
+      {
+        "text": "bachelor’s degrees for all",
+        "meaning": "人人取得学士学位"
+      },
+      {
+        "text": "devaluing of anything less",
+        "meaning": "贬低低于该学历的教育"
+      }
+    ],
+    "locate": "用题干 headlong push 到第6段，先读破折号中的评价，再看后面中等技能岗位与受训工人的比例。",
+    "evidence": [
+      {
+        "paragraph": 5,
+        "quote": "the subtle devaluing of anything less",
+        "meaning": "对低于学士学位的选择的隐性贬低。"
+      },
+      {
+        "paragraph": 5,
+        "quote": "54 percent of the jobs in the country are middle-skill jobs",
+        "meaning": "全国百分之五十四的工作属于中等技能岗位。"
+      }
+    ],
+    "reasoning": "一边把学士学位推给所有人，一边贬低其他教育，但就业需求有大量技能岗位。作者在指出对高等教育估值过高。",
+    "options": [
+      "A 54% 是现有岗位构成，文中没有说追求学位创造了这些岗位。",
+      "B 文章说技能缺口仍在，解决方向是技术教育，不是人人读学位。",
+      "C 训练缺口来自教育不匹配，选项把被批评的推动写成改善方案。",
+      "D 保留：devaluing anything less 显示学士学位被过分抬高。"
+    ]
+  },
+  "past-2018-1-q25": {
+    "type": "态度",
+    "anchors": [
+      {
+        "text": "fill that gap",
+        "meaning": "填补缺口"
+      },
+      {
+        "text": "wake-up call",
+        "meaning": "警醒"
+      }
+    ],
+    "locate": "先看倒数第2段学校在解决什么，再看末段 wake-up call，判断作者把这所学校作为好办法还是失败案例。",
+    "evidence": [
+      {
+        "paragraph": 6,
+        "quote": "Koziatek’s Manchester School of Technology High School is trying to fill that gap.",
+        "meaning": "这所技术高中正在尝试填补技能岗位与合格工人之间的缺口。"
+      },
+      {
+        "paragraph": 7,
+        "quote": "Koziatek’s school is a wake-up call.",
+        "meaning": "这所学校是一记警醒。"
+      }
+    ],
+    "reasoning": "fill that gap 是解决问题，wake-up call 用来提醒教育照顾不同天赋。两处把学校放在积极位置，对应支持。",
+    "options": [
+      "A 保留：作者肯定学校填补技能缺口，并借它提醒教育尊重多样天赋。",
+      "B tolerant 只是容忍，无法表达作者对学校解决现实问题的肯定。",
+      "C disappointed 指失望，学校在文中被作为弥补缺口的积极例子。",
+      "D cautious 指谨慎保留，末尾评价没有提出对该校的担忧条件。"
+    ]
+  },
+  "past-2018-2-q26": {
+    "type": "词义",
+    "anchors": [
+      {
+        "text": "plummeting prices",
+        "meaning": "价格变化"
+      },
+      {
+        "text": "dropped by 80 percent",
+        "meaning": "下降百分之八十"
+      }
+    ],
+    "locate": "词义题到第2段找 plummeting，直接读下一句数字变化，判断价格箭头朝上还是朝下。",
+    "evidence": [
+      {
+        "paragraph": 1,
+        "quote": "The cost of solar panels has dropped by 80 percent",
+        "meaning": "太阳能板成本下降了百分之八十。"
+      }
+    ],
+    "reasoning": "下一句用 dropped 和巨大降幅解释前一句生词。先确定下降方向，四个选项里选 falling，不需要知道该词词根。",
+    "options": [
+      "A stabilizing 指稳定，与后面80%的下降幅度不合。",
+      "B changing 只说改变，后文已经明确变化向下，可进一步缩小。",
+      "C 保留：dropped by 80 percent 清楚支持 falling（下降）。",
+      "D rising 指上涨，与 dropped 的方向正好相反。"
+    ]
+  },
+  "past-2018-2-q27": {
+    "type": "细节定位",
+    "anchors": [
+      {
+        "text": "United States",
+        "meaning": "美国"
+      },
+      {
+        "text": "remarkable shift",
+        "meaning": "显著变化"
+      }
+    ],
+    "locate": "题干指定第3段，跳过苏格兰例子，找到 United States，再看 also 和 for the first time 后的数据。",
+    "evidence": [
+      {
+        "paragraph": 2,
+        "quote": "the United States is also seeing a remarkable shift",
+        "meaning": "美国也正在经历显著的转变。"
+      }
+    ],
+    "reasoning": "remarkable 就是显著，shift 是变化；风电和光伏首次超过10%给出进展证据。题目问美国，别借欧洲数据替美国作比较。",
+    "options": [
+      "A 保留：remarkable shift 与首次超过10%的数据支持显著进展。",
+      "B 原文说欧洲领先，没有说美国使用广度与欧洲相等。",
+      "C 本段展示应用增加，未讨论美国面临哪些困难。",
+      "D 新能源已经实际发电，impractical 与该段事实相反。"
+    ]
+  },
+  "past-2018-2-q28": {
+    "type": "推断",
+    "anchors": [
+      {
+        "text": "Iowa",
+        "meaning": "艾奥瓦州"
+      },
+      {
+        "text": "36 percent",
+        "meaning": "百分之三十六"
+      }
+    ],
+    "locate": "圈地名 Iowa，到第4段读 But 后的本地情况；重点看 fields 和36%这个直接证据。",
+    "evidence": [
+      {
+        "paragraph": 3,
+        "quote": "wind turbines dot the fields and provide 36 percent of the state’s electricity generation",
+        "meaning": "风机遍布田野，提供该州百分之三十六的发电量。"
+      }
+    ],
+    "reasoning": "风机遍布加较大供电占比，能推出风能广泛使用。只据现有数字推一步，别把广泛使用夸成完全替代。",
+    "options": [
+      "A 保留：遍布田野且提供36%电力，支持风能广泛使用。",
+      "B 36% 无法推出已替代所有化石燃料，选项扩大了覆盖范围。",
+      "C 科技公司因可用清洁电力而被吸引，未说它们投资能源生产。",
+      "D 能源供应吸引科技企业，文中没有说该州缺清洁电力。"
+    ]
+  },
+  "past-2018-2-q29": {
+    "type": "推断",
+    "anchors": [
+      {
+        "text": "storage capacity of batteries",
+        "meaning": "电池储能能力"
+      },
+      {
+        "text": "around the clock",
+        "meaning": "全天候"
+      }
+    ],
+    "locate": "题干指定第5、6段，先读质疑，再看 But a boost 后的变化；判断电池进步正在解决哪种供电问题。",
+    "evidence": [
+      {
+        "paragraph": 4,
+        "quote": "a boost in the storage capacity of batteries is making their ability to keep power flowing around the clock more likely",
+        "meaning": "电池储能增强，使全天候持续供电更有可能。"
+      }
+    ],
+    "reasoning": "风不吹、太阳不照的问题是中断；电池增强对应 around the clock 持续供电。选项要保留正在成为可能的语气。",
+    "options": [
+      "A 原文是储能进步促进持续供电，选项将主要作用方向倒置。",
+      "B electric cars 仍属 rarity，选项说汽车制造已普遍使用，程度过大。",
+      "C 保留：全天候供电更有可能，对应持续供应逐渐成为现实。",
+      "D 作者强调改进趋势，选项直接说可持续开发仍会困难，未对应证据。"
+    ]
+  },
+  "past-2018-2-q30": {
+    "type": "推断",
+    "anchors": [
+      {
+        "text": "What Washington does",
+        "meaning": "华盛顿所做的事"
+      },
+      {
+        "text": "doesn’t do",
+        "meaning": "没有做的事"
+      }
+    ],
+    "locate": "先读末句 Washington 的行动被说成越来越不重要，再回看第4段总统对化石燃料和风电的态度作交叉核对。",
+    "evidence": [
+      {
+        "paragraph": 6,
+        "quote": "What Washington does – or doesn’t do – to promote alternative energy may mean less and less",
+        "meaning": "华盛顿促进替代能源所做或未做的事情，可能越来越不重要。"
+      },
+      {
+        "paragraph": 3,
+        "quote": "he dismissed wind power as an unreliable energy source",
+        "meaning": "他把风电斥为不可靠的能源来源。"
+      }
+    ],
+    "reasoning": "末段把全球转向与美国政府行动分开，第4段明确其偏重化石燃料、贬低风能。合并两处，可判断政府推动意愿不足。",
+    "options": [
+      "A 本段讨论能源转向及政府影响，没有预测美国与其他国家更亲近。",
+      "B 原文 slowing climate change 是减缓，选项 accelerate 把方向倒过来。",
+      "C 保留：结合末句的保留和总统贬低风能，可判断政府并不积极鼓励。",
+      "D 价格竞争力在第2段体现为成本大降，选项反说成本不够竞争力。"
+    ]
+  },
+  "past-2018-3-q31": {
+    "type": "细节定位",
+    "anchors": [
+      {
+        "text": "WhatsApp",
+        "meaning": "通讯服务名"
+      },
+      {
+        "text": "users’ friendships",
+        "meaning": "用户友谊关系"
+      }
+    ],
+    "locate": "用 WhatsApp 到首段末句，题干问收购看中什么，直接看 What WhatsApp offered 后的宾语。",
+    "evidence": [
+      {
+        "paragraph": 0,
+        "quote": "an intricate and finely detailed web of its users’ friendships and social lives",
+        "meaning": "关于用户友谊和社会生活的复杂而详细的关系网络。"
+      }
+    ],
+    "reasoning": "跳过 intricate 等修饰，保留 users、friendships、social lives，都是用户信息。首段还明确没有实体产品。",
+    "options": [
+      "A digital products 过于笼统，末句明确给出的收购价值是用户关系数据。",
+      "B 保留：友谊和社交生活网络属于用户信息。",
+      "C 原文明确 doesn’t have any physical product，排除实体资产。",
+      "D 文中未评价服务质量，收购对象的价值被落在用户关系网络。"
+    ]
+  },
+  "past-2018-3-q32": {
+    "type": "推断",
+    "anchors": [
+      {
+        "text": "link phone numbers",
+        "meaning": "关联电话号码"
+      },
+      {
+        "text": "enormously revealing",
+        "meaning": "泄露很多信息"
+      }
+    ],
+    "locate": "圈题干 link phone numbers，到第2段找承诺与违背，再读 who sent them and to whom 揭示了什么。",
+    "evidence": [
+      {
+        "paragraph": 1,
+        "quote": "Even without knowing what was in the messages, the knowledge of who sent them and to whom was enormously revealing",
+        "meaning": "即使不知道消息内容，仅知道谁给谁发消息也会透露大量信息。"
+      }
+    ],
+    "reasoning": "号码与身份关联后，可从收发关系看出社交网络。只需抓 revealing，即暴露信息，就能推到用户隐私风险。",
+    "options": [
+      "A 政治记者的例子说明信息很有价值，没说关联号码必然恶化争端。",
+      "B 文中担心记录被看透，不是记录被弄乱，mess up 方向不符。",
+      "C 保留：收发关系能暴露大量信息，支持对用户构成风险。",
+      "D 欧盟承诺是背景，题目问关联产生的影响，核心是用户信息暴露。"
+    ]
+  },
+  "past-2018-3-q33": {
+    "type": "细节定位",
+    "anchors": [
+      {
+        "text": "Competition law",
+        "meaning": "竞争法"
+      },
+      {
+        "text": "very slow",
+        "meaning": "非常缓慢"
+      }
+    ],
+    "locate": "题干问作者怎样看竞争法，去第3段找 But it is clumsy，再看 For one thing 后与数字经济速度的比较。",
+    "evidence": [
+      {
+        "paragraph": 2,
+        "quote": "it is very slow compared to the pace of change within the digital economy",
+        "meaning": "与数字经济的变化速度相比，它非常缓慢。"
+      }
+    ],
+    "reasoning": "slow compared to pace of change 可直接改写成 keep pace 的否定：跟不上变化。后面新滥权替代旧问题是这句话的展开。",
+    "options": [
+      "A 作者谈如何约束市场权力，文中没有主张让法律服务新市场强权。",
+      "B 法律缓慢表示应对不足，文中没有证明其自身加剧经济失衡。",
+      "C only way 是开头的问题背景，作者具体指出的是缓慢与概念局限。",
+      "D 保留：very slow compared to change 正好对应跟不上市场变化。"
+    ]
+  },
+  "past-2018-3-q34": {
+    "type": "原因",
+    "anchors": [
+      {
+        "text": "financial disadvantage",
+        "meaning": "经济损失"
+      },
+      {
+        "text": "not their customers",
+        "meaning": "不是其顾客"
+      }
+    ],
+    "locate": "继续在第3段找 deeper conceptual problem，题干问保护困难的原因，重点读 users 与 customers 的身份区分。",
+    "evidence": [
+      {
+        "paragraph": 2,
+        "quote": "The users of their services are not their customers.",
+        "meaning": "服务使用者并不是其顾客。"
+      }
+    ],
+    "reasoning": "法律按消费者经济损失理解，而使用者免费使用，实际付钱的是广告商。关键是 users 没被放进 customers 这一保护框架。",
+    "options": [
+      "A 保留：原文明说 users are not customers，正是现有解释的概念障碍。",
+      "B financially reliable 指财务可靠性，原文说免费使用，未评价信用。",
+      "C digital 是服务形式，文中指出的保护障碍是用户与顾客身份不同。",
+      "D 广告商买广告说明客户是谁，但选项写成替用户支付服务，偏离原句。"
+    ]
+  },
+  "past-2018-3-q35": {
+    "type": "例证",
+    "anchors": [
+      {
+        "text": "ants",
+        "meaning": "蚂蚁"
+      },
+      {
+        "text": "Google farms us",
+        "meaning": "谷歌像饲养一样经营我们"
+      }
+    ],
+    "locate": "找末段 ants，比喻前一句先说卖的是 data，再按 Just as…so… 把蚂蚁、蚜虫与平台、用户配对。",
+    "evidence": [
+      {
+        "paragraph": 3,
+        "quote": "Just as some ants farm the bugs called aphids for the honeydew they produce when they feed, so Google farms us for the data that our digital lives yield.",
+        "meaning": "如蚂蚁为蜜露饲养蚜虫，谷歌为数字生活产生的数据经营用户。"
+      }
+    ],
+    "reasoning": "比喻里两方是平台和用户。后面保护收件箱与保护蚜虫又对应一次，说明双方关系；不要把两方换成两家平台。",
+    "options": [
+      "A between digital giants 把平台与用户换成巨头之间，主体不匹配。",
+      "B 比喻描述饲养与产出关系，没有描绘各巨头如何竞争。",
+      "C customers 在前段专指广告商，比喻中的 aphids 对应用户，不是广告商。",
+      "D 保留：蚂蚁与蚜虫对应数字巨头与用户，说明两者的数据关系。"
+    ]
+  },
+  "past-2018-4-q36": {
+    "type": "细节定位",
+    "anchors": [
+      {
+        "text": "the key",
+        "meaning": "关键"
+      },
+      {
+        "text": "stick to it",
+        "meaning": "坚持它"
+      }
+    ],
+    "locate": "题干含 the key，直接找第2段最后一句；列举的几种方法先跳过，读 Whichever approach 后的共同要求。",
+    "evidence": [
+      {
+        "paragraph": 1,
+        "quote": "the key is to determine your length of focus time and stick to it.",
+        "meaning": "关键是确定专注的时长并坚持。"
+      }
+    ],
+    "reasoning": "stick to it 的 it 指 focus time。选项 keep to your focus time 与原句几乎一一对应，其他方法不等于共同关键。",
+    "options": [
+      "A 保留：keep to 与 stick to 同义，focus time 是共同对象。",
+      "B 清单在后文讨论，此处关键句没有要求列出即时任务。",
+      "C 每日详细计划是后文被检验的方法，不是本段共同关键。",
+      "D every minute 把规定的专注时段扩大成每一分钟都工作。"
+    ]
+  },
+  "past-2018-4-q37": {
+    "type": "例证",
+    "anchors": [
+      {
+        "text": "early 1980s",
+        "meaning": "二十世纪八十年代初"
+      },
+      {
+        "text": "they were wrong",
+        "meaning": "他们错了"
+      }
+    ],
+    "locate": "先用年份找到第4段研究，再读下一段 While researchers assumed 与 they were wrong 的对比，分清预期和结果。",
+    "evidence": [
+      {
+        "paragraph": 4,
+        "quote": "the detailed daily plans demotivated students.",
+        "meaning": "详细的每日计划反而削弱了学生动力。"
+      }
+    ],
+    "reasoning": "研究者以为细计划最有效，结果是 demotivated。只抓“预期好、实际不如预期”这条关系，就能匹配对应选项。",
+    "options": [
+      "A 留出灵活空间有益，文中没有把分心本身说成提升效率的原因。",
+      "B 详细每日计划削弱动力，不支持每日安排对学习必不可少。",
+      "C monthly goals 是另一组，原文负面结果针对每日详细计划。",
+      "D 保留：实际削弱动力，与详细计划未如预期有效一致。"
+    ]
+  },
+  "past-2018-4-q38": {
+    "type": "细节定位",
+    "anchors": [
+      {
+        "text": "Idleness",
+        "meaning": "闲暇"
+      },
+      {
+        "text": "necessary",
+        "meaning": "必要的"
+      }
+    ],
+    "locate": "用题干 idleness 到第7段，跳过维生素比喻先看 necessary to getting any work done 的总结。",
+    "evidence": [
+      {
+        "paragraph": 6,
+        "quote": "necessary to getting any work done",
+        "meaning": "完成任何工作所必需。"
+      }
+    ],
+    "reasoning": "necessary 对应 essential，getting work done 对应 accomplishing work，四个选项中找这组近义搭配即可。",
+    "options": [
+      "A desirable 只说值得期待的心理状态，原句强调完成工作的必要作用。",
+      "B 维生素对身体只是类比，选项把类比一侧偷换成闲暇的主要身体作用。",
+      "C 本句讲闲暇对完成工作的必要性，没有直接证明节约时间和精力。",
+      "D 保留：essential 和 accomplishing 与 necessary 和 getting done 对应。"
+    ]
+  },
+  "past-2018-4-q39": {
+    "type": "细节定位",
+    "anchors": [
+      {
+        "text": "Pillay",
+        "meaning": "人名"
+      },
+      {
+        "text": "more efficient",
+        "meaning": "效率更高"
+      }
+    ],
+    "locate": "圈人名 Pillay 到第8段，找到 When brains switch 的句子，直接读逗号后的结果。",
+    "evidence": [
+      {
+        "paragraph": 7,
+        "quote": "When our brains switch between being focused and unfocused on a task, they tend to be more efficient.",
+        "meaning": "大脑在对任务专注和不专注之间切换时，往往效率更高。"
+      }
+    ],
+    "reasoning": "When 引出条件，逗号后是效果；more efficient 直接改写成 greater efficiency，题干已把条件抄出来。",
+    "options": [
+      "A psychological well-being 是心理健康，定位句的结果是效率，没有测健康。",
+      "B 保留：greater efficiency 与 more efficient 完全对应。",
+      "C 原文报告切换的效果，未说明切换的目标是工作平衡。",
+      "D 句子没有说紧急任务驱动切换，选项新增原因。"
+    ]
+  },
+  "past-2018-4-q40": {
+    "type": "主旨",
+    "anchors": [
+      {
+        "text": "more done in less time",
+        "meaning": "更少时间完成更多事"
+      },
+      {
+        "text": "downtime",
+        "meaning": "休息时间"
+      }
+    ],
+    "locate": "主旨题最后做，找反复出现的 more done in less time，再看文章是否同时讲专注安排、清单与休息。",
+    "evidence": [
+      {
+        "paragraph": 2,
+        "quote": "to combat constant interruptions and get more done in less time",
+        "meaning": "减少持续打断，以更少时间完成更多事情。"
+      },
+      {
+        "paragraph": 5,
+        "quote": "In order to make the most of our focus and energy, we also need to embrace downtime",
+        "meaning": "为了充分发挥专注与精力，也需要接受休息时间。"
+      }
+    ],
+    "reasoning": "专注时间、灵活清单和适当休息都是方法，目标共同指向工作效率。标题应覆盖这些方法，而非仅选减少干扰一项。",
+    "options": [
+      "A 减轻忙碌紧张只是背景，正文主要提供提高工作效率的方法。",
+      "B 保留：覆盖专注安排、任务清单和休息三类提高效率的方法。",
+      "C eliminating 过强且只涵盖干扰，漏掉清单弹性和闲暇作用。",
+      "D 文章重点是操作方法，没有系统分析专注时间缺乏的成因。"
+    ]
+  },
+  "past-2019-1-q21": {
+    "type": "原因",
+    "anchors": [
+      {
+        "text": "moral norms",
+        "meaning": "道德规范"
+      },
+      {
+        "text": "a good thing",
+        "meaning": "一件好事"
+      }
+    ],
+    "locate": "首段找 a good thing，This is why 指向前面，回读孩子如何学会道歉以及对规范的理解。",
+    "evidence": [
+      {
+        "paragraph": 0,
+        "quote": "guilt emerges a little later, in conjunction with a child's growing grasp of social and moral norms.",
+        "meaning": "内疚出现得稍晚，与孩子逐渐理解社会和道德规范相伴。"
+      }
+    ],
+    "reasoning": "把 moral norms 与学会道歉连起来，就是道德发展。首句还把内疚和基本情绪作区分，避免选错讨论对象。",
+    "options": [
+      "A sadness 等基本情绪用于比较出现时间，研究者没有说内疚调节它们。",
+      "B intellectual ability 是智力，定位句没有谈推理或智力水平提升。",
+      "C 保留：理解道德规范、学会道歉，对应促进道德发展。",
+      "D 内疚属于不舒服的感受，文中没有说其主要价值是强化积极情绪。"
+    ]
+  },
+  "past-2019-1-q22": {
+    "type": "细节定位",
+    "anchors": [
+      {
+        "text": "popular imagination",
+        "meaning": "大众印象"
+      },
+      {
+        "text": "weighted with stones",
+        "meaning": "装着石头的"
+      }
+    ],
+    "locate": "题目问 many people still consider，到第2段开头看大众旧印象，读石头夹克的比喻，暂时停在 Yet 转折前。",
+    "evidence": [
+      {
+        "paragraph": 1,
+        "quote": "it's the emotional equivalent of wearing a jacket weighted with stones.",
+        "meaning": "这种情绪好比穿着装满石头的夹克。"
+      }
+    ],
+    "reasoning": "石头夹克传达沉重、负担，紧邻 uncomfortable 也说明不好受。题目问大众看法，应使用转折前的描述。",
+    "options": [
+      "A deceptive 指欺骗性，比喻只表示沉重，没有说这种感情骗人。",
+      "B 保留：背负石头式的难受，对应 burdensome（令人有负担的）。",
+      "C addictive 指使人上瘾，段落没有依赖这种情绪的描述。",
+      "D inexcusable 指不可原谅，原文形容难受，并未作这种道德判决。"
+    ]
+  },
+  "past-2019-1-q23": {
+    "type": "细节定位",
+    "anchors": [
+      {
+        "text": "rethinking",
+        "meaning": "重新思考"
+      },
+      {
+        "text": "in one context",
+        "meaning": "在一种情境中"
+      }
+    ],
+    "locate": "圈题干 Vaish、rethinking 和 guilt，在第2段找到她的解释；看到 larger recognition 后，读两种情境的对比。",
+    "evidence": [
+      {
+        "paragraph": 1,
+        "quote": "feelings that may be advantageous in one context may be harmful in another.",
+        "meaning": "某种情绪在一种情境下有利，在另一种情境下可能有害。"
+      }
+    ],
+    "reasoning": "one context 与 another 对应两种环境，advantageous 与 harmful 对应相反作用。答案要保留这种同一情绪随情境变化的关系。",
+    "options": [
+      "A context-independent 说与情境无关，和原文情境不同作用不同相反。",
+      "B socially constructive 只保留积极一面，漏掉 harmful 的负面可能。",
+      "C stability 和 health 没出现在重新思考的依据中，换了讨论内容。",
+      "D 保留：同一情绪可有益也可有害，对应 play opposing roles。"
+    ]
+  },
+  "past-2019-1-q24": {
+    "type": "细节定位",
+    "anchors": [
+      {
+        "text": "Malti",
+        "meaning": "人名"
+      },
+      {
+        "text": "different pathways",
+        "meaning": "不同路径"
+      }
+    ],
+    "locate": "到第4段找 Malti and others，直接读 guilt and sympathy 后的 different pathways，再看下一句补偿关系。",
+    "evidence": [
+      {
+        "paragraph": 3,
+        "quote": "guilt and sympathy may represent different pathways to cooperation and sharing.",
+        "meaning": "内疚和同情可能是通向合作与分享的不同路径。"
+      }
+    ],
+    "reasoning": "把句子画成两条箭头：内疚→合作分享，同情→合作分享。选项 either…or… 正好概括两种来源。",
+    "options": [
+      "A 原文是内疚补偿同情不足后促成分享，选项倒成合作分享修补情绪。",
+      "B 保留：either sympathy or guilt 与两种不同路径直接对应。",
+      "C emotional satisfaction 是满足感，原文没有把它写成合作的结果。",
+      "D 原文说内疚抑制恶意冲动，选项却把分享归因于冲动行为。"
+    ]
+  },
+  "past-2019-1-q25": {
+    "type": "词义",
+    "anchors": [
+      {
+        "text": "moral transgressions",
+        "meaning": "道德方面的越界行为"
+      },
+      {
+        "text": "feel guilty",
+        "meaning": "感到内疚"
+      }
+    ],
+    "locate": "到第5段找生词，先看前面的 moral 和后面的 feel negative emotions，再用最后一段 caused harm 验证意思。",
+    "evidence": [
+      {
+        "paragraph": 4,
+        "quote": "feel negative emotions after moral transgressions",
+        "meaning": "在道德上的不当行为之后感到负面情绪。"
+      },
+      {
+        "paragraph": 5,
+        "quote": "we caused harm and we feel regret.",
+        "meaning": "我们造成伤害并感到后悔。"
+      }
+    ],
+    "reasoning": "引发内疚和后悔的是做了伤害他人的事，moral 限定道德。把生词代成“做错的事”，能同时接上前后两段。",
+    "options": [
+      "A teachings 指教导，文中测的是孩子犯错后的情绪反应。",
+      "B discussions 指讨论，单纯讨论不能解释造成伤害与内疚的链条。",
+      "C restrictions 指限制，原文没有把内疚归因于受到约束。",
+      "D 保留：wrongdoings 是不当行为，与 caused harm 和 regret 相合。"
+    ]
+  },
+  "past-2019-2-q26": {
+    "type": "推断",
+    "anchors": [
+      {
+        "text": "harder challenges",
+        "meaning": "更难的挑战"
+      },
+      {
+        "text": "emit more carbon",
+        "meaning": "排放更多碳"
+      }
+    ],
+    "locate": "圈首句 harder challenges，不急着解释比喻，向后读本段最后一句，看森林的吸收与排放怎样变化。",
+    "evidence": [
+      {
+        "paragraph": 0,
+        "quote": "forests that emit more carbon than they absorb",
+        "meaning": "排出的碳多于吸收的碳的森林。"
+      }
+    ],
+    "reasoning": "本来指望森林吸碳，结果可能排得更多，因此森林本身可能成为问题来源。保留 could 的可能语气，只推这一步。",
+    "options": [
+      "A out of control 直接说全球气候失控，超出首段关于森林的具体风险。",
+      "B 原文讨论森林能力变化，没有说公众误解全球变暖。",
+      "C extreme weather 没出现在这个解释中，选项换了威胁种类。",
+      "D 保留：由吸碳者变成更多排碳者，说明森林可能成为潜在威胁。"
+    ]
+  },
+  "past-2019-2-q27": {
+    "type": "细节定位",
+    "anchors": [
+      {
+        "text": "carbon sinks",
+        "meaning": "碳汇"
+      },
+      {
+        "text": "reducing their capacity",
+        "meaning": "降低其能力"
+      }
+    ],
+    "locate": "题干复现 carbon sinks，直接去第2段找到该词，读 require 后的动作，并核对 now 与 future 两个时间词。",
+    "evidence": [
+      {
+        "paragraph": 1,
+        "quote": "may require reducing their capacity to absorb carbon now.",
+        "meaning": "可能需要暂时降低它们现在吸收碳的能力。"
+      }
+    ],
+    "reasoning": "题干问长期保持碳汇要做什么，require 后直接给动作；now 对应 present。注意“长期有利、眼下减少”的时间反差。",
+    "options": [
+      "A diversity 指物种多样性，该句没有把它列为维持碳汇的措施。",
+      "B young trees 到后文是要疏除的一部分，选项说加速它们生长。",
+      "C balance 是眼前吸碳与未来健康之间的权衡，选项换成植物之间。",
+      "D 保留：lower present capacity 与 reducing capacity now 逐项对应。"
+    ]
+  },
+  "past-2019-2-q28": {
+    "type": "细节定位",
+    "anchors": [
+      {
+        "text": "Forest Carbon Plan",
+        "meaning": "森林碳计划"
+      },
+      {
+        "text": "thin out",
+        "meaning": "疏除"
+      }
+    ],
+    "locate": "用计划全名定位第3段，直接看 aims to 后的两项动作；下一句剩余树得到更多水分可帮助核验。",
+    "evidence": [
+      {
+        "paragraph": 2,
+        "quote": "thin out young trees and clear brush in parts of the forest.",
+        "meaning": "在部分森林疏除幼树、清理灌木。"
+      }
+    ],
+    "reasoning": "thin out 和 clear 都使树木灌木变少、空间更宽，对应降低密度。后面的耐虫、少火灾是措施带来的效果。",
+    "options": [
+      "A 剩余树更健康属于效果，原文没有培养新型抗旱树种。",
+      "B 保留：疏除幼树和灌木，直接降低部分森林的密度。",
+      "C 树更能抵御虫害是效果，计划没有研究新的杀虫方法。",
+      "D 原文重在预防、少燃烧，并未提出野火后快速复林方案。"
+    ]
+  },
+  "past-2019-2-q29": {
+    "type": "细节定位",
+    "anchors": [
+      {
+        "text": "vital",
+        "meaning": "至关重要"
+      },
+      {
+        "text": "prioritize",
+        "meaning": "优先处理"
+      }
+    ],
+    "locate": "题干限定第5段，数据可以先跳过，找与 essential 同义的 vital，读后面的 prioritize 对象。",
+    "evidence": [
+      {
+        "paragraph": 4,
+        "quote": "it will be vital to prioritize areas at greatest risk of fire or drought.",
+        "meaning": "优先处理火灾或干旱风险最高的地区至关重要。"
+      }
+    ],
+    "reasoning": "vital 对应 essential，prioritize 对应 first，greatest risk 对应 serious danger。三处近义直接连起来即可。",
+    "options": [
+      "A 保留：最高风险区优先，对应危险严重地区先处理。",
+      "B 2020 是分阶段面积目标，原文未要求整项计划在它之前完成。",
+      "C 拍卖说明资金来源，文中没有把完善拍卖制度称为关键。",
+      "D 钱来自拍卖是背景，vital 后明确强调的是处理区域的优先次序。"
+    ]
+  },
+  "past-2019-2-q30": {
+    "type": "态度",
+    "anchors": [
+      {
+        "text": "California's plan",
+        "meaning": "加州计划"
+      },
+      {
+        "text": "serve as a model",
+        "meaning": "成为榜样"
+      }
+    ],
+    "locate": "态度题先看最后一段对计划的评价，定位 should serve as a model；再用第2段 Thankfully 检查方向。",
+    "evidence": [
+      {
+        "paragraph": 6,
+        "quote": "California's plan, which is expected to be finalized by the governor next year, should serve as a model.",
+        "meaning": "加州计划应当成为一个榜样。"
+      }
+    ],
+    "reasoning": "先把中间的 which 从句括起来，主干是 plan should serve as a model。称计划为榜样就是肯定，不必读懂所有森林管理细节。",
+    "options": [
+      "A ambiguous 指含糊，结尾明确说可作榜样，评价方向清楚。",
+      "B tolerant 指容忍，作者用榜样作积极评价，程度更明确。",
+      "C 保留：should serve as a model 是直接的肯定和支持。",
+      "D cautious 指谨慎保留，未来定稿时间是背景，并非保留评价。"
+    ]
+  },
+  "past-2019-3-q31": {
+    "type": "主旨",
+    "anchors": [
+      {
+        "text": "labor shortages",
+        "meaning": "劳动力短缺"
+      },
+      {
+        "text": "immigration rules",
+        "meaning": "移民规则"
+      }
+    ],
+    "locate": "题目限定前两段，先看抱怨什么，再看 without 后说要改变什么；第二段的 visa 与 Congress 用来验证。",
+    "evidence": [
+      {
+        "paragraph": 0,
+        "quote": "The complaints are unlikely to stop without an overhaul of immigration rules for farm workers.",
+        "meaning": "若不全面调整农业工人的移民规则，抱怨恐怕不会停止。"
+      }
+    ],
+    "reasoning": "without 后给出解决条件：改革移民规则。短缺是症状，题干问应处理的问题，选择制度中需要调整的地方。",
+    "options": [
+      "A 文中谈签证规则与国会阻碍，没有说明美国工人歧视外国工人。",
+      "B 企业被写成受损者，没有说法律偏向某些美国企业。",
+      "C 保留：需要 overhaul immigration rules，说明农业工人移民制度有缺陷。",
+      "D 短缺的是工人，选项改成农业岗位减少，把供求两方颠倒。"
+    ]
+  },
+  "past-2019-3-q32": {
+    "type": "细节定位",
+    "anchors": [
+      {
+        "text": "They're also aging",
+        "meaning": "他们也在老龄化"
+      },
+      {
+        "text": "over the age of 35",
+        "meaning": "超过三十五岁"
+      }
+    ],
+    "locate": "到第3段找 workforce 的变化清单，留意 still、rather than 的对比，再看35岁以上比例从三分之一升到一半以上。",
+    "evidence": [
+      {
+        "paragraph": 2,
+        "quote": "They're also aging.",
+        "meaning": "他们也在老龄化。"
+      },
+      {
+        "paragraph": 2,
+        "quote": "At the start of this century, about one-third of crop workers were over the age of 35. Now more than half are.",
+        "meaning": "本世纪初约三分之一超过35岁，现在超过一半。"
+      }
+    ],
+    "reasoning": "数字年龄比较提供最直接证据：较年长工人占比上升。其他选项要核对是正在增加还是减少、定居还是流动。",
+    "options": [
+      "A 原文说 fewer such workers enter，未说非法移民人数正在上升。",
+      "B 原文 more settled rather than migrating，选项高流动性方向相反。",
+      "C 年龄增加不自动等于缺经验，文中没有提出经验不足。",
+      "D 保留：aging 加35岁以上占比上升，直接证明移民农工老龄化。"
+    ]
+  },
+  "past-2019-3-q33": {
+    "type": "细节定位",
+    "anchors": [
+      {
+        "text": "oft-debated cure",
+        "meaning": "常被讨论的办法"
+      },
+      {
+        "text": "Native U.S. workers",
+        "meaning": "美国本土工人"
+      }
+    ],
+    "locate": "much-argued 对应第3段末的 oft-debated，找到 cure 后直接读冒号后面的具体办法，区分提出与作者认可。",
+    "evidence": [
+      {
+        "paragraph": 2,
+        "quote": "One oft-debated cure for this labor shortage remains as implausible as it's been all along: Native U.S. workers won't be returning to the farm.",
+        "meaning": "常被讨论的一项办法一直不现实：让本土工人回到农场。"
+      }
+    ],
+    "reasoning": "题目只问争论很多的方案是什么，冒号后就给出本土工人回流。won’t 表明作者不看好，仍不改变方案名称。",
+    "options": [
+      "A younger 在前面年龄讨论中相关，但冒号后指定的是本土工人。",
+      "B 保留：Native U.S. workers returning to the farm 对应本土工人回归务农。",
+      "C 机器人在下一段被讨论，题干的 much-argued 对应这里的 oft-debated。",
+      "D 该方案句没有谈农业资金支持，选项属于另加办法。"
+    ]
+  },
+  "past-2019-3-q34": {
+    "type": "原因",
+    "anchors": [
+      {
+        "text": "H-2A",
+        "meaning": "签证类别"
+      },
+      {
+        "text": "22 days late",
+        "meaning": "迟到二十二天"
+      }
+    ],
+    "locate": "找到第6段 H-2A，先看 no numerical cap 排除名额问题，再看 employers complain 后的流程和迟到数据。",
+    "evidence": [
+      {
+        "paragraph": 5,
+        "quote": "bureaucratic delays led the average H-2A worker to arrive on the job 22 days late.",
+        "meaning": "官僚流程延误导致H-2A工人平均晚22天到岗。"
+      }
+    ],
+    "reasoning": "delay 与 late 说明程序慢，正好回答雇主抱怨什么。H-2B 的66000上限属于另一签证，别串读。",
+    "options": [
+      "A 保留：bureaucratic delays 和平均迟到22天说明审批程序拖延。",
+      "B 延长停留在第2段改革愿望中出现，这里具体抱怨的是流程延误。",
+      "C 文中说繁琐昂贵不可靠，没有说申请要求刚刚收紧。",
+      "D 首句明确 H-2A 无名额上限，有上限的是 H-2B，类别被偷换。"
+    ]
+  },
+  "past-2019-3-q35": {
+    "type": "主旨",
+    "anchors": [
+      {
+        "text": "labor shortages",
+        "meaning": "劳动力短缺"
+      },
+      {
+        "text": "import food",
+        "meaning": "进口食品"
+      }
+    ],
+    "locate": "先做完四道题，再读末句的两条选择，回看开头劳工短缺，判断哪个标题同时包含原因和最终困境。",
+    "evidence": [
+      {
+        "paragraph": 7,
+        "quote": "the U.S. can import food or it can import the workers who pick it.",
+        "meaning": "美国可以进口食品，也可以引入采收食品的工人。"
+      }
+    ],
+    "reasoning": "开头短缺、中间移民与机械化限制、结尾两选一，末句几乎把全文浓缩成标题。找同时含 food 和 labor 的选项。",
+    "options": [
+      "A 全文讨论劳动力与进口选择，无法据此概括美国农业整体衰退。",
+      "B 保留：Import Food or Labor 正好压缩末句，并串起全文劳工问题。",
+      "C Mexico 是劳工来源和转移生产的例子，标题“拯救美国”夸大作用。",
+      "D 自动化只占一段，标题遗漏移民政策和食品进口两条主要线索。"
+    ]
+  },
+  "past-2019-4-q36": {
+    "type": "目的",
+    "anchors": [
+      {
+        "text": "celebrities",
+        "meaning": "名人"
+      },
+      {
+        "text": "single-use plastic",
+        "meaning": "一次性塑料"
+      }
+    ],
+    "locate": "题干问名人拍视频为了什么，到首段看破折号后的 encouraging，读 its 对象 consumer 和行动 swap out。",
+    "evidence": [
+      {
+        "paragraph": 0,
+        "quote": "encouraging you, the consumer, to swap out your single-use plastic staples like straws and cutlery",
+        "meaning": "鼓励消费者替换吸管、餐具等日常一次性塑料用品。"
+      }
+    ],
+    "reasoning": "encouraging 对应 urge，swap out 一次性塑料意味着减少使用。立法在下一段属于其他信息，要守住视频的直接对象。",
+    "options": [
+      "A 立法出现在第2段的整体活动信息中，名人视频直接面向消费者。",
+      "B 保留：鼓励替换一次性塑料用品，对应呼吁消费者少用塑料。",
+      "C 视频在倡导行动，文中没有征集公众对危机的看法。",
+      "D 首段没有分析污染成因，视频任务是劝消费者改变使用习惯。"
+    ]
+  },
+  "past-2019-4-q37": {
+    "type": "推断",
+    "anchors": [
+      {
+        "text": "moral licensing",
+        "meaning": "道德许可"
+      },
+      {
+        "text": "stops us doing more",
+        "meaning": "阻止我们进一步行动"
+      }
+    ],
+    "locate": "到第3段找 moral licensing，直接读后面的 that 从句，再用前面的 done our bit 理解这种心理。",
+    "evidence": [
+      {
+        "paragraph": 2,
+        "quote": "a kind of \"moral licensing\" that allays our concerns and stops us doing more and asking more of those in charge.",
+        "meaning": "一种缓解顾虑却使我们停止更多行动、停止向负责人提出更多要求的道德许可。"
+      }
+    ],
+    "reasoning": "做了一点事就觉得尽责，后面的 stops doing more 是作者担忧的后果。只需把 stops 换成 prevent、doing more 换成 further efforts。",
+    "options": [
+      "A 小行动成效有限，原文没有把它们全说成 worthless，语气过重。",
+      "B 保留：stops us doing more 与阻止进一步努力直接对应。",
+      "C done our bit 会带来已经尽责的满足，选项说削弱成就感，方向相反。",
+      "D 原文聚焦环保后续行动，并未讨论一般性的成功欲望。"
+    ]
+  },
+  "past-2019-4-q38": {
+    "type": "推断",
+    "anchors": [
+      {
+        "text": "citizens",
+        "meaning": "公民"
+      },
+      {
+        "text": "hold our governments and industries to account",
+        "meaning": "要求政府与产业负责"
+      }
+    ],
+    "locate": "到第4段圈 citizens，读它后面的动作，同时与前面 consumers 只改购物习惯的行动作对照。",
+    "evidence": [
+      {
+        "paragraph": 3,
+        "quote": "as \"citizens\" hold our governments and industries to account to push for real systemic change.",
+        "meaning": "作为公民要求政府与产业负责，推动真正的系统性改变。"
+      }
+    ],
+    "reasoning": "citizens 后的动词是 hold…to account，即问责施压；对象是政府与产业。选择推动公共行动的项，不选个人购物层面。",
+    "options": [
+      "A community welfare 变成社区福利，原句具体是要求政府产业承担环保责任。",
+      "B 原文要求问责产业，并没有报告双方关系已经改善。",
+      "C we must 表示应当采取的行动，选项把建议写成已经积极行权。",
+      "D 保留：向政府问责施压，以推动制度层面的塑料治理。"
+    ]
+  },
+  "past-2019-4-q39": {
+    "type": "细节定位",
+    "anchors": [
+      {
+        "text": "DeSombre",
+        "meaning": "人名"
+      },
+      {
+        "text": "structural",
+        "meaning": "结构性的"
+      }
+    ],
+    "locate": "用人名定位第5段末的 best way，读 structural，再到下一段看塑料税与禁令属于谁能实施的措施。",
+    "evidence": [
+      {
+        "paragraph": 4,
+        "quote": "the best way to collectively change the behavior of large numbers of people is for the change to be structural.",
+        "meaning": "集体改变大批人行为的最好方式，是实施结构性改变。"
+      },
+      {
+        "paragraph": 5,
+        "quote": "implementing policy such as a plastic tax",
+        "meaning": "实施诸如塑料税这样的政策。"
+      }
+    ],
+    "reasoning": "structural 比较抽象时就看例子：税、禁令、政策都由制度层面改变个人行为，因此对应自上而下的过程。",
+    "options": [
+      "A win-win 强调双方双赢，作者所列分类依据是制度性而非利益双赢。",
+      "B self-driven 强调个人自发，与税收禁令等制度推动不一致。",
+      "C 原文未比较投入产出效益，塑料税的 cost 也不是 cost-effective。",
+      "D 保留：结构改革通过税收、禁令影响个人，是自上而下的改变。"
+    ]
+  },
+  "past-2019-4-q40": {
+    "type": "主旨",
+    "anchors": [
+      {
+        "text": "individual actions",
+        "meaning": "个人行动"
+      },
+      {
+        "text": "collective action",
+        "meaning": "集体行动"
+      }
+    ],
+    "locate": "问结论先看最后两段，圈 too slow 和 only，再读末段 alongside，把个人参与与政策作用放在一起。",
+    "evidence": [
+      {
+        "paragraph": 6,
+        "quote": "individual actions are too slow",
+        "meaning": "个人行动进展太慢。"
+      },
+      {
+        "paragraph": 7,
+        "quote": "We need progressive policies that shape collective action",
+        "meaning": "我们需要塑造集体行动的进步政策。"
+      }
+    ],
+    "reasoning": "作者保留个人参与，同时要求政策推动大规模行动。由 too slow 和需要政策补充，可判断仅个人努力远远不足。",
+    "options": [
+      "A aggressive 是过分激进，原文批评的是行动有限且太慢。",
+      "B inconsistent 是前后不一致，原文没有用不稳定性解释个人行动局限。",
+      "C 保留：个人行动太慢且需政策配合，说明单靠它们远远不够。",
+      "D rational 指理性，作者肯定个人参与价值，没有把个人行动判为不理性。"
+    ]
+  },
+  "past-2020-1-q21": {
+    "type": "目的",
+    "anchors": [
+      {
+        "text": "tested whether",
+        "meaning": "测试是否"
+      },
+      {
+        "text": "robotic rats",
+        "meaning": "机器鼠"
+      }
+    ],
+    "locate": "题干问实验目的，首段找到 Quinn 后的 tested whether；先看研究要测试什么，再与背景中普通鼠的本领区分。",
+    "evidence": [
+      {
+        "paragraph": 0,
+        "quote": "tested whether rats can detect social signals from robotic rats.",
+        "meaning": "测试真鼠能否识别来自机器鼠的社交信号。"
+      }
+    ],
+    "reasoning": "tested whether 后面直接给研究问题。detect 对应 pick up，robotic rats 对应 non-living rats，两组近义替换就能选出。",
+    "options": [
+      "A 保留：识别非生命机器鼠的社交信号，正是 tested whether 后的内容。",
+      "B 分辨朋友敌人是首句交代的已有本领，实验新问题是能否对机器鼠做到。",
+      "C 文中测试信号识别，没有设置特殊训练来培养社交特征。",
+      "D 研究关注接收信号，选项换成向同伴发出警告，方向不同。"
+    ]
+  },
+  "past-2020-1-q22": {
+    "type": "细节定位",
+    "anchors": [
+      {
+        "text": "asocial robot",
+        "meaning": "非社交机器鼠"
+      },
+      {
+        "text": "Meanwhile",
+        "meaning": "与此同时"
+      }
+    ],
+    "locate": "题干问 asocial 的行为，到第3段找 Meanwhile；前面长串动作属于 social，要读对转折后的主语。",
+    "evidence": [
+      {
+        "paragraph": 2,
+        "quote": "the asocial robot simply moved forwards and backwards and side to side.",
+        "meaning": "非社交机器鼠只是前后左右移动。"
+      }
+    ],
+    "reasoning": "看准 asocial robot 后的 moved，动作里没有跟随、玩玩具或救同伴，概括为独自移动即可。",
+    "options": [
+      "A social 鼠跟随真鼠，原文没有 asocial 跟随 social 鼠的安排。",
+      "B 玩同样玩具是前半句 social 鼠做的，主体被换掉。",
+      "C 开笼救真鼠同样属于 social 鼠，asocial 只四处移动。",
+      "D 保留：前后左右移动且没有社交动作，对应 moved around alone。"
+    ]
+  },
+  "past-2020-1-q23": {
+    "type": "原因",
+    "anchors": [
+      {
+        "text": "return the favour",
+        "meaning": "回报帮助"
+      },
+      {
+        "text": "get trapped",
+        "meaning": "被困住"
+      }
+    ],
+    "locate": "去第4段末找 Quinn 引述，题干问放机器鼠的原因，重点读 wanting 后的愿望，而非只看实验操作。",
+    "evidence": [
+      {
+        "paragraph": 3,
+        "quote": "wanting the robot to return the favour when they get trapped",
+        "meaning": "希望自己被困时机器鼠能回报这份帮助。"
+      }
+    ],
+    "reasoning": "return the favour 就是回报，when they get trapped 说明回报的具体场景。选项 do the same in return 正好同义替换。",
+    "options": [
+      "A 按杠杆是释放对方的操作，原文没有说真鼠为了练习自己逃跑。",
+      "B 保留：希望将来被困时得到回报，对应期待对方同样帮助。",
+      "C 作者没有把释放行为解释成展示智力，选项增加动机。",
+      "D 玩耍有助于建立联系，但题目这处的释放动机落在相互回报。"
+    ]
+  },
+  "past-2020-1-q24": {
+    "type": "推断",
+    "anchors": [
+      {
+        "text": "Janet Wiles",
+        "meaning": "人名"
+      },
+      {
+        "text": "minimal design",
+        "meaning": "极简设计"
+      }
+    ],
+    "locate": "用 Wiles 找第6段，先看 surprising 的原因，再读研究者原以为要加什么、实际却不必加什么。",
+    "evidence": [
+      {
+        "paragraph": 5,
+        "quote": "The readiness of the rats to befriend the social robot was surprising given its minimal design.",
+        "meaning": "机器鼠造型极简，真鼠却愿意与之交往，这让人意外。"
+      },
+      {
+        "paragraph": 5,
+        "quote": "but that wasn't necessary",
+        "meaning": "但那些外貌气味设计并不必要。"
+      }
+    ],
+    "reasoning": "机器外形只像塑料盒，却因社交动作被接纳；原以为需要头尾、面孔、气味，实际不用，说明行为比外观重要。",
+    "options": [
+      "A facial features 是研究者原以为要加的部件，没有测试鼠能否记面孔。",
+      "B 气味与尺寸没有做敏感度比较，选项补出了排序。",
+      "C 保留：简陋外观仍能靠社交行为被接纳，支持行为比外貌更重要。",
+      "D rats to befriend 表示愿意交友，选项 scared 与观察结果相反。"
+    ]
+  },
+  "past-2020-1-q25": {
+    "type": "推断",
+    "anchors": [
+      {
+        "text": "sensitive rats are",
+        "meaning": "鼠很敏感"
+      },
+      {
+        "text": "surprising",
+        "meaning": "令人惊讶"
+      }
+    ],
+    "locate": "全文结论题先看末段 finding shows，再回看第6段 surprising；一起确定结果和研究者原来的预期有何差别。",
+    "evidence": [
+      {
+        "paragraph": 6,
+        "quote": "The finding shows how sensitive rats are to social cues, even when they come from basic robots.",
+        "meaning": "结果说明鼠对社交线索非常敏感，即使线索来自简单机器人。"
+      }
+    ],
+    "reasoning": "even 强调机器很简单仍能识别，前段 surprising 说明超过原先预期。答案应围绕社交线索敏感性，别扩大到所有能力。",
+    "options": [
+      "A new surroundings 是环境适应，实验没有对这项能力下结论。",
+      "B 文中没有把鼠与其他动物的社交活跃程度进行排名。",
+      "C Similarly 明确说孩子也有类似反应，选项写成与孩子不同。",
+      "D 保留：简单机器人也能引发意外社交反应，说明敏感性超出预期。"
+    ]
+  },
+  "past-2020-2-q26": {
+    "type": "原因",
+    "anchors": [
+      {
+        "text": "growth of CEO pay",
+        "meaning": "CEO薪酬增长"
+      },
+      {
+        "text": "business opportunities",
+        "meaning": "商业机会"
+      }
+    ],
+    "locate": "第1段数字只说明涨幅，原因去第2段找 best model，读 business opportunities 后的 growing rapidly。",
+    "evidence": [
+      {
+        "paragraph": 1,
+        "quote": "business opportunities for the top firms are growing rapidly.",
+        "meaning": "顶级公司的商业机会迅速增加。"
+      }
+    ],
+    "reasoning": "把 pay growth 的解释句拆成两项：人才有限、机会增加。四个选项中有直接复现 business opportunities 的，优先核对。",
+    "options": [
+      "A 原文增加的是顶级企业的机会，选项换成企业数量增加。",
+      "B 作者强调相对其他工人能力提升，没有说普遍涨薪带动CEO薪酬。",
+      "C 保留：business opportunities growing rapidly 直接对应机会增多。",
+      "D global economy 是影响背景，原文没有提出主要经济体密切合作。"
+    ]
+  },
+  "past-2020-2-q27": {
+    "type": "细节定位",
+    "anchors": [
+      {
+        "text": "predecessors",
+        "meaning": "前任"
+      },
+      {
+        "text": "more globalized",
+        "meaning": "更加全球化"
+      }
+    ],
+    "locate": "去第3段找今天 CEO 的新要求，逐项浏览金融、公关、全球化三块；在 globalized 后读供应链跨更多国家的解释。",
+    "evidence": [
+      {
+        "paragraph": 2,
+        "quote": "large American companies are much more globalized than ever before, with supply chains spread across a larger number of countries.",
+        "meaning": "美国大公司比过去更全球化，供应链分布到更多国家。"
+      }
+    ],
+    "reasoning": "题干问今天相对过去的新要求，跨国供应链意味着需要经营更全球化的公司。研发表述只说公司有自己的研发，留意对象。",
+    "options": [
+      "A 团队协作并未列在本段的新要求清单中，属于常识补充。",
+      "B 有自己的研发说明公司科技化，原文未要求CEO提供更多研发融资。",
+      "C 公司正变得科技化，选项改成与外部科技公司建立更紧密关系。",
+      "D 保留：公司与供应链更跨国，CEO必须在这种全球化体系中经营。"
+    ]
+  },
+  "past-2020-2-q28": {
+    "type": "细节定位",
+    "anchors": [
+      {
+        "text": "since the 1970s",
+        "meaning": "自二十世纪七十年代以来"
+      },
+      {
+        "text": "stronger governance",
+        "meaning": "更严格的治理"
+      }
+    ],
+    "locate": "用年份找到第4段，看 Yet 前后相反趋势；题干 despite 要找的是高薪仍增长时同时存在的约束。",
+    "evidence": [
+      {
+        "paragraph": 3,
+        "quote": "corporate governance has become a lot tighter and more rigorous since the 1970s.",
+        "meaning": "自七十年代以来，公司治理变得更加严格。"
+      }
+    ],
+    "reasoning": "tighter、rigorous、stronger 都说明治理加强；Yet 后薪酬仍高且上升。despite 正是把这两句话合成让步关系。",
+    "options": [
+      "A 本段没有描述连续不断的内部反对，约束指公司治理制度。",
+      "B 保留：strict corporate governance 对应 tighter、more rigorous 的治理。",
+      "C rigorous 修饰治理严格，不等于公司采取保守的业务策略。",
+      "D governance 是公司治理，选项变成政府重复发警告，主体被换。"
+    ]
+  },
+  "past-2020-2-q29": {
+    "type": "原因",
+    "anchors": [
+      {
+        "text": "build up corporate value",
+        "meaning": "提升企业价值"
+      },
+      {
+        "text": "not just for the CEO",
+        "meaning": "不只让CEO受益"
+      }
+    ],
+    "locate": "问高薪为什么有道理，到最后一段看 stock market 的正面反应，再读 a sign that 后作者给出的解释。",
+    "evidence": [
+      {
+        "paragraph": 4,
+        "quote": "those practices build up corporate value not just for the CEO.",
+        "meaning": "这些做法提升企业价值，受益的不只是CEO。"
+      }
+    ],
+    "reasoning": "build up 与 increase 同义，corporate value 原词保留。股市正反应只是证据，题目要的是高薪带来的公司层面价值。",
+    "options": [
+      "A 作者用公司收益解释合理性，并没有把确认CEO地位作为理由。",
+      "B 原文最高薪给 outside candidates，选项转成激励内部候选人。",
+      "C 这里证明的是企业价值提升，没有直接测量CEO工作效率变化。",
+      "D 保留：increase corporate value 与 build up corporate value 直接对应。"
+    ]
+  },
+  "past-2020-2-q30": {
+    "type": "主旨",
+    "anchors": [
+      {
+        "text": "upped their game",
+        "meaning": "提升了能力表现"
+      },
+      {
+        "text": "corporate value",
+        "meaning": "企业价值"
+      }
+    ],
+    "locate": "做完四题后串起原因：机会和能力增长、职责更难、公司受益，再读末段，判断作者是在辩护还是仅作历史介绍。",
+    "evidence": [
+      {
+        "paragraph": 1,
+        "quote": "CEOs really have upped their game relative to many other workers",
+        "meaning": "相较很多其他工人，CEO确实提高了自身能力表现。"
+      },
+      {
+        "paragraph": 4,
+        "quote": "those practices build up corporate value",
+        "meaning": "这些做法提升企业价值。"
+      }
+    ],
+    "reasoning": "文章从薪酬上涨出发，连续解释其人才、职责和企业收益依据。标题应表达作者对高薪合理性的判断，不能只截取技能变化。",
+    "options": [
+      "A 保留：整篇以能力与价值解释高薪，核心是反驳CEO薪酬过高的判断。",
+      "B Past and Present 只说今昔对比，漏掉全文为高薪提供理由的立场。",
+      "C 今日挑战主要对应第3段，无法覆盖人才稀缺和企业价值等论点。",
+      "D 文中没有讨论特质难以定义，反而明确列出多种能力要求。"
+    ]
+  },
+  "past-2020-3-q31": {
+    "type": "细节定位",
+    "anchors": [
+      {
+        "text": "Madrid",
+        "meaning": "马德里"
+      },
+      {
+        "text": "future looks uncertain",
+        "meaning": "未来看来不确定"
+      }
+    ],
+    "locate": "首段政策变化较多，题干问目前哪项属实，优先看本段最后一句，再向前核对法官和政策效果。",
+    "evidence": [
+      {
+        "paragraph": 0,
+        "quote": "the zone's future looks uncertain at best.",
+        "meaning": "该区域政策的前景充其量只能说尚不确定。"
+      }
+    ],
+    "reasoning": "future uncertain 对应 fate yet to be decided，都表示结果未定。前面的来回变化解释这一结论，别把市政府和法官立场混在一起。",
+    "options": [
+      "A 原文已肯定 improving air quality，不能说效果本身存疑。",
+      "B 法官推翻停止罚款的决定并恢复罚款，选项将支持执行写成反对。",
+      "C 文中交代执行被暂停又恢复，没有提出应更严厉执行的结论。",
+      "D 保留：future looks uncertain 与政策命运尚未确定对应。"
+    ]
+  },
+  "past-2020-3-q32": {
+    "type": "细节定位",
+    "anchors": [
+      {
+        "text": "weaknesses",
+        "meaning": "弱点"
+      },
+      {
+        "text": "individual drivers",
+        "meaning": "个体驾驶者"
+      }
+    ],
+    "locate": "找第3段 Among other weaknesses，再看 That’s because 给出的具体理由，重点圈 costs 被转给谁。",
+    "evidence": [
+      {
+        "paragraph": 2,
+        "quote": "put the costs of cleaning the air on to individual drivers",
+        "meaning": "把清洁空气的成本转嫁给个体驾驶者。"
+      }
+    ],
+    "reasoning": "costs 的承担者是 individual drivers，后面 pay fees 或 buy vehicles 是具体支出。答案抓 burden 和 motorists 的近义改写。",
+    "options": [
+      "A 原文批评没有让制造商承担成本，选项反说对制造商不公。",
+      "B politically controversial 指有政治争议，未断言市议会实际无法执行。",
+      "C 文中说驾驶者反对承担成本，没有说政治人物认为措施太温和。",
+      "D 保留：costs on individual drivers 对应负担落在个体驾车者身上。"
+    ]
+  },
+  "past-2020-3-q33": {
+    "type": "推断",
+    "anchors": [
+      {
+        "text": "extends it",
+        "meaning": "扩展该区域"
+      },
+      {
+        "text": "intense opposition",
+        "meaning": "强烈反对"
+      }
+    ],
+    "locate": "在第3段找 London 和 Ulez，往后找到 if Khan wins and extends，读 it is sure to 后的预测。",
+    "evidence": [
+      {
+        "paragraph": 2,
+        "quote": "it is sure to spark intense opposition from the far larger number of motorists who will then be affected.",
+        "meaning": "它必将引发更大批受影响驾驶者的强烈反对。"
+      }
+    ],
+    "reasoning": "spark 对应 arouse，intense opposition 对应 strong resistance。if 赢得选举是前提，不可倒过来说扩区保证胜选。",
+    "options": [
+      "A 保留：arouse strong resistance 与 spark intense opposition 同义。",
+      "B 赢得选举在 if 条件内，选项把它写成扩区必然导致的结果。",
+      "C 本段说受影响驾驶者增多，未预测城市交通状况改善。",
+      "D 费用落到驾驶者的讨论并未预测汽车制造量因此受抑。"
+    ]
+  },
+  "past-2020-3-q34": {
+    "type": "细节定位",
+    "anchors": [
+      {
+        "text": "national governments",
+        "meaning": "国家政府"
+      },
+      {
+        "text": "failed to do so",
+        "meaning": "未能这样做"
+      }
+    ],
+    "locate": "题干问本该谁解决，去倒数第2段看市长能力的限制，再看 because 后明确点名哪个层级缺位。",
+    "evidence": [
+      {
+        "paragraph": 4,
+        "quote": "They are acting because national governments - Britain's and others across Europe -have failed to do so.",
+        "meaning": "地方采取行动，是因为英国及欧洲其他国家政府没有采取应有行动。"
+      }
+    ],
+    "reasoning": "because 后给出地方被迫行动的原因；national governments 是 failed 的主语，也就是作者认为本应负责的层级。",
+    "options": [
+      "A residents 是被保护健康的人群，文中没有把制度治理责任交给居民。",
+      "B 市长正在做能力范围内的事，作者明确说问题超过单个城市。",
+      "C 议员与市长一起受到地方权限限制，未被作为缺位的主要层级。",
+      "D 保留：national governments failed to do so 直接指出国家政府缺位。"
+    ]
+  },
+  "past-2020-3-q35": {
+    "type": "推断",
+    "anchors": [
+      {
+        "text": "enforce existing regulations",
+        "meaning": "执行现有法规"
+      },
+      {
+        "text": "compliance",
+        "meaning": "符合规定"
+      }
+    ],
+    "locate": "末段长句先找 require auto companies，跳过城市和学校街道的例子，只看要求企业把车辆做到什么状态。",
+    "evidence": [
+      {
+        "paragraph": 5,
+        "quote": "require auto companies to bring their vehicles into compliance.",
+        "meaning": "要求汽车企业让车辆符合规定。"
+      }
+    ],
+    "reasoning": "require 是要求，compliance 是合规，结合 enforce regulations 就是强制企业遵守法规。最后一句再次批评没人坚持让厂商整治车辆。",
+    "options": [
+      "A 作者提出应有要求，没有预测企业一定会提高低排放车产量。",
+      "B 保留：要求车辆合规，对应企业应被要求遵循法规。",
+      "C 车辆合规可能涉及多种办法，原文没预测一定升级设计。",
+      "D 原文提出执行法规，public supervision 换成公众监督，机制不同。"
+    ]
+  },
+  "past-2020-4-q36": {
+    "type": "细节定位",
+    "anchors": [
+      {
+        "text": "attention",
+        "meaning": "关注"
+      },
+      {
+        "text": "Everybody wants to know",
+        "meaning": "人人都想知道"
+      }
+    ],
+    "locate": "题干问今春毕业的Z世代现状，在首段看 attention 的变化；末句 Everybody wants to know 可作为第二处证据。",
+    "evidence": [
+      {
+        "paragraph": 0,
+        "quote": "the attention has been rising steadily in recent weeks.",
+        "meaning": "近几周关注度持续上升。"
+      }
+    ],
+    "reasoning": "attention rising 就是受到越来越多关注。招聘增加是市场背景，没有直接说明这些毕业生的心理态度或偏好。",
+    "options": [
+      "A 原文说招聘增加和公众关注，没有评价他们的能力已经获认可。",
+      "B 市场较好是环境事实，无法直接当成Z世代的乐观态度。",
+      "C office cubicles 描写即将就业，未调查他们偏好办公室职位。",
+      "D 保留：attention rising 和人人想了解，直接支持公众关注增长。"
+    ]
+  },
+  "past-2020-4-q37": {
+    "type": "细节定位",
+    "anchors": [
+      {
+        "text": "economic train wreck",
+        "meaning": "经济重创"
+      },
+      {
+        "text": "crash of 2008",
+        "meaning": "2008年危机"
+      }
+    ],
+    "locate": "题干 keenly aware 对应第2段 know，读 economic train wreck，再看2008年父母失去工作或积蓄的例子。",
+    "evidence": [
+      {
+        "paragraph": 1,
+        "quote": "Gen Zs know what an economic train wreck looks like.",
+        "meaning": "Z世代知道严重经济困境是什么样子。"
+      }
+    ],
+    "reasoning": "train wreck 是形容经济重创，下一句父母失业、积蓄损失提供解释。答案是认识困难经济处境，不必懂隐喻本身。",
+    "options": [
+      "A 父母出现在危机经历里，文中没有讨论他们对子女的期望。",
+      "B 顾问是描述这一代人的研究者，原文未说学生特别懂其建议价值。",
+      "C 保留：经历父母失业与财务损失，使其清楚经济困境的样貌。",
+      "D 首段提出公众想比较代际，选项把公众的问题转成Z世代自身认识。"
+    ]
+  },
+  "past-2020-4-q38": {
+    "type": "词义",
+    "anchors": [
+      {
+        "text": "anxious urgency",
+        "meaning": "焦虑紧迫感"
+      },
+      {
+        "text": "done little to",
+        "meaning": "对某事帮助很小"
+      }
+    ],
+    "locate": "找到第2段 assuage，先把动词遮住：经济繁荣却几乎没能怎样他们的焦虑？结合前面的谨慎和负债情境填词。",
+    "evidence": [
+      {
+        "paragraph": 1,
+        "quote": "The booming economy seems to have done little to assuage this underlying generational sense of anxious urgency",
+        "meaning": "繁荣经济似乎没能多少缓解这一代人深层的焦虑紧迫感。"
+      }
+    ],
+    "reasoning": "好经济通常应当减轻焦虑，但 done little 说这种效果很弱。要填的是动作“缓解”，不是把 done little 忘掉后选加深。",
+    "options": [
+      "A deepen 是加深，与繁荣经济本应带来的安抚作用方向不符。",
+      "B define 是界定，句子描述经济对焦虑的影响，不是在给焦虑下定义。",
+      "C maintain 是维持，不符合好经济本应改善焦虑而未奏效的转折。",
+      "D 保留：relieve 表示缓解，放回 done little to relieve anxious urgency 顺畅。"
+    ]
+  },
+  "past-2020-4-q39": {
+    "type": "推断",
+    "anchors": [
+      {
+        "text": "with a job in mind",
+        "meaning": "考虑着就业"
+      },
+      {
+        "text": "secure employment",
+        "meaning": "稳定就业"
+      }
+    ],
+    "locate": "到第3段圈88%与 chose their major，再读最看重雇主什么；把选专业的目的和工作偏好合起来判断。",
+    "evidence": [
+      {
+        "paragraph": 2,
+        "quote": "88 percent of graduating seniors this year chose their major with a job in mind.",
+        "meaning": "今年88%的毕业生选专业时就考虑了就业。"
+      }
+    ],
+    "reasoning": "选专业时有就业目标，后面还能排出稳定、发展、使命感等偏好，说明对将来的工作有明确想法。不要把第二名读成首位。",
+    "options": [
+      "A professional development 排在 secure employment 后面，选项说首要，次序错。",
+      "B 保留：以就业选专业且有清楚的雇主偏好，说明未来工作想法明确。",
+      "C 原文谈择业标准，未评价他们是否在乎工作表现。",
+      "D work-life balance 被列为重要目标，没有说他们认为难以实现。"
+    ]
+  },
+  "past-2020-4-q40": {
+    "type": "细节定位",
+    "anchors": [
+      {
+        "text": "Michelsen",
+        "meaning": "人名"
+      },
+      {
+        "text": "risk averse",
+        "meaning": "规避风险"
+      }
+    ],
+    "locate": "用 Michelsen 到末段，先看千禧一代想要 flexibility，再看Z世代的 certainty、stability 和最后的 risk averse。",
+    "evidence": [
+      {
+        "paragraph": 3,
+        "quote": "Generation Zs are looking for more certainty and stability",
+        "meaning": "Z世代寻求更多确定性和稳定性。"
+      },
+      {
+        "paragraph": 3,
+        "quote": "they are quite risk averse.",
+        "meaning": "他们相当规避风险。"
+      }
+    ],
+    "reasoning": "确定、稳定、避险是同一方向。选项 less adventurous（较少冒险）正好表达相对前代更保守的风险偏好。",
+    "options": [
+      "A 第2段称他们为 pragmatists，末段求稳定也不支持较不现实。",
+      "B 保留：risk averse 对应 less adventurous，都是较少愿意冒险。",
+      "C 文中比较的是灵活与稳定偏好，没有比较谁更勤奋。",
+      "D generous 指慷慨，末段没有谈分享、捐赠或待人方式。"
+    ]
+  }
+}

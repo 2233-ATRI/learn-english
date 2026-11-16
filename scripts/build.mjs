@@ -1,0 +1,16 @@
+import * as esbuild from 'esbuild';
+import fs from 'node:fs/promises';
+import path from 'node:path';
+const root=path.resolve(import.meta.dirname,'..');process.chdir(root);
+await fs.mkdir('dist',{recursive:true});await fs.mkdir('releases',{recursive:true});
+const result=await esbuild.build({entryPoints:['src/App.jsx'],bundle:true,write:false,minify:true,format:'iife',target:['chrome120'],jsx:'automatic',define:{'process.env.NODE_ENV':'"production"'},legalComments:'inline',outfile:'out.js'});
+const js=result.outputFiles.find(f=>f.path.endsWith('.js')).text.replace(/<\/script/gi,'<\\/script'),css=result.outputFiles.find(f=>f.path.endsWith('.css')).text;
+const icon='<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64"><rect width="64" height="64" rx="17" fill="#50613d"/><path d="M14 17h12l6 4 6-4h12v29H38l-6 4-6-4H14V17Zm18 4v29" fill="none" stroke="#f8f7f3" stroke-width="3" stroke-linejoin="round"/></svg>';
+const html='<!doctype html><html lang="zh-CN"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover"><meta name="theme-color" content="#50613d"><meta name="description" content="拾词英语二：离线真题阅读、点词释义、导读技巧与错题复习。"><meta http-equiv="Content-Security-Policy" content="default-src \'none\'; script-src \'unsafe-inline\' blob:; style-src \'unsafe-inline\'; font-src data: blob:; img-src data: blob:; worker-src blob:; connect-src blob:; object-src \'none\'; base-uri \'none\'; form-action \'none\'"><link rel="icon" href="data:image/svg+xml,'+encodeURIComponent(icon)+'"><title>拾词 · 考研英语二</title><style>'+css+'</style></head><body><div id="root"></div><script>'+js+'</script></body></html>';
+await fs.writeFile('dist/index.html',html);await fs.writeFile('releases/拾词英语二-离线版.html',html);
+const notices=['拾词英语二 · Third-party notices\nAll third-party components bundled below retain their original licenses.\n\nOriginal teaching passages and application code created for this local learning project.\nPast exam passages are transformed from user-provided files, with source provenance in assets/paper-text/.\n'];
+for(const f of ['react/LICENSE','react-dom/LICENSE','pdfjs-dist/LICENSE'])notices.push('\n=== '+f+' ===\n'+await fs.readFile('node_modules/'+f,'utf8'));
+notices.push('\n=== scheduler/LICENSE ===\n'+await fs.readFile(path.join(path.dirname(await fs.realpath('node_modules/react-dom')),'scheduler/LICENSE'),'utf8'));
+notices.push('\n=== ECDICT (skywind3000), MIT ===\nhttps://github.com/skywind3000/ECDICT\n'+await fs.readFile('assets/ecdict/LICENSE','utf8'));
+await fs.writeFile('dist/THIRD_PARTY_NOTICES.txt',notices.join('\n'));await fs.copyFile('dist/THIRD_PARTY_NOTICES.txt','releases/THIRD_PARTY_NOTICES.txt');
+console.log('Built standalone offline application: '+Math.round(Buffer.byteLength(html)/1024)+' KB');

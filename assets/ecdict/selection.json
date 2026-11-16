@@ -1,0 +1,10 @@
+{
+  "source": "https://github.com/skywind3000/ECDICT",
+  "license": "MIT",
+  "criterion": "ky or zk in tag; ky core plus common basic vocabulary",
+  "examEntries": 4801,
+  "basicEntries": 925,
+  "baseEntries": 5726,
+  "forms": 10379,
+  "csvSHA256": "d1ecbdf9ee2b920afb6f430ca6b6bb9f559588cf0dff86e04bd255f9390843cc"
+}

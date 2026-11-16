@@ -1,0 +1,12 @@
+const pending=new Map();let counter=0;
+export const isNative=()=>!!window.ShiciHost;
+window.__shiciReply=r=>{const p=pending.get(r.id);if(p){pending.delete(r.id);r.ok?p.resolve(r.result):p.reject(Error(r.error||'操作失败'));}};
+export function nativeCall(method,payload={}){return new Promise((resolve,reject)=>{const id=String(++counter);pending.set(id,{resolve,reject});window.ShiciHost.postMessage(JSON.stringify({id,method,payload}));});}
+let dbPromise;
+function db(){if(!dbPromise)dbPromise=new Promise((resolve,reject)=>{const r=indexedDB.open('shici-english2',1);r.onupgradeneeded=()=>r.result.createObjectStore('state');r.onsuccess=()=>resolve(r.result);r.onerror=()=>reject(r.error);});return dbPromise;}
+export async function loadState(){if(isNative()){const s=await nativeCall('readWorkspace');return s?JSON.parse(s):null;}const d=await db();return new Promise((resolve,reject)=>{const r=d.transaction('state').objectStore('state').get('current');r.onsuccess=()=>resolve(r.result||null);r.onerror=()=>reject(r.error);});}
+export async function saveState(state){if(isNative())return nativeCall('saveWorkspace',{data:JSON.stringify(state)});const d=await db();return new Promise((resolve,reject)=>{const tx=d.transaction('state','readwrite');tx.objectStore('state').put(state,'current');tx.oncomplete=()=>resolve();tx.onerror=()=>reject(tx.error);tx.onabort=()=>reject(tx.error||Error('保存中断'));});}
+export function base64(bytes){let result='';for(let i=0;i<bytes.length;i+=8192)result+=String.fromCharCode(...bytes.subarray(i,i+8192));return btoa(result);}
+export async function exportText(name,text){if(isNative())return nativeCall('exportFile',{name,type:'application/json',data:base64(new TextEncoder().encode(text))});const blob=new Blob([text],{type:'application/json'});const url=URL.createObjectURL(blob);const a=document.createElement('a');a.href=url;a.download=name;a.click();setTimeout(()=>URL.revokeObjectURL(url),10000);return {saved:true};}
+export function nativeFiles(files){return files.map(f=>{const bytes=Uint8Array.from(atob(f.data),c=>c.charCodeAt(0));return {name:f.name,size:bytes.length,text:async()=>new TextDecoder().decode(bytes),arrayBuffer:async()=>bytes.buffer};});}
+export async function pickFile(accept='.json,.txt,.md,.pdf'){if(isNative())return nativeFiles(await nativeCall('chooseFiles'));return new Promise(resolve=>{const input=document.createElement('input');input.type='file';input.accept=accept;input.onchange=()=>resolve([...input.files]);input.addEventListener('cancel',()=>resolve([]));input.click();});}

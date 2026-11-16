@@ -1,0 +1,12 @@
+import {lessons as practice} from './content.js';
+import pastA from './past-2010-2018.json' with {type:'json'};
+import pastB from './past-2019-2026.json' with {type:'json'};
+import guidesA from './strategies-2010-2015.json' with {type:'json'};
+import guidesB from './strategies-2016-2020.json' with {type:'json'};
+import guidesC from './strategies-2021-2026.json' with {type:'json'};
+import guidesPractice from './strategies-practice.json' with {type:'json'};
+export const strategyGuides={...guidesA,...guidesB,...guidesC,...guidesPractice};
+const addGuides=lesson=>({...lesson,questions:lesson.questions.map((q,i)=>({...q,strategy:strategyGuides[lesson.id+'-q'+(q.number||i+1)]||null}))});
+export const practiceLessons=practice.map(addGuides);
+export const pastLessons=[...pastA,...pastB].map(addGuides);
+export const builtinLessons=[...pastLessons,...practiceLessons];

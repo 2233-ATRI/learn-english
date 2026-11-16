@@ -1,0 +1,21 @@
+{
+  "name": "shici-english-two",
+  "version": "1.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "test": "node scripts/test.mjs && node scripts/test-strategies.mjs && node scripts/test-dom.mjs",
+    "build:android": "bash scripts/build-android.sh"
+  },
+  "dependencies": {
+    "react": "19.1.1",
+    "react-dom": "19.1.1",
+    "pdfjs-dist": "4.10.38"
+  },
+  "devDependencies": {
+    "esbuild": "0.25.10",
+    "jsdom": "26.1.0",
+    "fake-indexeddb": "6.2.4"
+  }
+}

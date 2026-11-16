@@ -1,0 +1,3595 @@
+{
+  "past-2010-1-q21": {
+    "type": "原因",
+    "anchors": [
+      {
+        "text": "Damien Hirst",
+        "meaning": "艺术家姓名"
+      },
+      {
+        "text": "last victory",
+        "meaning": "最后一次胜利"
+      }
+    ],
+    "locate": "圈题干人名和 last victory，在第 1 段找同样字形；读“最后胜利”前一句的销售结果，再读后一句的银行事件。",
+    "evidence": [
+      {
+        "paragraph": 0,
+        "quote": "All but two pieces sold, fetching more than £70m",
+        "meaning": "除两件外全部售出，成交额超过七千万英镑。"
+      },
+      {
+        "paragraph": 0,
+        "quote": "Lehman Brothers, filed for bankruptcy.",
+        "meaning": "雷曼兄弟申请破产。"
+      }
+    ],
+    "reasoning": "只抓 sold 与 bankruptcy：拍卖成功，紧接着金融机构破产。last 把成功放在危机到来前，选项中的 before 对应这个时间关系。",
+    "options": [
+      "排除：succession 指接连胜利，原文强调的是繁荣结束。",
+      "排除：two pieces 是未售出的两件，方向读反了。",
+      "排除：原文只是给出拍卖名称，没有把它与全部杰作比较。",
+      "保留：成功销售与银行破产相邻，概括为危机前最后成功。"
+    ]
+  },
+  "past-2010-1-q22": {
+    "type": "推断",
+    "anchors": [
+      {
+        "text": "unfashionable",
+        "meaning": "不再流行"
+      },
+      {
+        "text": "collectors",
+        "meaning": "收藏者"
+      }
+    ],
+    "locate": "题干已给第 3 段，找到 unfashionable 后继续看 In the art world that meant；它后面直接把抽象说法解释成具体行为。",
+    "evidence": [
+      {
+        "paragraph": 2,
+        "quote": "In the art world that meant collectors stayed away from galleries and salerooms.",
+        "meaning": "在艺术界，这意味着收藏者远离画廊和拍卖厅。"
+      }
+    ],
+    "reasoning": "把 that meant 当作“也就是说”的箭头。只需理解 collectors 和 stayed away，就能把“不积极参加交易”与定位句对应。",
+    "options": [
+      "保留：no longer actively involved 对应收藏者远离交易场所。",
+      "排除：every kind of spending 扩大成所有支出，超出艺术市场语境。",
+      "排除：lost its appeal 把购买活动减少改成收藏爱好失去吸引力。",
+      "排除：not worth buying 加入作品不值得买的价值判断。"
+    ]
+  },
+  "past-2010-1-q23": {
+    "type": "细节定位",
+    "anchors": [
+      {
+        "text": "losing momentum",
+        "meaning": "势头减弱"
+      },
+      {
+        "text": "interest far beyond its size",
+        "meaning": "关注超过规模"
+      }
+    ],
+    "locate": "先圈 NOT，逐项找可核实的信息。重点回第 2 段，把 momentum 与 interest 分开看；再用第 3、5 段核对其余项。",
+    "evidence": [
+      {
+        "paragraph": 1,
+        "quote": "The world art market had already been losing momentum for a while",
+        "meaning": "世界艺术市场的增长势头已经减弱了一段时间。"
+      },
+      {
+        "paragraph": 1,
+        "quote": "But the market generates interest far beyond its size",
+        "meaning": "但这个市场受到的关注远超其自身规模。"
+      }
+    ],
+    "reasoning": "题目要选错误项。原文比较的是受关注程度，选项却把比较对象换成增长势头；对比 momentum 和 interest 就能抓住偷换。",
+    "options": [
+      "排除为答案：第 3 段 fell by two-thirds 支持销售大跌。",
+      "选本项：原文说势头减弱，只说关注度突出，未说增长超过其他行业。",
+      "排除为答案：销售额、价格和购买活动都下降，符合整体走低。",
+      "排除为答案：末段 waiting for confidence to return 支持等待好时机。"
+    ]
+  },
+  "past-2010-1-q24": {
+    "type": "推断",
+    "anchors": [
+      {
+        "text": "three Ds",
+        "meaning": "三个以 D 开头的因素"
+      },
+      {
+        "text": "deliver",
+        "meaning": "送入"
+      }
+    ],
+    "locate": "圈 three Ds，到末段找到破折号中的三个词；先跳过三个词的具体含义，直接读它们共同支配的动词 deliver。",
+    "evidence": [
+      {
+        "paragraph": 4,
+        "quote": "The three Ds – death, debt and divorce – still deliver works of art to the market.",
+        "meaning": "死亡、债务与离婚仍让艺术作品进入市场。"
+      }
+    ],
+    "reasoning": "句型是“三个因素＋把艺术品送到市场”。deliver ... to the market 对应作品流通，抓住动作就能判断三个 D 的共同作用。",
+    "options": [
+      "排除：favorites 是拍卖行的喜好，原句只描述作品进入市场。",
+      "排除：trends 泛指趋势，没有概括促使出售的作用。",
+      "保留：promoting artwork circulation 对应使艺术品进入交易市场。",
+      "排除：Impressionists 是前段艺术流派，与末段三个出售诱因无关。"
+    ]
+  },
+  "past-2010-1-q25": {
+    "type": "主旨",
+    "anchors": [
+      {
+        "text": "losing momentum",
+        "meaning": "增长势头减弱"
+      },
+      {
+        "text": "downturn",
+        "meaning": "低迷"
+      }
+    ],
+    "locate": "标题题放到最后做；看第 2 段 losing momentum、第 3 段 fell、第 4 段 downturn，把几个反复出现的下降信号连起来。",
+    "evidence": [
+      {
+        "paragraph": 1,
+        "quote": "The world art market had already been losing momentum for a while",
+        "meaning": "艺术市场的势头已经减弱。"
+      },
+      {
+        "paragraph": 3,
+        "quote": "The current downturn in the art market is the worst since the Japanese stopped buying Impressionists at the end of 1989.",
+        "meaning": "当前艺术市场低迷是自 1989 年底以来最严重的。"
+      }
+    ],
+    "reasoning": "先锁定反复出现的 art market，再用 losing、fell、downturn 判断方向。能同时覆盖交易、价格和信心变化的标题最合适。",
+    "options": [
+      "排除：价格波动只是第 4 段内容，未覆盖成交和买家行为。",
+      "排除：最新拍卖只对应开篇事件，缺少后文下降主线。",
+      "保留：Art Market 加 Decline 同时保留全文对象与下降方向。",
+      "排除：兴趣转移强调转去哪里，全文重点是市场萎缩。"
+    ]
+  },
+  "past-2010-2-q26": {
+    "type": "细节定位",
+    "anchors": [
+      {
+        "text": "most wives",
+        "meaning": "多数妻子"
+      },
+      {
+        "text": "conversational partners",
+        "meaning": "交谈伙伴"
+      }
+    ],
+    "locate": "圈 main expectation 和 wives，在第 4 段找 most wives want；顺着 want 往后读，first and foremost 后面就是最主要期待。",
+    "evidence": [
+      {
+        "paragraph": 3,
+        "quote": "most wives want their husbands to be, first and foremost, conversational partners",
+        "meaning": "多数妻子首先希望丈夫成为交谈伙伴。"
+      }
+    ],
+    "reasoning": "main 对应 first and foremost，expectation 对应 want。conversational partners 只需识别为能交流的人，就能与 talking 配对。",
+    "options": [
+      "保留：Talking to them 直接改写 conversational partners。",
+      "排除：trusting 是信任，本句没有把信任列为主要期待。",
+      "排除：career 出现在 not on 后，被排出本段主要抱怨。",
+      "排除：housework 同在 not on 的举例中，后面 instead 转向交流。"
+    ]
+  },
+  "past-2010-2-q27": {
+    "type": "词义",
+    "anchors": [
+      {
+        "text": "wreaking havoc",
+        "meaning": "待猜短语"
+      },
+      {
+        "text": "divorces",
+        "meaning": "离婚"
+      }
+    ],
+    "locate": "题干给第 2 段短语，先看短语后面的 marriage；再扫第 3 段 divorces、failed conversation，判断它带来正面还是负面结果。",
+    "evidence": [
+      {
+        "paragraph": 1,
+        "quote": "And this pattern is wreaking havoc with marriage.",
+        "meaning": "这种模式正在对婚姻造成严重不良影响。"
+      },
+      {
+        "paragraph": 2,
+        "quote": "gave lack of communication as the reason for their divorces",
+        "meaning": "把缺乏沟通作为离婚原因。"
+      }
+    ],
+    "reasoning": "用后文“缺少沟通→离婚”给短语定负面方向。damage 能承接婚姻破裂这种严重后果，单纯 influence 的力度过弱。",
+    "options": [
+      "排除：motivation 是激励，与后文离婚后果方向相反。",
+      "排除：influence 只说影响，未体现婚姻受到损害。",
+      "保留：causing damage 与离婚及交流失败的负面结果一致。",
+      "排除：pressure 是压力，比后文已发生的婚姻损害轻。"
+    ]
+  },
+  "past-2010-2-q28": {
+    "type": "细节定位",
+    "anchors": [
+      {
+        "text": "50 percent",
+        "meaning": "百分之五十"
+      },
+      {
+        "text": "divorce rate",
+        "meaning": "离婚率"
+      }
+    ],
+    "locate": "先圈 EXCEPT，再圈最醒目的 50 percent；到第 3 段看数字前紧挨着的名词，确认这到底是什么比例。",
+    "evidence": [
+      {
+        "paragraph": 2,
+        "quote": "Given the current divorce rate of nearly 50 percent",
+        "meaning": "鉴于当前接近百分之五十的离婚率。"
+      }
+    ],
+    "reasoning": "数字题先看“谁的百分之几”。50 percent 修饰 divorce rate，选项却写成离婚原因的占比，分母和统计对象都换了。",
+    "options": [
+      "排除为答案：第 2 段明确说男性在公共场合说得更多。",
+      "选本项：50% 是离婚率，原文没有给沟通失败占离婚原因的比例。",
+      "排除为答案：第 4 段妻子希望丈夫成为交谈伙伴，支持重视沟通。",
+      "排除为答案：第 2 段男性在家说得较少，支持女性在家更健谈。"
+    ]
+  },
+  "past-2010-2-q29": {
+    "type": "主旨",
+    "anchors": [
+      {
+        "text": "talk more",
+        "meaning": "说得更多"
+      },
+      {
+        "text": "talk less",
+        "meaning": "说得更少"
+      }
+    ],
+    "locate": "主旨题看第 2 段对首段故事的概括，再看末段漫画；两处都对比男女说话行为，先确定共同话题再选范围。",
+    "evidence": [
+      {
+        "paragraph": 1,
+        "quote": "although American men tend to talk more than women in public situations, they often talk less at home.",
+        "meaning": "美国男性在公共场合往往比女性说得多，在家却常说得少。"
+      }
+    ],
+    "reasoning": "第 2 段同时给出对象 men/women 与变化 talk more/talk less。末段一人读报一人想说话再次出现这一对比，选择交谈模式。",
+    "options": [
+      "排除：moral decaying 是道德衰退，文章没有研究这一主题。",
+      "排除：sex inequalities 对应第 4 段被排除的家务与事业分工。",
+      "排除：marriage expectations 过宽，本文持续围绕交谈这一具体期待。",
+      "保留：交谈模式差异覆盖故事、研究结果及末段漫画。"
+    ]
+  },
+  "past-2010-2-q30": {
+    "type": "推断",
+    "anchors": [
+      {
+        "text": "stereotypical cartoon",
+        "meaning": "典型漫画"
+      },
+      {
+        "text": "In short",
+        "meaning": "简言之"
+      }
+    ],
+    "locate": "题干问紧接着会写什么，优先看最后一句新引入的东西；末段突然呈现漫画场景，留意它尚待展开的具体内容。",
+    "evidence": [
+      {
+        "paragraph": 4,
+        "quote": "the image that best represents the current crisis is the stereotypical cartoon scene",
+        "meaning": "最能代表当前危机的形象是那种典型漫画场景。"
+      }
+    ],
+    "reasoning": "续写题抓末尾话题衔接。最后引入漫画并开始描述，继续把这个场景写具体，距离当前叙述最近。",
+    "options": [
+      "排除：Divorce Talk 在第 3 段已经提过，末尾没有回到书本介绍。",
+      "保留：紧接末段刚引出的漫画场景，衔接最直接。",
+      "排除：其他离婚原因会新开话题，末段没有这样的预告。",
+      "排除：Andrew Hacker 是前文研究者，结尾未转向人物介绍。"
+    ]
+  },
+  "past-2010-3-q31": {
+    "type": "推断",
+    "anchors": [
+      {
+        "text": "Dr. Curtis",
+        "meaning": "人名"
+      },
+      {
+        "text": "soap habit",
+        "meaning": "用肥皂的习惯"
+      }
+    ],
+    "locate": "圈 Dr. Curtis，在第 2 段找 soap habit；先看 dirty hands 与 soap habit 的对照，再看后一句 wanted to learn 后的目标。",
+    "evidence": [
+      {
+        "paragraph": 1,
+        "quote": "We wanted to learn from private industry how to create new behaviors that happen automatically.",
+        "meaning": "我们想向企业学习如何形成自动发生的新行为。"
+      }
+    ],
+    "reasoning": "create new behaviors 表示希望把好习惯培养出来。把这个动词和前面的 soap habit 接起来，可判断洗手习惯需要进一步养成。",
+    "options": [
+      "保留：further cultivated 对应 create new behaviors，即继续培养习惯。",
+      "排除：changed gradually 说逐渐改变已有习惯，缺少 gradually 的依据。",
+      "排除：deeply rooted in history 说历史悠久，原文强调仍需建立。",
+      "排除：private concerns 偷换 private industry，企业是学习对象而非问题性质。"
+    ]
+  },
+  "past-2010-3-q32": {
+    "type": "例证",
+    "anchors": [
+      {
+        "text": "bottled water",
+        "meaning": "瓶装水"
+      },
+      {
+        "text": "Chewing gum",
+        "meaning": "口香糖"
+      }
+    ],
+    "locate": "题干点名第 5 段三个产品，先看第 4 段总括的 manufactured habits，再看第 5 段每个产品前后的过去与现在。",
+    "evidence": [
+      {
+        "paragraph": 3,
+        "quote": "many of the products we use every day",
+        "meaning": "我们每天使用的许多产品。"
+      },
+      {
+        "paragraph": 4,
+        "quote": "now office workers unthinkingly sip bottled water all day long.",
+        "meaning": "如今办公室职员会整天不假思索地喝瓶装水。"
+      }
+    ],
+    "reasoning": "例子共同点是以前少做、现在经常做，并与广告相连。把三种商品统一概括为“改变消费习惯”，无需逐个理解成分或用途。",
+    "options": [
+      "保留：impact on habits 能同时概括瓶装水、口香糖及护肤流程变化。",
+      "排除：urgent need 强调急需必需品，段落讲营销改变使用频率。",
+      "排除：buying power 是购买力，文中没有收入或支付能力比较。",
+      "排除：good habits 的价值是别段评价，这组例子重点是习惯如何形成。"
+    ]
+  },
+  "past-2010-3-q33": {
+    "type": "细节定位",
+    "anchors": [
+      {
+        "text": "The companies",
+        "meaning": "这些公司"
+      },
+      {
+        "text": "Unilever",
+        "meaning": "联合利华"
+      }
+    ],
+    "locate": "先圈 NOT 和 products；把四个大写名称在正文里找一遍。第 3 段列名单前的 The companies 能直接判断其中一项的类别。",
+    "evidence": [
+      {
+        "paragraph": 2,
+        "quote": "The companies that Dr. Curtis turned to – Procter & Gamble, Colgate-Palmolive and Unilever",
+        "meaning": "柯蒂斯求助的公司包括宝洁、高露洁棕榄和联合利华。"
+      }
+    ],
+    "reasoning": "这题靠名词分类：题目要产品，Unilever 被 The companies 明确归为公司。其余名称在产品使用或销售语境中出现。",
+    "options": [
+      "排除为答案：Tide 在第 6 段与 products 的销售额相连，属于产品品牌。",
+      "排除为答案：Crest 在刷牙和销售产品的语境中出现。",
+      "排除为答案：Colgate 在第 4 段刷牙产品中出现。",
+      "选本项：Unilever 被第 3 段 The companies 明确归类为公司。"
+    ]
+  },
+  "past-2010-3-q34": {
+    "type": "原因",
+    "anchors": [
+      {
+        "text": "advertising",
+        "meaning": "广告"
+      },
+      {
+        "text": "habitual cues",
+        "meaning": "习惯线索"
+      }
+    ],
+    "locate": "圈 developed due to，把问题当成找“习惯形成的原因”；先到末段找 advertising，再回第 4 段 because of 核对。",
+    "evidence": [
+      {
+        "paragraph": 3,
+        "quote": "because of shrewd advertising and public health campaigns",
+        "meaning": "由于精明的广告和公共卫生宣传。"
+      },
+      {
+        "paragraph": 6,
+        "quote": "tying certain behaviors to habitual cues through ruthless advertising",
+        "meaning": "通过强势广告把某些行为和习惯线索联系起来。"
+      }
+    ],
+    "reasoning": "because of 与 through 都把广告指向形成习惯的手段。commercial promotions 是对广告推广的概括，原因与手段能对应。",
+    "options": [
+      "排除：art of products 把创造习惯的技术换成产品本身的工艺。",
+      "排除：automatic behavior 是习惯的表现，重复结果，没有给出推广手段。",
+      "保留：commercial promotions 概括广告和营销活动。",
+      "排除：experiments 是研究者发现机制的办法，并非文中消费者习惯形成的直接原因。"
+    ]
+  },
+  "past-2010-3-q35": {
+    "type": "态度",
+    "anchors": [
+      {
+        "text": "ruthless advertising",
+        "meaning": "强势无情的广告"
+      },
+      {
+        "text": "questionable",
+        "meaning": "有问题的"
+      }
+    ],
+    "locate": "态度题优先看最后一段作者自己的用词；圈 ruthless、questionable、unhealthy，先判断正负方向再比选项。",
+    "evidence": [
+      {
+        "paragraph": 6,
+        "quote": "controversies have erupted when the tactics have been used to sell questionable beauty creams or unhealthy foods.",
+        "meaning": "这些手段被用于销售有问题的美容霜或不健康食品时引发了争议。"
+      }
+    ],
+    "reasoning": "controversies、questionable、unhealthy 都朝负面指向。前面的企业发言属于被引用者，最后作者的风险评价更能回答作者态度。",
+    "options": [
+      "排除：indifferent 表示漠不关心，与作者点出争议和危害不符。",
+      "保留：negative 概括末段批判性词语的共同方向。",
+      "排除：positive 可对应企业自我评价，不能替代作者末段态度。",
+      "排除：biased 是指评价者有偏见，原文没有这样的自我判断。"
+    ]
+  },
+  "past-2010-4-q36": {
+    "type": "细节定位",
+    "anchors": [
+      {
+        "text": "verdicts",
+        "meaning": "判决"
+      },
+      {
+        "text": "conscience of the community",
+        "meaning": "社区的良知"
+      }
+    ],
+    "locate": "题干问制度原则，直接读第 1 段；四个选项分别找 literacy、peers、age、verdicts，只核对这些词后的限定。",
+    "evidence": [
+      {
+        "paragraph": 0,
+        "quote": "verdicts should represent the conscience of the community",
+        "meaning": "判决应体现社区的良知。"
+      },
+      {
+        "paragraph": 0,
+        "quote": "minimal qualifications of age and literacy",
+        "meaning": "年龄和读写能力的最低资格。"
+      }
+    ],
+    "reasoning": "public 对应 community，judgment 对应 verdicts。其他项要核对最低资格和 trial by peers，尤其注意 immune 的方向。",
+    "options": [
+      "排除：首段要求 literacy，illiterate 把不具读写能力者也加入了。",
+      "排除：原文 entitled to trial 是有权接受同等人审理，immune 改成免受审理。",
+      "排除：原文有 age 的最低要求，no age limit 把限制删掉。",
+      "保留：公众意见对应社区良知，judgment 对应 verdicts。"
+    ]
+  },
+  "past-2010-4-q37": {
+    "type": "推断",
+    "anchors": [
+      {
+        "text": "elite",
+        "meaning": "精英"
+      },
+      {
+        "text": "antidiscrimination laws",
+        "meaning": "反歧视法律"
+      }
+    ],
+    "locate": "圈 elite 与 1968，到第 2 段后半句找 elite juries；重点读 although 之后以及 provided a convenient way around 后面的对象。",
+    "evidence": [
+      {
+        "paragraph": 1,
+        "quote": "provided a convenient way around this and other antidiscrimination laws.",
+        "meaning": "为绕过这项及其他反歧视法律提供了便利途径。"
+      }
+    ],
+    "reasoning": "法律已经禁止歧视，却能被精英选拔绕过。way around laws 说明法律保障有缺口，对应 inadequacy；无需知道具体案件名称。",
+    "options": [
+      "保留：能绕过反歧视法律，说明这些法律的保障存在不足。",
+      "排除：certain races 只覆盖一种歧视，原文还说 other antidiscrimination laws。",
+      "排除：发生冲突的是选拔实践与民主理想，选项改成不同理想互相冲突。",
+      "排除：arrogance 评价法官性格，原文讨论制度漏洞。"
+    ]
+  },
+  "past-2010-4-q38": {
+    "type": "原因",
+    "anchors": [
+      {
+        "text": "women were needed at home",
+        "meaning": "妇女被认为需要在家"
+      },
+      {
+        "text": "1960s",
+        "meaning": "二十世纪六十年代"
+      }
+    ],
+    "locate": "圈 women 和 1960s，直达第 3 段末句；找 justified by the claim that，它后面明确写出这种做法的理由。",
+    "evidence": [
+      {
+        "paragraph": 2,
+        "quote": "This practice was justified by the claim that women were needed at home",
+        "meaning": "这种做法以妇女需要留在家中为理由。"
+      }
+    ],
+    "reasoning": "needed at home 对应 perform domestic duties，即承担家庭事务。because 问原因，直接使用 claim that 后的解释即可。",
+    "options": [
+      "排除：原文说自动豁免且可自己申请，banned 变成禁止参加。",
+      "排除：没有说女性不够资格，排除理由是被认为应留在家中。",
+      "保留：domestic duties 对应 needed at home。",
+      "排除：evade 把制度排除说成女性主动逃避公共事务。"
+    ]
+  },
+  "past-2010-4-q39": {
+    "type": "细节定位",
+    "anchors": [
+      {
+        "text": "Jury Selection and Service Act",
+        "meaning": "法案名称"
+      },
+      {
+        "text": "educational requirements",
+        "meaning": "教育要求"
+      }
+    ],
+    "locate": "圈法案全名，在最后一段先找到 1968 对应句；读紧接的 This law，先停在 1975 这个新时间点之前，防止串事件。",
+    "evidence": [
+      {
+        "paragraph": 3,
+        "quote": "This law abolished special educational requirements for federal jurors",
+        "meaning": "这项法律取消了对联邦陪审员的特殊教育要求。"
+      }
+    ],
+    "reasoning": "This law 指题干中的 1968 法案，abolished special requirements 对应门槛放宽。后面的 1975 是另一次裁决，答案不能混到一起。",
+    "options": [
+      "排除：性别歧视违宪来自 1975 Taylor 裁决，事件对应错误。",
+      "保留：取消特殊教育要求对应 educational requirements less rigid。",
+      "排除：扩大到 state level 来自后面的 1975 裁决。",
+      "排除：要求各州向联邦法院全面看齐，范围超过文中具体改革。"
+    ]
+  },
+  "past-2010-4-q40": {
+    "type": "主旨",
+    "anchors": [
+      {
+        "text": "democratic values",
+        "meaning": "民主价值"
+      },
+      {
+        "text": "a new era",
+        "meaning": "新时代"
+      }
+    ],
+    "locate": "主旨题连看第 1 段制度原则和第 4 段改革，快速扫中间的 1968、1898、1940s；这些时间串起制度变化。",
+    "evidence": [
+      {
+        "paragraph": 0,
+        "quote": "Many Americans regard the jury system as a concrete expression of crucial democratic values",
+        "meaning": "很多美国人认为陪审团制度体现重要民主价值。"
+      },
+      {
+        "paragraph": 3,
+        "quote": "ushering in a new era of democratic reforms for the jury.",
+        "meaning": "开启陪审团民主改革的新时期。"
+      }
+    ],
+    "reasoning": "首段讲制度传统，中间按年代讲偏离及改进，末段进入改革新阶段。标题式概括要同时包括起点和时间上的发展。",
+    "options": [
+      "排除：nature and problems 覆盖原则与缺陷，漏掉末段改革发展。",
+      "排除：characteristics and tradition 只突出既有特征，缺少历史变化。",
+      "排除：problems and solutions 覆盖中后段，首段传统原则没有容纳充分。",
+      "保留：tradition and development 同时覆盖民主传统及逐步改革。"
+    ]
+  },
+  "past-2011-1-q21": {
+    "type": "原因",
+    "anchors": [
+      {
+        "text": "Ms. Simmons",
+        "meaning": "人名"
+      },
+      {
+        "text": "under fire",
+        "meaning": "受到批评"
+      }
+    ],
+    "locate": "圈人名和 criticized，回首段找意思相同的 under fire；紧接着的 how could she 问句把批评的具体原因说明出来。",
+    "evidence": [
+      {
+        "paragraph": 0,
+        "quote": "how could she have let those enormous bonus payouts pass unremarked?",
+        "meaning": "她怎么能对如此巨额的奖金发放不置一词？"
+      }
+    ],
+    "reasoning": "关键在 she let ... pass unremarked：她没有提出应有的质疑。批评对象是监督行为，判断时把“她拿钱”和“她未监督别人拿钱”分开。",
+    "options": [
+      "排除：enormous bonus 是被监督的奖金发放，未说她本人获利过多。",
+      "保留：未对巨额奖金提出质疑，对应未履行应有职责。",
+      "排除：没有描述拒绝妥协，批评的是没有发声。",
+      "排除：批评出现在离任之前，不能把后发生的离任当成原因。"
+    ]
+  },
+  "past-2011-1-q22": {
+    "type": "细节定位",
+    "anchors": [
+      {
+        "text": "Outside directors",
+        "meaning": "外部董事"
+      },
+      {
+        "text": "advisers",
+        "meaning": "顾问"
+      }
+    ],
+    "locate": "题干给第 2 段，直接找 Outside directors are supposed to；先取后面的角色名词，再读下一句补充角色要求。",
+    "evidence": [
+      {
+        "paragraph": 1,
+        "quote": "Outside directors are supposed to serve as helpful, yet less biased, advisers",
+        "meaning": "外部董事应成为有帮助且较少偏见的顾问。"
+      },
+      {
+        "paragraph": 1,
+        "quote": "they presumably have enough independence to disagree with the chief executive’s proposals.",
+        "meaning": "他们应有足够独立性来反对首席执行官的建议。"
+      }
+    ],
+    "reasoning": "第一句给 advisers，第二句给 independence。把这两个实词拼在一起，就是选项中的 independent advisers。",
+    "options": [
+      "排除：investors 是投资者，原文要求的角色是顾问。",
+      "排除：less biased 对上了，但 executives 把顾问换成管理者。",
+      "排除：股价下跌是提出建议的情境，未要求预测股价。",
+      "保留：independent 与 independence 对应，advisers 原词直接出现。"
+    ]
+  },
+  "past-2011-1-q23": {
+    "type": "细节定位",
+    "anchors": [
+      {
+        "text": "surprise departure",
+        "meaning": "突然离任"
+      },
+      {
+        "text": "stock",
+        "meaning": "股票"
+      }
+    ],
+    "locate": "圈 surprise departure，在第 3 段找到同样短语；后面连续列了三个后果，分别看 earnings、lawsuit、stock 所搭配的动词。",
+    "evidence": [
+      {
+        "paragraph": 2,
+        "quote": "the stock is likely to perform worse.",
+        "meaning": "股票表现可能变差。"
+      }
+    ],
+    "reasoning": "原句 stock 加 perform worse 几乎直接对应股票市场表现变差。尤其把 restate earnings 的“重报盈利”与 earnings increased 区分。",
+    "options": [
+      "排除：more stable 是董事转去的新公司特征，题目问原公司。",
+      "排除：increases 修饰重报盈利的概率，未说盈利本身增长。",
+      "保留：do less well in the stock market 对应 stock perform worse。",
+      "排除：原文是更可能被起诉，没有说诉讼结果更差。"
+    ]
+  },
+  "past-2011-1-q24": {
+    "type": "推断",
+    "anchors": [
+      {
+        "text": "keep their outside directors",
+        "meaning": "留住外部董事"
+      },
+      {
+        "text": "incentives",
+        "meaning": "激励"
+      }
+    ],
+    "locate": "题干给末段，先找 want to keep；它后面的 may have to 给出留人的办法，最后 Otherwise 说明不这样做的结果。",
+    "evidence": [
+      {
+        "paragraph": 3,
+        "quote": "Firms who want to keep their outside directors through tough times may have to create incentives.",
+        "meaning": "企业想让外部董事留下共渡难关，可能需要提供激励。"
+      }
+    ],
+    "reasoning": "把 keep 与 incentives 接成“提供好处→留住董事”。attractive offers 就是 incentives 的改写，may stay 保留了原文的可能性。",
+    "options": [
+      "保留：有吸引力的条件可能让董事留下，符合激励留人的逻辑。",
+      "排除：wrongdoing 出现在假设性说明中，不能扩大为董事经常有违规记录。",
+      "排除：文中强调声誉风险，没有说董事习惯毫无压力的工作。",
+      "排除：decline incentives 意为拒绝激励，与建议通过激励留人相反。"
+    ]
+  },
+  "past-2011-1-q25": {
+    "type": "态度",
+    "anchors": [
+      {
+        "text": "helpful",
+        "meaning": "有帮助的"
+      },
+      {
+        "text": "keep their outside directors",
+        "meaning": "留住外部董事"
+      }
+    ],
+    "locate": "先圈题干 role，分清问的是这种职务的价值；回第 2 段看 helpful advisers，再看末段企业为什么要设法留人。",
+    "evidence": [
+      {
+        "paragraph": 1,
+        "quote": "Outside directors are supposed to serve as helpful, yet less biased, advisers",
+        "meaning": "外部董事应发挥有帮助且较少偏见的顾问作用。"
+      },
+      {
+        "paragraph": 3,
+        "quote": "Firms who want to keep their outside directors through tough times may have to create incentives.",
+        "meaning": "想留住董事共渡难关的企业可能需要提供激励。"
+      }
+    ],
+    "reasoning": "role 指应有作用，helpful 与建议留任体现对该作用的认可。首段批评个别行为，答题时把“角色价值”与“履职表现”分开。",
+    "options": [
+      "排除：permissive 指纵容宽松，作者并未赞同失职或任意离开。",
+      "保留：对独立建议及留任价值的肯定支持 positive。",
+      "排除：scornful 指鄙视，文中仍认为该角色值得企业留住。",
+      "排除：critical 可描述对部分履职行为的批评，题干专问 role。"
+    ]
+  },
+  "past-2011-2-q26": {
+    "type": "推断",
+    "anchors": [
+      {
+        "text": "doom",
+        "meaning": "厄运、衰亡"
+      },
+      {
+        "text": "recession",
+        "meaning": "经济衰退"
+      }
+    ],
+    "locate": "题干指向首段报纸报道自身衰亡的句子；往前读 recession 带走广告与读者，往后看 save newspapers，判断总体处境。",
+    "evidence": [
+      {
+        "paragraph": 0,
+        "quote": "The recession threatened to remove the advertising and readers that had not already fled to the internet.",
+        "meaning": "衰退威胁着尚未转向网络的广告与读者。"
+      }
+    ],
+    "reasoning": "广告和读者流失，加上后文讨论如何 save，都是处境困难的信号。doom 在这里强化危机程度，选择概括处境的项。",
+    "options": [
+      "排除：报纸报道自己的危机，恰好说明没有忽视危险信号。",
+      "排除：国家补贴是后面提出的救助设想，未说申请失败。",
+      "排除：慈善机构也是救助设想，未解释这句 doom 的含义。",
+      "保留：desperate situation 概括广告读者流失、亟需挽救的处境。"
+    ]
+  },
+  "past-2011-2-q27": {
+    "type": "原因",
+    "anchors": [
+      {
+        "text": "distant suburbs",
+        "meaning": "偏远郊区"
+      },
+      {
+        "text": "desperate measures",
+        "meaning": "应急措施"
+      }
+    ],
+    "locate": "圈 distant suburbs，在第 3 段找到拒绝配送；向前看同列的裁员、产品变薄和涨价，把它们当作一组经营措施。",
+    "evidence": [
+      {
+        "paragraph": 2,
+        "quote": "Many papers stayed afloat by pushing journalists overboard.",
+        "meaning": "很多报纸通过裁减记者维持经营。"
+      },
+      {
+        "paragraph": 2,
+        "quote": "Some papers even had the nerve to refuse delivery to distant suburbs.",
+        "meaning": "一些报纸甚至拒绝向偏远郊区送报。"
+      }
+    ],
+    "reasoning": "同一段把裁员、压缩产品、减少配送并列为求生措施。减少远距离配送可节省经营开支，与 reduce costs 的方向一致。",
+    "options": [
+      "排除：文中是 Readers are paying more，付更少的说法方向相反。",
+      "保留：减少远距离配送与裁员等节省开支措施相互呼应。",
+      "排除：原文没有用报道当地新闻多少解释是否配送。",
+      "排除：slimmer products 只是报纸变薄，没有写订户抱怨造成停送。"
+    ]
+  },
+  "past-2011-2-q28": {
+    "type": "原因",
+    "anchors": [
+      {
+        "text": "87%",
+        "meaning": "美国广告收入占比"
+      },
+      {
+        "text": "35%",
+        "meaning": "日本广告收入占比"
+      }
+    ],
+    "locate": "圈 Japanese 和 stable，回第 4 段；先找两个百分数，确认它们都接 advertising，再比较大小即可。",
+    "evidence": [
+      {
+        "paragraph": 3,
+        "quote": "Fully 87% of their revenues came from advertising in 2008",
+        "meaning": "2008 年其收入的百分之八十七来自广告。"
+      },
+      {
+        "paragraph": 3,
+        "quote": "In Japan the proportion is 35%.",
+        "meaning": "日本的这一比例为百分之三十五。"
+      }
+    ],
+    "reasoning": "两个数字比较的是广告依赖程度：美国 87%，日本 35%。数字较小对应 less dependent，稳定的原因就在这组比较后面。",
+    "options": [
+      "排除：文章比较收入比例，没有列出日本拥有更多种收入来源。",
+      "排除：balanced 修饰收入结构，newsrooms 换成编辑部。",
+      "保留：较低广告占比直接对应较少依赖广告。",
+      "排除：文中没有比较读者变化对两国报纸的影响。"
+    ]
+  },
+  "past-2011-2-q29": {
+    "type": "推断",
+    "anchors": [
+      {
+        "text": "least distinctive",
+        "meaning": "特色最弱"
+      },
+      {
+        "text": "completeness",
+        "meaning": "全面性"
+      }
+    ],
+    "locate": "题干指定末段，先找裁减集中在什么地方，再看最后 But 后对 completeness 的评价；用两处信息判断应保留什么优势。",
+    "evidence": [
+      {
+        "paragraph": 4,
+        "quote": "much of the damage has been concentrated in areas where newspapers are least distinctive.",
+        "meaning": "受损主要集中在报纸最缺少特色的领域。"
+      },
+      {
+        "paragraph": 4,
+        "quote": "But completeness is no longer a virtue in the newspaper business.",
+        "meaning": "但全面性在报业已经不再是一项优势。"
+      }
+    ],
+    "reasoning": "被裁的是缺少特色的部分，同时全面性价值下降。由“弱特色容易被砍”推到“特色值得保留”，把握 distinctiveness 这条比较轴。",
+    "options": [
+      "保留：裁减缺少特色的内容，显示鲜明特色的重要。",
+      "排除：全面性不再是优势，未被说成报纸失败的原因。",
+      "排除：海外分社被大幅裁减，文中没有据此强调其至关重要。",
+      "排除：评论岗位被裁未交代读者失去兴趣，补入了原因。"
+    ]
+  },
+  "past-2011-2-q30": {
+    "type": "主旨",
+    "anchors": [
+      {
+        "text": "survived",
+        "meaning": "生存下来"
+      },
+      {
+        "text": "desperate measures",
+        "meaning": "艰难的应对措施"
+      }
+    ],
+    "locate": "标题题先看第 2 段 survived，再看第 3 段裁员等 desperate measures；同时保留“活下来”和“付出代价”两个方向。",
+    "evidence": [
+      {
+        "paragraph": 1,
+        "quote": "have not only survived but often returned to profit.",
+        "meaning": "不仅生存下来，而且往往恢复了盈利。"
+      },
+      {
+        "paragraph": 2,
+        "quote": "Yet these desperate measures have proved the right ones",
+        "meaning": "这些艰难的应对措施被证明方向正确。"
+      }
+    ],
+    "reasoning": "survived 说明仍在生存，裁员涨价说明生存艰难。struggling for survival 同时容纳这两层，单写繁荣或灭亡都会丢掉另一半。",
+    "options": [
+      "保留：Struggling 与艰难措施对应，Survival 与 survived 对应。",
+      "排除：Gone with the Wind 暗示消逝，与已经存活并盈利相反。",
+      "排除：Thriving 夸大繁荣程度，忽略裁员与压缩业务的代价。",
+      "排除：Hopeless 与成功应对、恢复盈利的事实相反。"
+    ]
+  },
+  "past-2011-3-q31": {
+    "type": "细节定位",
+    "anchors": [
+      {
+        "text": "restraint",
+        "meaning": "节制"
+      },
+      {
+        "text": "postwar confidence",
+        "meaning": "战后信心"
+      }
+    ],
+    "locate": "圈 postwar 和 housing style，到第 2 段找 made small, efficient housing；向前看 made 的主语，把促成风格的两个词取出来。",
+    "evidence": [
+      {
+        "paragraph": 1,
+        "quote": "that restraint, in combination with the postwar confidence in the future, made small, efficient housing positively stylish.",
+        "meaning": "节制与战后对未来的信心共同使小型高效住宅成为时尚。"
+      }
+    ],
+    "reasoning": "句子主语是 restraint 与 confidence，结果才是 small, efficient housing。题目问风格反映什么，选择这两个原因特征。",
+    "options": [
+      "排除：prosperity and growth 是首段一般时代印象，第 2 段 But 转入住房。",
+      "排除：efficiency 是住宅的特点，题目问背后反映的美国人心态。",
+      "保留：restraint 和 confidence 在因果主语中直接并列。",
+      "排除：pride 和 faithfulness 未作为该住房风格的形成因素出现。"
+    ]
+  },
+  "past-2011-3-q32": {
+    "type": "推断",
+    "anchors": [
+      {
+        "text": "Bauhaus",
+        "meaning": "包豪斯设计学院"
+      },
+      {
+        "text": "enormous influence",
+        "meaning": "巨大影响"
+      }
+    ],
+    "locate": "题干给第 3 段 Bauhaus，先找到人名后插入的学校说明；下一句 These designers 回指前述设计师，读它后面的 influence。",
+    "evidence": [
+      {
+        "paragraph": 2,
+        "quote": "These designers came to exert enormous influence on the course of American architecture",
+        "meaning": "这些设计师对美国建筑发展产生了巨大影响。"
+      }
+    ],
+    "reasoning": "These designers 把学校相关设计师与后句连起来，enormous influence 对应 great influence。保留被明确描述的影响关系即可。",
+    "options": [
+      "排除：associated with 只说明有关联，不能推出 Mies 创办学校。",
+      "排除：战前移民是时间背景，未说学校设计思想受战争影响。",
+      "排除：most American architects 把部分相关设计师扩大成多数美国建筑师。",
+      "保留：great influence 直接对应 enormous influence on American architecture。"
+    ]
+  },
+  "past-2011-3-q33": {
+    "type": "细节定位",
+    "anchors": [
+      {
+        "text": "Elegance",
+        "meaning": "优雅"
+      },
+      {
+        "text": "abundance",
+        "meaning": "大量、丰富"
+      }
+    ],
+    "locate": "圈 Mies 和 elegance，在第 4 段找 Elegance 开头的短句；它的 did not 是关键，再看前句 less decoration 解释少的是什么。",
+    "evidence": [
+      {
+        "paragraph": 3,
+        "quote": "Elegance, he believed, did not derive from abundance.",
+        "meaning": "他认为优雅并不来自大量堆砌。"
+      },
+      {
+        "paragraph": 3,
+        "quote": "less decoration, properly organized, has more impact than a lot.",
+        "meaning": "较少的装饰安排得当，比大量装饰更有效果。"
+      }
+    ],
+    "reasoning": "把 did not 与 abundance 连在一起，再由前句补成“装饰的堆砌”。选项里的 not reliant on abundant decoration 正好保留这个否定关系。",
+    "options": [
+      "排除：large space 与本段推崇的小而高效的空间相反。",
+      "排除：empty 出现在被对照的大而空空间中，不是优雅的定义。",
+      "保留：不依赖大量装饰，对应 did not derive from abundance。",
+      "排除：文中空间兼具 small and efficient，未把效率排除出优雅设计。"
+    ]
+  },
+  "past-2011-3-q34": {
+    "type": "细节定位",
+    "anchors": [
+      {
+        "text": "Lake Shore Drive",
+        "meaning": "地点名"
+      },
+      {
+        "text": "abstract art",
+        "meaning": "抽象艺术"
+      }
+    ],
+    "locate": "圈 Lake Shore Drive，到第 5 段；先标 smaller 和 But popular，再读句尾 equivalent of，它把建筑与什么作了类比。",
+    "evidence": [
+      {
+        "paragraph": 4,
+        "quote": "the elegance of the buildings’ details and proportions, the architectural equivalent of the abstract art so popular at the time.",
+        "meaning": "建筑细节和比例的优雅，可比作当时流行的抽象艺术。"
+      }
+    ],
+    "reasoning": "equivalent of 是比较相似性的信号，后接 abstract art；shared some characteristics 用较温和的说法保留了这种相似。",
+    "options": [
+      "排除：原文赞美 details and proportions，ignored 的方向相反。",
+      "排除：popular at the time 修饰 abstract art，选项把它移给材料。",
+      "排除：原文明说 smaller，more spacious 把大小关系颠倒。",
+      "保留：shared characteristics 对应建筑与抽象艺术的 equivalent 类比。"
+    ]
+  },
+  "past-2011-3-q35": {
+    "type": "细节定位",
+    "anchors": [
+      {
+        "text": "Case Study Houses",
+        "meaning": "住宅项目名"
+      },
+      {
+        "text": "landscape",
+        "meaning": "景观"
+      }
+    ],
+    "locate": "题干给项目名称，直接到最后一段；找 Aesthetic effect came from 后面的三个来源，优先把它们与选项名词对应。",
+    "evidence": [
+      {
+        "paragraph": 6,
+        "quote": "Aesthetic effect came from the landscape, new materials and forthright detailing.",
+        "meaning": "美学效果来自景观、新材料和明确的细节处理。"
+      }
+    ],
+    "reasoning": "landscape 对应 natural scenes，came from 说明设计效果考虑了它。其余项要检查有没有把 new 擅自扩大为环保、把预测当已实现。",
+    "options": [
+      "排除：机械革命的影响被说成 mispredicted，不能概括为设备普遍采用。",
+      "保留：natural scenes 对应 landscape，是明确的设计来源。",
+      "排除：细节被列为美学效果来源，sacrificed 与原文相反。",
+      "排除：new materials 只说新材料，没有交代 eco-friendly 属性。"
+    ]
+  },
+  "past-2011-4-q36": {
+    "type": "细节定位",
+    "anchors": [
+      {
+        "text": "greatest cheerleaders",
+        "meaning": "最热烈的支持者"
+      },
+      {
+        "text": "Bermuda triangle",
+        "meaning": "危险三角"
+      }
+    ],
+    "locate": "圈题干 EU 和 problems，读首段 even 后的主语；将 cheerleaders 与后面列出的三种危险联系起来，判断谁开始担心。",
+    "evidence": [
+      {
+        "paragraph": 0,
+        "quote": "Now even the project’s greatest cheerleaders talk of a continent facing a “Bermuda triangle” of debt, population decline and lower growth.",
+        "meaning": "如今连最热烈的支持者也谈到债务、人口下降及增长放缓构成的险境。"
+      }
+    ],
+    "reasoning": "even 强调连支持者都转向谈风险。cheerleaders 对应 supporters，三重危险对应 concerned，不必逐项弄懂经济机制。",
+    "options": [
+      "排除：第 2 段是 Markets have lost faith，选项把主语改成欧盟。",
+      "保留：支持者谈多重危险，对应 supporters feel concerned。",
+      "排除：没有写成员国制定放弃欧元计划。",
+      "排除：共享货币限制贬值是制度效果，未说欧盟现在打算否认可能性。"
+    ]
+  },
+  "past-2011-4-q37": {
+    "type": "原因",
+    "anchors": [
+      {
+        "text": "stuck",
+        "meaning": "僵持"
+      },
+      {
+        "text": "disagree",
+        "meaning": "意见不合"
+      }
+    ],
+    "locate": "题干出现 stuck，就去第 3 段找同词；紧接 It is stuck because 已标出原因，重点看 but 后的 disagree 对象。",
+    "evidence": [
+      {
+        "paragraph": 2,
+        "quote": "agree on the need for greater harmonisation within the euro zone, but disagree about what to harmonise.",
+        "meaning": "同意欧元区需要更多协调，却不同意要协调哪些事项。"
+      }
+    ],
+    "reasoning": "because 直接引出原因，but 后把分歧落在 what to harmonise。选项只需概括“协调问题未达成一致”，不用理解各国全部方案。",
+    "options": [
+      "排除：dominant powers 表示主要大国，未说它们争夺领导位置。",
+      "排除：没有把忙于本国危机作为僵持原因。",
+      "保留：fail to reach agreement on harmonisation 对应 disagree about what to harmonise。",
+      "排除：讨论的是防止解体，选项把目标换成走向解体的步骤。"
+    ]
+  },
+  "past-2011-4-q38": {
+    "type": "细节定位",
+    "anchors": [
+      {
+        "text": "Germany",
+        "meaning": "德国"
+      },
+      {
+        "text": "stricter rules",
+        "meaning": "更严格的规则"
+      }
+    ],
+    "locate": "圈 Germany，进入第 4 段首句；题目问德国方案，优先读 must be saved by 后的手段，再用后面的制裁例子核对。",
+    "evidence": [
+      {
+        "paragraph": 3,
+        "quote": "Germany thinks the euro must be saved by stricter rules on borrowing, spending and competitiveness",
+        "meaning": "德国认为应通过更严格的借贷、支出和竞争规则拯救欧元。"
+      }
+    ],
+    "reasoning": "stricter rules 与 stricter regulations 几乎同义。后文 freeze、suspension 都在强化严格约束，能帮助排掉相反方向。",
+    "options": [
+      "排除：原文是 freeze EU funds 的威胁，increased 与冻结方向相反。",
+      "保留：stricter regulations 直接改写 stricter rules。",
+      "排除：原文要求 all 27 members，only core members 缩小范围。",
+      "排除：原文提到暂停投票权，guaranteed 把制裁改成保障。"
+    ]
+  },
+  "past-2011-4-q39": {
+    "type": "推断",
+    "anchors": [
+      {
+        "text": "France",
+        "meaning": "法国"
+      },
+      {
+        "text": "from richer to poorer",
+        "meaning": "从较富到较穷"
+      }
+    ],
+    "locate": "圈 French，在第 5 段找 France；紧接 Translated 表示换句话解释，找 from ... to ... 看资金由谁流向谁。",
+    "evidence": [
+      {
+        "paragraph": 4,
+        "quote": "a system of redistribution from richer to poorer members",
+        "meaning": "由较富成员向较穷成员再分配的制度。"
+      }
+    ],
+    "reasoning": "from richer to poorer 已给出资金流向。只要箭头方向看对，就能推得穷国较可能获得资金，避免被 rich 这个重复词带走。",
+    "options": [
+      "保留：穷国是再分配的接收方，较可能得到资金。",
+      "排除：严格约束是德国方案的重点，法国这里强调政策干预及转移。",
+      "排除：rich countries 把主要受益方向从穷国换成富国。",
+      "排除：Eurobonds 出现不等于富国拥有控制权，原文未给控制关系。"
+    ]
+  },
+  "past-2011-4-q40": {
+    "type": "态度",
+    "anchors": [
+      {
+        "text": "too soon to write off",
+        "meaning": "尚不能放弃"
+      },
+      {
+        "text": "ambitious attempt",
+        "meaning": "有雄心的尝试"
+      }
+    ],
+    "locate": "未来态度题优先看最后一段；首句 write off 前有 too soon，后面又列贸易和开放优势，把这几个评价词一起看。",
+    "evidence": [
+      {
+        "paragraph": 5,
+        "quote": "It is too soon to write off the EU.",
+        "meaning": "现在就认定欧盟没有前景为时过早。"
+      },
+      {
+        "paragraph": 5,
+        "quote": "It is an ambitious attempt to blunt the sharpest edges of globalisation, and make capitalism benign.",
+        "meaning": "它是缓和全球化尖锐问题、使资本主义更温和的雄心尝试。"
+      }
+    ],
+    "reasoning": "too soon to write off 保留前景，最后的 ambitious attempt 又给正面评价。把整段定为“仍抱期待”，无需解读前文所有危机细节。",
+    "options": [
+      "排除：pessimistic 与结尾继续肯定欧盟前景的方向相反。",
+      "排除：desperate 表示绝望，程度更不符合保留希望的结论。",
+      "排除：conceited 表示自负，评价的是人格而非对前景的期待。",
+      "保留：hopeful 能概括尚有前景及肯定价值的结尾。"
+    ]
+  },
+  "past-2012-1-q21": {
+    "type": "推断",
+    "anchors": [
+      {
+        "text": "recent years",
+        "meaning": "近些年"
+      },
+      {
+        "text": "particularly scorned",
+        "meaning": "尤其受轻视"
+      }
+    ],
+    "locate": "题干说 nowadays，回首段找 in recent years；留意 but 后的 particularly scorned，再看后面的学校调整政策作辅助核对。",
+    "evidence": [
+      {
+        "paragraph": 0,
+        "quote": "but in recent years it has been particularly scorned.",
+        "meaning": "但近年来家庭作业尤其受到轻视和批评。"
+      }
+    ],
+    "reasoning": "nowadays 对应 recent years，scorned 表明负面评价，particularly 强化程度。选择 criticism 增多这类同方向表达。",
+    "options": [
+      "保留：more criticism 对应 particularly scorned 的负面加重。",
+      "排除：preferences 是偏爱，与 scorned 方向相反。",
+      "排除：this educational ritual 仍指作业，政策调整未取消其教育惯例身份。",
+      "排除：advanced courses 例外的是计分上限，未说不用布置作业。"
+    ]
+  },
+  "past-2012-1-q22": {
+    "type": "原因",
+    "anchors": [
+      {
+        "text": "This rule is meant to",
+        "meaning": "这项规则旨在"
+      },
+      {
+        "text": "completing their homework",
+        "meaning": "完成作业"
+      }
+    ],
+    "locate": "圈 mainly because 和 poor students，进入第 2 段开头；This rule is meant to 后直接解释制定政策想处理的困难。",
+    "evidence": [
+      {
+        "paragraph": 1,
+        "quote": "the difficulty that students from impoverished or chaotic homes might have in completing their homework.",
+        "meaning": "贫困或家庭混乱的学生在完成作业方面可能遇到的困难。"
+      }
+    ],
+    "reasoning": "poor 对应 impoverished，may have problems 对应 might have difficulty，finishing 对应 completing。抓住这组三组近义词就能选。",
+    "options": [
+      "排除：moderate expectations 是教育期望，原文说实际完成困难。",
+      "排除：降低标准是作者担忧的暗示，未说贫困学生提出过要求。",
+      "保留：三个同义替换完整保留学生可能难以完成作业的原因。",
+      "排除：没有说学生曾发声投诉，政策处理的是家庭条件带来的困难。"
+    ]
+  },
+  "past-2012-1-q23": {
+    "type": "推断",
+    "anchors": [
+      {
+        "text": "10%",
+        "meaning": "作业计分上限"
+      },
+      {
+        "text": "skip half their homework",
+        "meaning": "少做一半作业"
+      }
+    ],
+    "locate": "题干指定第 3 段，找到 10% 后面的 students can；将 skip half 与 very little difference 连起来，看政策会怎样影响做作业的动力。",
+    "evidence": [
+      {
+        "paragraph": 2,
+        "quote": "students can easily skip half their homework and see very little difference on their report cards.",
+        "meaning": "学生少做一半作业，成绩单也几乎不受影响。"
+      }
+    ],
+    "reasoning": "“少做很多→成绩几乎不变”降低完成作业的激励。题目关注学生行为后果，discourage ... doing homework 正好概括。",
+    "options": [
+      "排除：文中说成绩变化小，未说学生不在乎成绩单。",
+      "排除：state tests 用于讨论作业效果，未涉及测试权威受损。",
+      "排除：teachers 仍可自由决定布置数量；本题直接对应低权重对学生的影响。",
+      "保留：不做作业损失很小，可能削弱学生完成作业的动力。"
+    ]
+  },
+  "past-2012-1-q24": {
+    "type": "细节定位",
+    "anchors": [
+      {
+        "text": "academic achievement",
+        "meaning": "学习成效"
+      },
+      {
+        "text": "if homework matters",
+        "meaning": "如果作业有价值"
+      }
+    ],
+    "locate": "圈 key question 和第 4 段，先看连续的 If 与 Conversely if；找这两种方案共同围绕什么问题，别只选其中一个处理动作。",
+    "evidence": [
+      {
+        "paragraph": 3,
+        "quote": "If the district finds homework to be unimportant to its students’ academic achievement",
+        "meaning": "如果学区发现作业对学生学习成效不重要。"
+      },
+      {
+        "paragraph": 3,
+        "quote": "Conversely, if homework matters, it should account for a significant portion of the grade.",
+        "meaning": "反过来，如果作业有价值，就应占成绩的显著部分。"
+      }
+    ],
+    "reasoning": "两条 if 分别假设作业不重要和重要，核心未解问题就是其教育价值。取消或提高权重只是价值判断之后的措施。",
+    "options": [
+      "排除：eliminated 是作业无学习价值时的后续措施，只覆盖一个分支。",
+      "保留：counts much in schooling 概括作业对学习是否有重要作用。",
+      "排除：教师负担只涉及末尾布置与批改的细节，非两个 if 的共同核心。",
+      "排除：grades 是计分结果，原文先追问作业对学习成效的价值。"
+    ]
+  },
+  "past-2012-1-q25": {
+    "type": "主旨",
+    "anchors": [
+      {
+        "text": "inflexible policy",
+        "meaning": "僵化政策"
+      },
+      {
+        "text": "put on hold",
+        "meaning": "暂缓实施"
+      }
+    ],
+    "locate": "标题题先看首段 Unfortunately 后的政策评价，再看末段 should be put on hold；把中间几段当作这项评价的理由。",
+    "evidence": [
+      {
+        "paragraph": 0,
+        "quote": "L.A. Unified has produced an inflexible policy",
+        "meaning": "洛杉矶学区制定了一项僵化政策。"
+      },
+      {
+        "paragraph": 4,
+        "quote": "The homework rules should be put on hold",
+        "meaning": "这套作业规则应暂缓实施。"
+      }
+    ],
+    "reasoning": "首尾都把批评落在处理作业的政策上，inflexible 和 put on hold 指向做法有缺陷。选题目与评价方向都一致的标题。",
+    "options": [
+      "保留：Faulty Approach 同时概括作业政策及作者认为有问题的评价。",
+      "排除：Welcomed 与全文批评政策的语气相反。",
+      "排除：难题只是第 4 段讨论的部分，全文围绕现行政策展开。",
+      "排除：作者批评政策本身，未把问题归因于别人误读政策。"
+    ]
+  },
+  "past-2012-2-q26": {
+    "type": "推断",
+    "anchors": [
+      {
+        "text": "tiny slice of the rainbow",
+        "meaning": "彩虹中的一小部分"
+      },
+      {
+        "text": "girls’ identity",
+        "meaning": "女孩身份"
+      }
+    ],
+    "locate": "题干引用第 1 段彩虹比喻，读 but 后的 tiny slice，再接下句身份与外表的绑定；想想“一小部分”对“所有女孩”意味着什么。",
+    "evidence": [
+      {
+        "paragraph": 0,
+        "quote": "it is such a tiny slice of the rainbow",
+        "meaning": "粉色只是彩虹中很小的一部分。"
+      },
+      {
+        "paragraph": 0,
+        "quote": "it also repeatedly and firmly fuses girls’ identity to appearance.",
+        "meaning": "它又反复而牢固地把女孩身份和外表绑定。"
+      }
+    ],
+    "reasoning": "rainbow 暗示多种选择，tiny slice 表示粉色只是其中一种。把一种颜色当成女孩整体代表会压缩选择，因此保留范围适当的表达。",
+    "options": [
+      "排除：lack of imagination 是作者批评的现象，选项没回答彩虹比喻的重点。",
+      "排除：innocence 是后续一层联系，未概括粉色独占女孩身份的问题。",
+      "保留：sole representation 抓住一种颜色不应独占多样女孩生活的含义。",
+      "排除：cannot influence 说完全没有影响，与文中强烈的身份绑定相反。"
+    ]
+  },
+  "past-2012-2-q27": {
+    "type": "细节定位",
+    "anchors": [
+      {
+        "text": "Blue",
+        "meaning": "蓝色"
+      },
+      {
+        "text": "femininity",
+        "meaning": "女性气质"
+      }
+    ],
+    "locate": "题干限定第 2 段，按颜色逐项找：pink、Blue、white；优先读 Blue 开头的短句，把前后时代顺序暂时放一边。",
+    "evidence": [
+      {
+        "paragraph": 1,
+        "quote": "Blue, with its intimations of the Virgin Mary, constancy and faithfulness, symbolised femininity.",
+        "meaning": "蓝色因圣母、坚定和忠诚的联想，象征女性气质。"
+      }
+    ],
+    "reasoning": "只看 Blue ... symbolised femininity 的主干，中间插入内容可跳过。used to 表明过去，与这一历史描述对应。",
+    "options": [
+      "排除：DNA 后有 but ... it is not，原文否定天生编码说。",
+      "保留：Blue symbolised femininity 直接支持蓝色过去代表女孩。",
+      "排除：白色因洗涤方便而使用，未说婴儿自己偏爱白色。",
+      "排除：gender-neutral 修饰 dresses，粉色曾被视为更男性化。"
+    ]
+  },
+  "past-2012-2-q28": {
+    "type": "原因",
+    "anchors": [
+      {
+        "text": "marketing trends",
+        "meaning": "营销趋势"
+      },
+      {
+        "text": "psychological development",
+        "meaning": "心理发展"
+      }
+    ],
+    "locate": "圈 psychological development，到第 3 段首句找相同词组；顺着 dictated 往前找主语，后面的 toddler 只是说明它的例子。",
+    "evidence": [
+      {
+        "paragraph": 2,
+        "quote": "marketing trends dictated our perception of what is natural to kids, including our core beliefs about their psychological development.",
+        "meaning": "营销趋势左右我们对儿童天性及心理发展的看法。"
+      }
+    ],
+    "reasoning": "dictated 是影响、决定的强信号，主语就是 marketing trends。看到 toddler 后面的 wrong，还能排除“专家研究自然形成”这一路。",
+    "options": [
+      "排除：observation of nature 接近作者原先误以为的解释，后文已纠正。",
+      "保留：marketing of products 对应首句的 marketing trends。",
+      "排除：researches 是作者先前假设，紧接 wrong 明确推翻。",
+      "排除：历史学者研究揭示了营销作用，研究本身不是形成原有观念的原因。"
+    ]
+  },
+  "past-2012-2-q29": {
+    "type": "细节定位",
+    "anchors": [
+      {
+        "text": "department stores",
+        "meaning": "百货商店"
+      },
+      {
+        "text": "third stepping stone",
+        "meaning": "第三个层级"
+      }
+    ],
+    "locate": "题干问商店收到的建议，到第 4 段找 department stores；读 create a third stepping stone，再看后面的 Splitting kids 概括。",
+    "evidence": [
+      {
+        "paragraph": 3,
+        "quote": "Splitting kids, or adults, into ever-tinier categories has proved a sure-fire way to boost profits.",
+        "meaning": "把儿童或成人分成越来越细的类别，被证明能提高利润。"
+      }
+    ],
+    "reasoning": "third 在婴儿与大童之间新增一档，后句 ever-tinier categories 把做法概括为细分人群。选 smaller groups 即可。",
+    "options": [
+      "保留：smaller groups 对应 ever-tinier categories 及新增第三档。",
+      "排除：equal importance 未出现，结尾说营销往往放大性别差异。",
+      "排除：原文要在两类之间增加新类别，未建议只聚焦已有两类。",
+      "排除：新术语流行是细分市场之后的结果，建议的核心是分组。"
+    ]
+  },
+  "past-2012-2-q30": {
+    "type": "推断",
+    "anchors": [
+      {
+        "text": "marketing strategy",
+        "meaning": "营销策略"
+      },
+      {
+        "text": "boost profits",
+        "meaning": "提高利润"
+      }
+    ],
+    "locate": "结论题连看第 2 段粉色何时流行与末段营销目的；先找 mid-1980s 附近的 marketing strategy，再看 boost profits。",
+    "evidence": [
+      {
+        "paragraph": 1,
+        "quote": "when amplifying age and sex differences became a dominant children’s marketing strategy",
+        "meaning": "当放大年龄和性别差异成为主要儿童营销策略时。"
+      },
+      {
+        "paragraph": 3,
+        "quote": "one of the easiest ways to segment a market is to magnify gender differences",
+        "meaning": "细分市场最容易的办法之一是放大性别差异。"
+      }
+    ],
+    "reasoning": "前面用历史变化排掉“天生固定”，后面用 boost profits 解释营销动力。将粉色偏好、性别营销与逐利三点串起来。",
+    "options": [
+      "排除：fully understood 加上完全理解的程度，原文强调商家塑造偏好。",
+      "排除：第 2 段直接否定 DNA 决定的天然偏好说。",
+      "保留：营销推动性别颜色绑定，而利润是市场细分的目的。",
+      "排除：专家研究是被纠正的旧想法，结论归因于营销力量。"
+    ]
+  },
+  "past-2012-3-q31": {
+    "type": "推断",
+    "anchors": [
+      {
+        "text": "unpatentable",
+        "meaning": "不可授予专利"
+      },
+      {
+        "text": "violently agitated",
+        "meaning": "强烈不安"
+      }
+    ],
+    "locate": "题干给第 1 段，先找到法官说 genes were unpatentable；下一句是企业管理者反应，用反应方向倒推他们希望怎样。",
+    "evidence": [
+      {
+        "paragraph": 0,
+        "quote": "But in March 2010 a judge ruled that genes were unpatentable. Executives were violently agitated.",
+        "meaning": "2010 年 3 月法官认定基因不可获专利，管理者强烈不安。"
+      }
+    ],
+    "reasoning": "“禁止专利→企业不满”，就说明企业倾向“允许专利”。题目问 would like，注意把现实判决与企业愿望取相反方向。",
+    "options": [
+      "保留：基因可获专利符合企业对禁止判决强烈不满的反向推断。",
+      "排除：BIO 的发言是安抚成员，未说企业希望它发出警告。",
+      "排除：agitated 是受冲击的不安，不能改成希望高管更积极。",
+      "排除：rule out gene patenting 正是企业反对的判决方向。"
+    ]
+  },
+  "past-2012-3-q32": {
+    "type": "推断",
+    "anchors": [
+      {
+        "text": "Critics",
+        "meaning": "反对者"
+      },
+      {
+        "text": "product of nature",
+        "meaning": "自然产物"
+      }
+    ],
+    "locate": "圈 against gene patents，第 3 段找 Critics；三个理由用分号隔开，先取第一条 product of nature 与 so 后的结论。",
+    "evidence": [
+      {
+        "paragraph": 2,
+        "quote": "a gene is a product of nature, so it may not be patented",
+        "meaning": "基因是自然产物，因此不能授予专利。"
+      }
+    ],
+    "reasoning": "反对理由把“天然存在”排出可专利对象，由此支持专利应针对人为创造的对照。另两条谈创新和获取限制，核对方向即可。",
+    "options": [
+      "排除：批评的是测试获取受限，没有说测试结果不可靠。",
+      "保留：自然产物不能获专利，题目以 man-made 与 natural 对照概括这一立场。",
+      "排除：原文说基因专利压制创新，未说其授予取决于创新程度。",
+      "排除：限制获取是反对者批评的后果，选项却把它当作建议。"
+    ]
+  },
+  "past-2012-3-q33": {
+    "type": "细节定位",
+    "anchors": [
+      {
+        "text": "Hans Sauer",
+        "meaning": "人名"
+      },
+      {
+        "text": "genes interact",
+        "meaning": "基因相互作用"
+      }
+    ],
+    "locate": "圈人名，在第 5 段尾找到 Hans Sauer；connecting the dots 是比喻，向前读 Firms are now studying 后的具体研究内容。",
+    "evidence": [
+      {
+        "paragraph": 4,
+        "quote": "Firms are now studying how genes interact",
+        "meaning": "企业正在研究基因如何相互作用。"
+      }
+    ],
+    "reasoning": "把比喻 dots 换回前句的 genes，connecting 换回 interact。这样不用理解专利技术细节，也能找到具体对应对象。",
+    "options": [
+      "保留：gene interactions 直接改写 how genes interact。",
+      "排除：研究基因关联可帮助找疾病原因，未说研究疾病之间的关联。",
+      "排除：drawing pictures 把 connecting the dots 的比喻按画图字面理解。",
+      "排除：DNA molecules 专利在前句被说成大多已经获得，重点转向相互作用。"
+    ]
+  },
+  "past-2012-3-q34": {
+    "type": "推断",
+    "anchors": [
+      {
+        "text": "Each meeting was packed",
+        "meaning": "每场会议座无虚席"
+      },
+      {
+        "text": "patents",
+        "meaning": "专利"
+      }
+    ],
+    "locate": "题干给最后一句，先向前找 meeting 的具体主题；看 sessions to coach lawyers 后面的 patents，再解释人多意味着什么话题受关注。",
+    "evidence": [
+      {
+        "paragraph": 5,
+        "quote": "sessions to coach lawyers on the shifting landscape for patents. Each meeting was packed.",
+        "meaning": "培训律师了解专利局势变化的各场会议都座无虚席。"
+      }
+    ],
+    "reasoning": "packed 描写人多，前句 patents 指明讨论主题。把“围绕此题的会场挤满”概括为“该议题备受关注”，保留具体话题。",
+    "options": [
+      "排除：法庭权威不是培训会人数多直接体现的内容。",
+      "排除：BIO 是组织者，参会人数未用于评价它的权力。",
+      "保留：专利变化培训座无虚席，显示基因专利议题受到高度关注。",
+      "排除：把特定专利会议扩大成律师普遍喜欢参加会议。"
+    ]
+  },
+  "past-2012-3-q35": {
+    "type": "态度",
+    "anchors": [
+      {
+        "text": "Critics",
+        "meaning": "批评者"
+      },
+      {
+        "text": "big questions remain unanswered",
+        "meaning": "重要问题仍待解答"
+      }
+    ],
+    "locate": "作者态度题先区分引语归谁：企业欢迎判决，Critics 反对专利；再看第 4 段和末段，作者主要交代未决问题和后续诉讼。",
+    "evidence": [
+      {
+        "paragraph": 2,
+        "quote": "Critics make three main arguments against gene patents",
+        "meaning": "反对者提出三个主要反对基因专利的理由。"
+      },
+      {
+        "paragraph": 3,
+        "quote": "Despite the appeals court’s decision, big questions remain unanswered.",
+        "meaning": "尽管上诉法院已经裁决，重要问题仍未解答。"
+      }
+    ],
+    "reasoning": "双方观点都标明来源，作者还保留案件走向的不确定性。先找有没有作者自己明确站队，再比较 objective 这种叙述态度。",
+    "options": [
+      "排除：批评理由明确属于 Critics，不能直接当作作者立场。",
+      "排除：blessing 出自企业高管，不能转移成作者支持。",
+      "排除：没有嘲讽或鄙视语气，scornful 缺少作者评价依据。",
+      "保留：并列介绍双方意见及未决问题，整体采用 objective 的叙述。"
+    ]
+  },
+  "past-2012-4-q36": {
+    "type": "词义",
+    "anchors": [
+      {
+        "text": "silver linings",
+        "meaning": "困境中的积极面"
+      },
+      {
+        "text": "improved them",
+        "meaning": "使他们有所改善"
+      }
+    ],
+    "locate": "题干给第 2 段短语，直接读下一句 improved them in some ways；分号后列出变得更节制、更体谅人的例子，决定词义方向。",
+    "evidence": [
+      {
+        "paragraph": 1,
+        "quote": "unemployment, while extremely painful, had improved them in some ways",
+        "meaning": "失业虽极其痛苦，却在一些方面让他们有所改善。"
+      }
+    ],
+    "reasoning": "while painful 与 improved 构成“坏处中找好处”。silver linings 因而对应 bright side，既不是赚钱也不是追查原因。",
+    "options": [
+      "排除：subsidies 是政府补贴，后文没有谈领取援助。",
+      "排除：profits 把精神生活改善换成从危机中获利。",
+      "排除：explore reasons 是找失业原因，与后面积极变化清单不符。",
+      "保留：bright side 对应痛苦中仍发现 improved 的积极面。"
+    ]
+  },
+  "past-2012-4-q37": {
+    "type": "推断",
+    "anchors": [
+      {
+        "text": "less materialistic",
+        "meaning": "更少物质至上"
+      },
+      {
+        "text": "financially prudent",
+        "meaning": "财务上更审慎"
+      }
+    ],
+    "locate": "题干指定第 2 段，圈 people 后的比较词 less、more；再看末尾 reckless personal spending，判断这些改变属于生活哪一方面。",
+    "evidence": [
+      {
+        "paragraph": 1,
+        "quote": "they had become less materialistic and more financially prudent",
+        "meaning": "他们变得不那么物质至上，财务上更审慎。"
+      },
+      {
+        "paragraph": 1,
+        "quote": "put a necessary end to an era of reckless personal spending.",
+        "meaning": "使肆意个人消费的时代得到必要的终止。"
+      }
+    ],
+    "reasoning": "物质追求减少、消费更谨慎，都是重新调整日常生活与消费方式。把几个具体变化合并成 lifestyle 的上位概括。",
+    "options": [
+      "排除：本段说更能理解他人困难，没有说互相争斗。",
+      "排除：原文从 easy riches 的梦中醒来，未说实现国家梦想。",
+      "排除：prudence 是加强的特征，challenge 改成对谨慎性的挑战。",
+      "保留：生活消费态度的改变可概括为 reconsider their lifestyle。"
+    ]
+  },
+  "past-2012-4-q38": {
+    "type": "细节定位",
+    "anchors": [
+      {
+        "text": "Benjamin Friedman",
+        "meaning": "人名"
+      },
+      {
+        "text": "less inclusive",
+        "meaning": "更少包容"
+      }
+    ],
+    "locate": "圈研究者姓名，进入第 3 段；抓 argues that 后的两个比较词 more、less，再用末句 conflict 判断总的情绪方向。",
+    "evidence": [
+      {
+        "paragraph": 2,
+        "quote": "have almost always left society more mean-spirited and less inclusive",
+        "meaning": "几乎总让社会更刻薄、更缺乏包容。"
+      },
+      {
+        "paragraph": 2,
+        "quote": "Anti-immigrant sentiment typically increases, as does conflict between races and classes.",
+        "meaning": "反移民情绪通常增加，种族与阶层冲突也增加。"
+      }
+    ],
+    "reasoning": "mean-spirited 与 less inclusive 都是社会负面品质，后句冲突增多进一步确认。用 evils of human nature 概括这一负面趋势。",
+    "options": [
+      "排除：原文说反移民情绪上升，未具体讨论移民承担的经济负担。",
+      "保留：刻薄、排斥和冲突增多共同体现人性消极面的加重。",
+      "排除：原文 stopped or reversed rights，promote 把方向反了。",
+      "排除：conflict increases，ease conflicts 把增加改成缓解。"
+    ]
+  },
+  "past-2012-4-q39": {
+    "type": "细节定位",
+    "anchors": [
+      {
+        "text": "elite universities",
+        "meaning": "精英大学"
+      },
+      {
+        "text": "catch up fairly quickly",
+        "meaning": "较快赶上"
+      }
+    ],
+    "locate": "圈 Till Von Wachter 或 elite universities，去第 4 段冒号后；读 catch up 后的比较对象，再看 beneath them 的另一组毕业生。",
+    "evidence": [
+      {
+        "paragraph": 3,
+        "quote": "those with degrees from elite universities catch up fairly quickly to where they otherwise would have been if they had graduated in better times",
+        "meaning": "精英大学毕业生较快回到假如在好年景毕业本可达到的位置。"
+      }
+    ],
+    "reasoning": "catch up fairly quickly 表示较快恢复原本的发展轨迹。后句普通人被落下，比较的是恢复速度；别把追赶目标换成资深员工。",
+    "options": [
+      "排除：被落下的是 beneath them 的群体，选项把对象倒置。",
+      "排除：原文追赶自己的应有轨迹，没有提 experienced employees。",
+      "排除：not all 和精英组快速追赶说明两组受到的影响有差异。",
+      "保留：recover more quickly 概括精英大学毕业生恢复较快。"
+    ]
+  },
+  "past-2012-4-q40": {
+    "type": "态度",
+    "anchors": [
+      {
+        "text": "wait and see",
+        "meaning": "尚待观察"
+      },
+      {
+        "text": "certainly",
+        "meaning": "确定地"
+      }
+    ],
+    "locate": "题干问影响的判断，直看全文最后两句；先读 wait and see 保留的是怎样改变，再看 But certainly 确认什么已经肯定。",
+    "evidence": [
+      {
+        "paragraph": 4,
+        "quote": "But they certainly will reshape it, and all the more so the longer they extend.",
+        "meaning": "但困难时期肯定会重塑社会，而且持续越久影响越大。"
+      }
+    ],
+    "reasoning": "exactly how 尚待观察，will reshape 却用 certainly 明确肯定。把“影响具体形态”和“影响是否发生”分开，选确定性。",
+    "options": [
+      "排除：trivial 指微不足道，与长期重塑社会相反。",
+      "排除：作者只说有限积极面，未将总体影响确定为正面。",
+      "保留：certain 直接对应 certainly，指影响必将发生。",
+      "排除：destructive 把尚待观察的具体结果直接定为破坏性。"
+    ]
+  },
+  "past-2013-1-q21": {
+    "type": "例证",
+    "anchors": [
+      {
+        "text": "automated",
+        "meaning": "自动化的"
+      },
+      {
+        "text": "a man and a dog",
+        "meaning": "一个人和一条狗"
+      }
+    ],
+    "locate": "题干问首段笑话说明什么，先看冒号前 how much ... automated；笑话之后第 2 段再找 replacing labor，核对说明对象。",
+    "evidence": [
+      {
+        "paragraph": 0,
+        "quote": "just how much a modern textile mill has been automated",
+        "meaning": "现代纺织厂自动化达到了怎样的程度。"
+      },
+      {
+        "paragraph": 1,
+        "quote": "replacing labor with machines or foreign workers.",
+        "meaning": "用机器或外国工人替代劳动力。"
+      }
+    ],
+    "reasoning": "冒号前已经给笑话的用途：展示自动化程度。两名“员工”的夸张细节服务于技术替代人力，选能覆盖这层作用的项。",
+    "options": [
+      "保留：技术进步的影响对应自动化使工厂几乎不需要人工。",
+      "排除：工作岗位减少未缓解求职压力，alleviation 方向不合。",
+      "排除：笑话说所需人员减少，没有说工厂数量或规模缩小。",
+      "排除：中产收入在第 2 段出现，笑话本身直接展示自动化替代。"
+    ]
+  },
+  "past-2013-1-q22": {
+    "type": "细节定位",
+    "anchors": [
+      {
+        "text": "unique value contribution",
+        "meaning": "独特价值贡献"
+      },
+      {
+        "text": "stand out",
+        "meaning": "脱颖而出"
+      }
+    ],
+    "locate": "题干给第 3 段，直接找 Therefore 后的 everyone needs；破折号后的 unique value contribution 是对 extra 的解释。",
+    "evidence": [
+      {
+        "paragraph": 2,
+        "quote": "everyone needs to find their extra – their unique value contribution that makes them stand out",
+        "meaning": "每个人都需要找到额外优势，也就是让自己脱颖而出的独特贡献。"
+      }
+    ],
+    "reasoning": "Therefore 给出作者建议，needs 后取行动目标。contribute something unique 只是把名词 contribution 变成动词 contribute。",
+    "options": [
+      "排除：cheap software 是雇主可获取的替代资源，未被推荐给求职者去开发。",
+      "排除：moderate salary 没有出现在对员工的建议中。",
+      "排除：average lifestyle 是过去普通工作可换来的生活，本文要求超出普通。",
+      "保留：unique contribution 与 contribute something unique 为同义改写。"
+    ]
+  },
+  "past-2013-1-q23": {
+    "type": "例证",
+    "anchors": [
+      {
+        "text": "acceleration",
+        "meaning": "加速"
+      },
+      {
+        "text": "shed workers so fast",
+        "meaning": "裁员如此之快"
+      }
+    ],
+    "locate": "题干指定第 4 段引语，先读引号前 But there’s been an acceleration；再看 10 years、70 years 和 disappeared 给出的对照。",
+    "evidence": [
+      {
+        "paragraph": 3,
+        "quote": "In the 10 years ending in 2009, [U.S.] factories shed workers so fast that they erased almost all the gains of the previous 70 years",
+        "meaning": "截至 2009 年的十年间，美国工厂裁员之快几乎抹去了此前七十年的岗位增长。"
+      }
+    ],
+    "reasoning": "引语前的 acceleration 是结论，后面年份和岗位数量是证据。只抓 shed workers、so fast，便能确定“岗位快速消失”。",
+    "options": [
+      "排除：被抹去的是就业岗位增长，gains of technology 换成技术成果。",
+      "保留：job opportunities disappearing at high speed 对应快速裁员与岗位消失。",
+      "排除：数字统计的是岗位数量，没有比较工厂盈利。",
+      "排除：新岗位和服务在下一段出现，与这里引语证明的流失方向相反。"
+    ]
+  },
+  "past-2013-1-q24": {
+    "type": "细节定位",
+    "anchors": [
+      {
+        "text": "nothing would be more important",
+        "meaning": "没有更重要的事"
+      },
+      {
+        "text": "post-high school education",
+        "meaning": "高中后教育"
+      }
+    ],
+    "locate": "圈 most important，去末段找 nothing would be more important；别停在 passing Bill，继续读 that ensures 后法案真正要实现的内容。",
+    "evidence": [
+      {
+        "paragraph": 5,
+        "quote": "ensures that every American has access to post-high school education.",
+        "meaning": "确保每个美国人都有机会接受高中后的教育。"
+      }
+    ],
+    "reasoning": "法案是手段，ensures 后的教育机会才是实质目标。把 more education 与 post-high school education 对应，避免只认 Bill 就选立法。",
+    "options": [
+      "排除：技术革命是岗位变化的背景，末段建议的重点是教育应对。",
+      "保留：保障更多教育机会直接对应 ensures ... access to education。",
+      "排除：推进全球化同样是背景因素，未被列为最重要就业措施。",
+      "排除：不是任意增加法案数量，而是通过特定教育保障法案。"
+    ]
+  },
+  "past-2013-1-q25": {
+    "type": "主旨",
+    "anchors": [
+      {
+        "text": "average is officially over",
+        "meaning": "普通水平已经不够"
+      },
+      {
+        "text": "above average",
+        "meaning": "高于平均水平"
+      }
+    ],
+    "locate": "标题题找跨段重复语句：第 3 段与末段都写 average is officially over；再看第 5 段 above average，确认论述围绕同一门槛。",
+    "evidence": [
+      {
+        "paragraph": 2,
+        "quote": "But, today, average is officially over.",
+        "meaning": "但如今仅仅普通的水平已经不够。"
+      },
+      {
+        "paragraph": 4,
+        "quote": "the best jobs will require workers to have more and better education to make themselves above average.",
+        "meaning": "好工作将要求劳动者通过更多更好的教育超越平均水平。"
+      }
+    ],
+    "reasoning": "反复出现的 average 是主题线索，技术与全球化解释为何普通水平不够，教育解释怎样超越它。重复句能同时串起原因和建议。",
+    "options": [
+      "排除：New Law Takes Effect 把建议立法写成已经实施。",
+      "排除：廉价技术只是挑战的一部分，标题未覆盖员工和教育建议。",
+      "保留：Average Is Over 反复出现，并统领原因、就业影响和教育建议。",
+      "排除：经济衰退只是原因之一，全文还强调长期技术和全球化变化。"
+    ]
+  },
+  "past-2013-2-q26": {
+    "type": "词义",
+    "anchors": [
+      {
+        "text": "birds of passage",
+        "meaning": "候鸟式移民"
+      },
+      {
+        "text": "then go home",
+        "meaning": "随后回家"
+      }
+    ],
+    "locate": "找到首段 birds of passage，它前面有解释性人物描述；先圈 had no intention to stay 与 then go home，判断停留是临时还是永久。",
+    "evidence": [
+      {
+        "paragraph": 0,
+        "quote": "those who had no intention to stay, and who would make some money and then go home.",
+        "meaning": "那些不打算留下、赚些钱后就回家的人。"
+      }
+    ],
+    "reasoning": "不打算长留并会回国，对应 temporarily。候鸟比喻只需抓“来一阵又走”，无需知道意大利语昵称。",
+    "options": [
+      "保留：temporarily 概括赚钱后返回家乡的临时停留。",
+      "排除：for good 表示永久离开，与随后回家相反。",
+      "排除：across the Atlantic 是早期群体来源，不能定义这类人的停留方式。",
+      "排除：permanent jobs 与其流动、暂留的特征不合。"
+    ]
+  },
+  "past-2013-2-q27": {
+    "type": "推断",
+    "anchors": [
+      {
+        "text": "broken immigration system",
+        "meaning": "失灵的移民制度"
+      },
+      {
+        "text": "change the way",
+        "meaning": "改变方式"
+      }
+    ],
+    "locate": "题干给第 2 段，找 broken system 后面的 We don’t need ... but we need；读清被否定的动作与被推荐的动作。",
+    "evidence": [
+      {
+        "paragraph": 1,
+        "quote": "We don’t need more categories, but we need to change the way we think about categories.",
+        "meaning": "我们不需要更多类别，而需要改变思考这些类别的方式。"
+      }
+    ],
+    "reasoning": "but 后推荐改变思路，段末说这样才可能解决挑战。adapted to meet challenges 概括调整制度思路以适应现实需要。",
+    "options": [
+      "排除：more categories 正是 We don’t need 后被否定的做法。",
+      "排除：开头 much more rigid 表示更僵硬，loosened 方向相反。",
+      "保留：通过改变分类思路应对挑战，符合作者的调整建议。",
+      "排除：long political paralysis 说明仍停滞，has been fixed 改成已解决。"
+    ]
+  },
+  "past-2013-2-q28": {
+    "type": "细节定位",
+    "anchors": [
+      {
+        "text": "prefer to come and go",
+        "meaning": "喜欢自由往返"
+      },
+      {
+        "text": "opportunity",
+        "meaning": "机会"
+      }
+    ],
+    "locate": "圈 today’s birds of passage，到第 3 段略过一串职业；找到 They prefer，后面的动词并列就是这群人的需求。",
+    "evidence": [
+      {
+        "paragraph": 2,
+        "quote": "They prefer to come and go as opportunity calls them.",
+        "meaning": "他们更愿意随机会需要自由往返。"
+      }
+    ],
+    "reasoning": "prefer 表示想要，come and go 对应 stay and leave。后句“一地工作、另一地家庭”再次支持流动安排。",
+    "options": [
+      "排除：文中说跟随工作机会流动，没有要求额外经济激励。",
+      "排除：参与全球经济未等于追求全球认可，recognition 加了目标。",
+      "保留：freedom to stay and leave 直接改写 come and go。",
+      "排除：regular jobs 强调稳定固定岗位，未覆盖随机会流动的核心诉求。"
+    ]
+  },
+  "past-2013-2-q29": {
+    "type": "推断",
+    "anchors": [
+      {
+        "text": "multiple paths",
+        "meaning": "多种路径"
+      },
+      {
+        "text": "existing system",
+        "meaning": "现行体系"
+      }
+    ],
+    "locate": "题干问应该怎样对待，优先看最后一段 new attitudes；读 beyond right or wrong 与末尾 legally，确定建议涉及哪种规则。",
+    "evidence": [
+      {
+        "paragraph": 4,
+        "quote": "managing immigration today requires multiple paths and multiple outcomes",
+        "meaning": "当今移民管理需要多种路径和多种结果。"
+      },
+      {
+        "paragraph": 4,
+        "quote": "not easy to accomplish legally in the existing system.",
+        "meaning": "在现行体系中不容易合法实现。"
+      }
+    ],
+    "reasoning": "作者要求容纳多种安排，包括现行法律难以容纳的情况。结合 beyond 二分法，判断建议的变化在法律制度的包容程度。",
+    "options": [
+      "排除：faithful partners 评价忠诚合作关系，未对应本段制度建议。",
+      "保留：legal tolerance 概括对多样移民路径的制度包容。",
+      "排除：经济优惠未被提出，文中谈的是法律分类和管理空间。",
+      "排除：rivals 意为强劲对手，与接纳生产参与者的建议相反。"
+    ]
+  },
+  "past-2013-2-q30": {
+    "type": "主旨",
+    "anchors": [
+      {
+        "text": "legal or illegal",
+        "meaning": "合法或非法"
+      },
+      {
+        "text": "rigid",
+        "meaning": "僵化的"
+      }
+    ],
+    "locate": "标题题回第 2 段找作者明确批评的分类，再对照末段 beyond right or wrong；把被批评的对象和评价一起留下。",
+    "evidence": [
+      {
+        "paragraph": 1,
+        "quote": "We divide newcomers into two categories: legal or illegal, good or bad.",
+        "meaning": "我们把新来者分成合法或非法、好或坏两类。"
+      },
+      {
+        "paragraph": 1,
+        "quote": "That framework has contributed mightily to our broken immigration system",
+        "meaning": "这一框架大大促成了移民制度的失灵。"
+      }
+    ],
+    "reasoning": "That framework 回指合法或非法的僵硬二分，broken 给负面评价。标题中的 Big Mistake 应落在二分法，而非移民流动本身。",
+    "options": [
+      "排除：作者支持理解来去自由，未把 Come and Go 判作错误。",
+      "排除：living and thriving 是作者建议认可的群体状态，未称为重大风险。",
+      "排除：With or Without 只对应有无许可的局部描述，未概括分类批评。",
+      "保留：Legal or Illegal 锁定僵化二分法，Big Mistake 对应制度失灵的评价。"
+    ]
+  },
+  "past-2013-3-q31": {
+    "type": "推断",
+    "anchors": [
+      {
+        "text": "dangerous",
+        "meaning": "危险的"
+      },
+      {
+        "text": "at least a minute",
+        "meaning": "至少一分钟"
+      }
+    ],
+    "locate": "题目问决策时间，去第 2 段找 milliseconds 与 minute；比较它们各自对应的任务：辨别危险，还是评估性格。",
+    "evidence": [
+      {
+        "paragraph": 1,
+        "quote": "if we are judging whether someone is dangerous, our brains and bodies are hard-wired to react very quickly, within milliseconds.",
+        "meaning": "判断某人是否危险时，身心会在毫秒内迅速反应。"
+      },
+      {
+        "paragraph": 1,
+        "quote": "To accurately tell whether someone is sociable, studies show, we need at least a minute",
+        "meaning": "要准确判断某人是否合群，至少需要一分钟。"
+      }
+    ],
+    "reasoning": "危险需要立即防御，性格评估可花更久。两种时间搭配两种情境，vary according to urgency 能保留这种条件差异。",
+    "options": [
+      "排除：更多时间有助于某些判断，未说时间预先决定一切准确性。",
+      "排除：brain reaction complexity 不是两种用时对照要说明的变量。",
+      "排除：两项判断都可能重要，原文对比的是即时危险与可慢评估的性质。",
+      "保留：情境紧迫程度不同，对应毫秒防御和较长性格评估。"
+    ]
+  },
+  "past-2013-3-q32": {
+    "type": "推断",
+    "anchors": [
+      {
+        "text": "fast-food logo",
+        "meaning": "快餐标志"
+      },
+      {
+        "text": "associate",
+        "meaning": "联系起来"
+      }
+    ],
+    "locate": "圈 fast-food logo，回第 3 段；读完实验结果后找 We unconsciously associate，它直接解释看到标志后为什么其他行为也变快。",
+    "evidence": [
+      {
+        "paragraph": 2,
+        "quote": "We unconsciously associate fast food with speed and impatience",
+        "meaning": "我们无意识地把快餐与速度和急躁联系起来。"
+      }
+    ],
+    "reasoning": "associate 与 associative 共享词根，表示联想关联。unconsciously 是无意识，排除项中的 not 会把这一性质反过来。",
+    "options": [
+      "保留：associative 直接对应 associate fast food with speed。",
+      "排除：原文明说 unconsciously，not unconscious 把否定加反。",
+      "排除：dangerous 来自上一段防御判断，快餐实验未说明危险性。",
+      "排除：原文称 carry those impulses，not impulsive 与该描述相反。"
+    ]
+  },
+  "past-2013-3-q33": {
+    "type": "细节定位",
+    "anchors": [
+      {
+        "text": "reverse such influences",
+        "meaning": "逆转这类影响"
+      },
+      {
+        "text": "take a moment",
+        "meaning": "停一下"
+      }
+    ],
+    "locate": "圈 reverse，去第 4 段开头找到同词；读消费例子中 when we see 与 before buying 之间建议做的动作，再看首段 think 复核。",
+    "evidence": [
+      {
+        "paragraph": 3,
+        "quote": "we can take a moment before buying.",
+        "meaning": "购买之前可以稍作停顿。"
+      }
+    ],
+    "reasoning": "before buying 把动作放在行动之前，take a moment 给思考留出时间。首段 think about how we react 提供同一做法的解释。",
+    "options": [
+      "排除：first impression 正是可能带来过度反应的对象，文中建议先暂停。",
+      "保留：think before we act 概括行动前停顿并考虑反应。",
+      "排除：按通常习惯行事会延续自动反应，未体现主动调整。",
+      "排除：雇用外部筛选者是特定招聘例子，未概括普遍的调整方法。"
+    ]
+  },
+  "past-2013-3-q34": {
+    "type": "细节定位",
+    "anchors": [
+      {
+        "text": "John Gottman",
+        "meaning": "人名"
+      },
+      {
+        "text": "long-term study",
+        "meaning": "长期研究"
+      }
+    ],
+    "locate": "圈人名，直接到第 5 段；重点看 reliably only after 后的条件，再用 two days, not two seconds 对比判断信息准备量。",
+    "evidence": [
+      {
+        "paragraph": 4,
+        "quote": "we ground such snap reactions in “thick sliced” long-term study.",
+        "meaning": "我们把这种快速反应建立在厚实的长期研究之上。"
+      }
+    ],
+    "reasoning": "only after 表示可靠判断的前提，long-term study 提供积累。adequate information 是对长期观察获得充分材料的概括。",
+    "options": [
+      "排除：critical assessment 强调批判性，原文条件强调长期积累。",
+      "排除：thin sliced 是快速判断本身，基础是 thick sliced 长期研究。",
+      "保留：长期观察与两天评估意味着判断建立在充分信息上。",
+      "排除：sensible explanation 强调解释质量，原文未把它列为快速判断前提。"
+    ]
+  },
+  "past-2013-3-q35": {
+    "type": "态度",
+    "anchors": [
+      {
+        "text": "We still have",
+        "meaning": "我们仍然有"
+      },
+      {
+        "text": "reverse the high-speed trend",
+        "meaning": "逆转高速趋势"
+      }
+    ],
+    "locate": "题干几乎照抄末句 high-speed trend，直接回末段最后一句；注意 still have capacity 是能力肯定，再看 rise above temptation 的方向。",
+    "evidence": [
+      {
+        "paragraph": 5,
+        "quote": "We still have the imaginative capacity to rise above temptation and reverse the high-speed trend.",
+        "meaning": "我们仍有想象能力超越诱惑，逆转高速趋势。"
+      }
+    ],
+    "reasoning": "still have 明确保留人类能力，rise above 和 reverse 给出可实现的积极方向。以最后的能力肯定判断作者信心。",
+    "options": [
+      "排除：tolerant 指容忍趋势，题目问能否逆转的态度。",
+      "保留：optimistic 对应作者肯定人类仍具有逆转趋势的能力。",
+      "排除：uncertain 与 still have capacity 的明确肯定不符。",
+      "排除：doubtful 表示怀疑，末句没有怀疑这项能力。"
+    ]
+  },
+  "past-2013-4-q36": {
+    "type": "推断",
+    "anchors": [
+      {
+        "text": "overwhelmingly male",
+        "meaning": "绝大多数为男性"
+      },
+      {
+        "text": "14 per cent",
+        "meaning": "百分之十四"
+      }
+    ],
+    "locate": "题干问欧洲企业通常状况，先看第 1 段 top positions 后的 male，再用 women only 14 per cent 的数字确认谁占决策层多数。",
+    "evidence": [
+      {
+        "paragraph": 0,
+        "quote": "Europe’s top corporate-governance positions remain overwhelmingly male.",
+        "meaning": "欧洲最高企业治理职位仍由男性占据绝大多数。"
+      }
+    ],
+    "reasoning": "top governance positions 指最高治理职位，男性占绝大多数就对应他们掌握主要决策权。不要把 overwhelmingly 当成 governance 被淹没。",
+    "options": [
+      "排除：women take the lead 与男性占最高职位绝大多数相反。",
+      "保留：男性主导高层治理，对应 men have the final say。",
+      "排除：overwhelmingly 修饰 male，未表示企业治理受到压倒性打击。",
+      "排除：首段说尚未完全 family-friendly，选项把目标写成现状。"
+    ]
+  },
+  "past-2013-4-q37": {
+    "type": "推断",
+    "anchors": [
+      {
+        "text": "born of frustration",
+        "meaning": "出于受挫"
+      },
+      {
+        "text": "only 24 companies",
+        "meaning": "仅二十四家公司"
+      }
+    ],
+    "locate": "圈 intended legislation，到第 2 段先看 born of frustration；再往后找 voluntary action 的响应数量，区分先前呼吁与现在立法。",
+    "evidence": [
+      {
+        "paragraph": 1,
+        "quote": "This proposed mandate was born of frustration.",
+        "meaning": "拟议的强制要求源于受挫。"
+      },
+      {
+        "paragraph": 1,
+        "quote": "But her appeal was considered a failure: only 24 companies took it up.",
+        "meaning": "自愿行动呼吁被视为失败，只有二十四家公司响应。"
+      }
+    ],
+    "reasoning": "voluntary 失败在先，强制立法在后，frustration 说明这是失望后的选择。reluctant choice 能把前因与转向连起来。",
+    "options": [
+      "排除：当前女性占比很低，立法反映的是失衡后的应对。",
+      "排除：Reding 先前呼吁自愿行动，立法是该呼吁失效后的转变。",
+      "保留：自愿办法响应稀少，强制配额因受挫而成为无奈选择。",
+      "排除：legislation 和 compel 明确是强制，自愿属于前一阶段。"
+    ]
+  },
+  "past-2013-4-q38": {
+    "type": "细节定位",
+    "anchors": [
+      {
+        "text": "glass ceiling",
+        "meaning": "晋升壁垒"
+      },
+      {
+        "text": "top business positions",
+        "meaning": "企业高层职位"
+      }
+    ],
+    "locate": "圈 According to Reding，到第 4 段找她的引语；遇到 glass ceiling 先不按字面翻，继续读后半句 women in top business positions。",
+    "evidence": [
+      {
+        "paragraph": 3,
+        "quote": "legally binding provisions on placing women in top business positions.",
+        "meaning": "对女性进入企业高层职位具有法律约束力的规定。"
+      }
+    ],
+    "reasoning": "后半句具体解释打破 glass ceiling 的结果：女性进入高层。用这个明说的结果选答案，跳过比喻本身的陌生含义。",
+    "options": [
+      "保留：get top business positions 与段末原文直接对应。",
+      "排除：see through 把 glass ceiling 当可看穿的玻璃，原文指突破晋升壁垒。",
+      "排除：平衡家庭工作是前段提问背景，本段明确的配额成效是高层任职。",
+      "排除：anticipate legal results 是预料法律结果，文中说法律已经促成任职。"
+    ]
+  },
+  "past-2013-4-q39": {
+    "type": "态度",
+    "anchors": [
+      {
+        "text": "I don’t like quotas either",
+        "meaning": "我也不喜欢配额"
+      },
+      {
+        "text": "But",
+        "meaning": "但是"
+      }
+    ],
+    "locate": "作者态度去第 5 段找 I；先标不喜欢配额，再重点读 But 后现实障碍带来的判断，用转折后的结论确定立场。",
+    "evidence": [
+      {
+        "paragraph": 4,
+        "quote": "it does look as if a fairer world must be temporarily ordered.",
+        "meaning": "看来更公平的世界确实需要暂时依靠制度安排。"
+      }
+    ],
+    "reasoning": "前面不喜欢配额说明个人原则，But 后承认现实需要。must 和 does look 加强最终接受程度，按最终判断而非首个负面词选择。",
+    "options": [
+      "排除：作者承认现实中需要制度安排，未停在怀疑其必要性上。",
+      "排除：作者明确表达个人取舍，objectiveness 未概括最终接受态度。",
+      "排除：作者讨论自身原则和现实障碍，绝非漠不关心。",
+      "保留：承认更公平社会需暂时由制度推动，支持 Reding 的现实诉求。"
+    ]
+  },
+  "past-2013-4-q40": {
+    "type": "原因",
+    "anchors": [
+      {
+        "text": "newsworthy",
+        "meaning": "具有新闻价值"
+      },
+      {
+        "text": "appropriate public policies",
+        "meaning": "适当公共政策"
+      }
+    ],
+    "locate": "题干问女性高管为何成为新闻，去末段找 newsworthy；句首 If 提供假设条件，将“如果有政策就不特殊”反推当前缺少什么。",
+    "evidence": [
+      {
+        "paragraph": 6,
+        "quote": "If appropriate public policies were in place to help all women",
+        "meaning": "如果已有适当公共政策帮助所有女性。"
+      },
+      {
+        "paragraph": 6,
+        "quote": "Sandberg would be no more newsworthy than any other highly capable person",
+        "meaning": "桑德伯格就不会比任何其他能力强的人更有新闻价值。"
+      }
+    ],
+    "reasoning": "If 有适当政策→女性高管不再罕见上新闻，当前仍成新闻说明这个条件未满足。优先选假设句明确点名的具体缺口。",
+    "options": [
+      "排除：社会公平是更宽泛的结果，因果条件直接指向公共政策。",
+      "排除：第 6 段说 massive attention，当前并不缺媒体关注。",
+      "保留：suitable public policies 与 If 条件中的 appropriate public policies 同义。",
+      "排除：文中说再多 soft pressure 也未奏效，缺口不能只归为压力不足。"
+    ]
+  },
+  "past-2014-1-q21": {
+    "type": "细节定位",
+    "anchors": [
+      {
+        "text": "Dunn",
+        "meaning": "作者姓氏"
+      },
+      {
+        "text": "experiences",
+        "meaning": "体验"
+      },
+      {
+        "text": "interesting trips",
+        "meaning": "有趣的旅行"
+      }
+    ],
+    "locate": "圈两位作者姓名，到第 2 段找 far better；先看后面的 experiences，再把 like 后列出的体验与四个选项逐个对应。",
+    "evidence": [
+      {
+        "paragraph": 1,
+        "quote": "It is far better to spend money on experiences, say Ms Dunn and Mr Norton, like interesting trips, unique meals or even going to the cinema.",
+        "meaning": "两位作者认为钱花在体验上更好，例如有趣旅行、独特餐食或看电影。"
+      }
+    ],
+    "reasoning": "优先找“体验＋特别”的组合，special tour 对应 interesting trips。meal 也出现过，但原文强调 unique，不能只看到同一个名词就选。",
+    "options": [
+      "排除：big house 属于物质购买，满足感消退较快。",
+      "保留：special tour 对应 interesting trips，强调独特经历。",
+      "排除：stylish car 属于物质购买，前文指出其新鲜感容易消退。",
+      "排除：原文强调 unique meals 的独特体验，rich meal 只突出丰盛。"
+    ]
+  },
+  "past-2014-1-q22": {
+    "type": "态度",
+    "anchors": [
+      {
+        "text": "watching television",
+        "meaning": "看电视"
+      },
+      {
+        "text": "hardly jollier",
+        "meaning": "几乎没更快乐"
+      }
+    ],
+    "locate": "圈 watching TV，到第 3 段找 watching television；作者在括号里评价美国人的观看时间，重点抓 whopping 与 hardly 两个态度信号。",
+    "evidence": [
+      {
+        "paragraph": 2,
+        "quote": "the average American spends a whopping two months a year doing, and is hardly jollier for it",
+        "meaning": "普通美国人一年花多达两个月看电视，却几乎没因此更快乐。"
+      }
+    ],
+    "reasoning": "时间花得惊人地多，快乐却没有相应增加；再联系前面的 less of it watching television，形成明确批评方向。",
+    "options": [
+      "保留：耗时多而少有快乐收益，支持 critical 的批评态度。",
+      "排除：原文建议少看，supportive 与建议方向相反。",
+      "排除：没有对观看者表达同情，sympathetic 缺少语气依据。",
+      "排除：whopping、hardly 和 less 已给明确评价，态度不含糊。"
+    ]
+  },
+  "past-2014-1-q23": {
+    "type": "例证",
+    "anchors": [
+      {
+        "text": "McRib",
+        "meaning": "限量三明治名"
+      },
+      {
+        "text": "sparingly",
+        "meaning": "节制、少量地"
+      }
+    ],
+    "locate": "圈 McRib，在第 3 段找到例子前的 This is apparently the reason；This 回指上句 luxuries ... sparingly，先读观点再读例子。",
+    "evidence": [
+      {
+        "paragraph": 2,
+        "quote": "luxuries are most enjoyable when they are consumed sparingly.",
+        "meaning": "奢侈享受在少量消费时最令人愉快。"
+      },
+      {
+        "paragraph": 2,
+        "quote": "McDonald’s restricts the availability of its popular McRib",
+        "meaning": "麦当劳限制畅销 McRib 的供应。"
+      }
+    ],
+    "reasoning": "sparingly 与 restrict availability 都指数量有限，most enjoyable 指愉悦增加。把两组对应合起来就是稀缺增强快乐。",
+    "options": [
+      "排除：obsession 描写结果，例子直接服务于限量增加享受的观点。",
+      "排除：没有比较食品品质和流行先后，quality 属于新增原因。",
+      "排除：营销有效只是例子现象，未概括上句给出的稀缺机制。",
+      "保留：rarity 对应少量供应，increases pleasure 对应 most enjoyable。"
+    ]
+  },
+  "past-2014-1-q24": {
+    "type": "细节定位",
+    "anchors": [
+      {
+        "text": "money well spent",
+        "meaning": "钱花得值得"
+      },
+      {
+        "text": "most people",
+        "meaning": "多数人"
+      }
+    ],
+    "locate": "题干给最后一段，直接看末句 But 后的 most people；前句批评政策建议属于让步，最后落脚在读书花的钱是否值得。",
+    "evidence": [
+      {
+        "paragraph": 3,
+        "quote": "most people will come away from this book believing it was money well spent.",
+        "meaning": "大多数读者读后会认为买这本书的钱花得值得。"
+      }
+    ],
+    "reasoning": "money well spent 可以直接对应 worthwhile purchase。may prove 保留温和程度，避开把前句少数分歧扩大成全书主要缺陷的选项。",
+    "options": [
+      "排除：仅说部分政策意见未必获赞同，未强调留下很大批评空间。",
+      "保留：worthwhile purchase 与 money well spent 是直接同义改写。",
+      "排除：文中比较富国穷国幸福感，没有预测美国收入差距。",
+      "排除：fulfilment 是书讨论的消费目标，未说读书直接带来成就感。"
+    ]
+  },
+  "past-2014-1-q25": {
+    "type": "主旨",
+    "anchors": [
+      {
+        "text": "lasting feelings of fulfilment",
+        "meaning": "持久满足感"
+      },
+      {
+        "text": "spend money on experiences",
+        "meaning": "花钱买体验"
+      }
+    ],
+    "locate": "主旨题先读首段最后一句 lasting fulfilment，再看中间建议如何花钱；把旅行、礼物、少量享受归到它们共同要达到的结果。",
+    "evidence": [
+      {
+        "paragraph": 0,
+        "quote": "her new-found fortune will yield lasting feelings of fulfilment",
+        "meaning": "她新获得的财富能带来持久满足感。"
+      },
+      {
+        "paragraph": 1,
+        "quote": "These purchases often become more valuable with time – as stories or memories",
+        "meaning": "这些购买往往随时间成为故事或记忆，愈发有价值。"
+      }
+    ],
+    "reasoning": "起点是花钱后怎样持久满足，后文各项建议共同回答它。lasting satisfaction 把目标概括出来，范围能包含普通人和中奖者。",
+    "options": [
+      "排除：balance 暗示钱与快乐间的权衡，全文重点是提高花钱获得的幸福。",
+      "排除：彩票是开头引子，第 3 段明确也适用于工薪者。",
+      "保留：lasting satisfaction 对应持久满足，money spent 串起全部建议。",
+      "排除：奢侈消费只是一条建议，未覆盖旅行、慈善及陪伴家人。"
+    ]
+  },
+  "past-2014-2-q26": {
+    "type": "细节定位",
+    "anchors": [
+      {
+        "text": "above average effect",
+        "meaning": "高于平均效应"
+      },
+      {
+        "text": "statistical impossibilities",
+        "meaning": "统计上不可能"
+      }
+    ],
+    "locate": "题干指定首段，先圈三个百分数 70%、93%、85%；再读破折号后的 statistical impossibilities，判断作者如何评价这些自评分数。",
+    "evidence": [
+      {
+        "paragraph": 0,
+        "quote": "70% of us rate ourselves as above average in leadership, 93% in driving and 85% at getting on well with others – all obviously statistical impossibilities.",
+        "meaning": "多数人认为自己各方面高于平均，而这些比例显然不可能符合统计事实。"
+      }
+    ],
+    "reasoning": "rate ourselves 对应 self-ratings，impossibilities 给不现实判断，above average 给过高方向。三点合起来就是自评分不现实地偏高。",
+    "options": [
+      "保留：unrealistically high 对应高于平均且统计上不可能的自评。",
+      "排除：研究确认心理效应存在，baseless 把自评失真换成效应无依据。",
+      "排除：leadership 是测量项目，未说领导力需求不自然。",
+      "排除：这些策略让人自我感觉更好，未被说成无效。"
+    ]
+  },
+  "past-2014-2-q27": {
+    "type": "细节定位",
+    "anchors": [
+      {
+        "text": "Visual recognition",
+        "meaning": "视觉识别"
+      },
+      {
+        "text": "intuitively",
+        "meaning": "直觉地"
+      }
+    ],
+    "locate": "圈 Visual recognition，到第 3 段找同词后的引号；跳过实验操作，直接看 automatic、intuitively 与 conscious deliberation 前的否定。",
+    "evidence": [
+      {
+        "paragraph": 2,
+        "quote": "an automatic psychological process, occurring rapidly and intuitively with little or no apparent conscious deliberation",
+        "meaning": "自动发生的心理过程，快速而直觉，几乎没有明显的有意识思考。"
+      }
+    ],
+    "reasoning": "intuitively 与 intuitive 同词根，automatic 也支持自发反应。速度是辅助信息，核心分类是直觉反应而非有意识选择。",
+    "options": [
+      "排除：matching 只是实验中的选照片动作，未概括心理性质。",
+      "排除：little or no conscious deliberation 与有意识选择相反。",
+      "保留：intuitive response 直接改写 intuitively 的心理反应。",
+      "排除：self-defence 是受批评时的防卫，不是此处视觉识别定义。"
+    ]
+  },
+  "past-2014-2-q28": {
+    "type": "细节定位",
+    "anchors": [
+      {
+        "text": "higher self-esteem",
+        "meaning": "较高自尊"
+      },
+      {
+        "text": "attractiveness scale",
+        "meaning": "吸引力等级"
+      }
+    ],
+    "locate": "圈 higher self-esteem，到第 4 段找 corresponded with；读连接词两边，一边是高自尊，一边是对哪类照片的信任。",
+    "evidence": [
+      {
+        "paragraph": 3,
+        "quote": "those who thought that the images higher up the attractiveness scale were real directly corresponded with those who showed other markers for having higher self-esteem.",
+        "meaning": "认为更有吸引力的照片真实的人，也显示出更高自尊的其他指标。"
+      }
+    ],
+    "reasoning": "corresponded with 连接同一群人的两个特征。认为美化照片真实，就对应相信自己的吸引力，不必翻译整段。",
+    "options": [
+      "排除：前句说没有证据证明是在弥补不安全感，选项转移了结论。",
+      "保留：把更美照片当真实自己，对应相信自己有吸引力。",
+      "排除：末句说抑郁者不会自我美化，未说高自尊者掩饰抑郁。",
+      "排除：没有把自我美化说成简化幻想，且 Epley 否认它证明个人妄想。"
+    ]
+  },
+  "past-2014-2-q29": {
+    "type": "词义",
+    "anchors": [
+      {
+        "text": "viscerally",
+        "meaning": "本能地"
+      },
+      {
+        "text": "don’t even recognise",
+        "meaning": "甚至认不出"
+      }
+    ],
+    "locate": "题干给第 5 段副词，先看破折号后的解释：看到照片甚至认不出自己；再联系第 3 段自动识别，判断是方式、频率还是程度。",
+    "evidence": [
+      {
+        "paragraph": 4,
+        "quote": "they don’t even recognise the person in the picture as themselves.",
+        "meaning": "他们甚至不能把照片中的人认作自己。"
+      }
+    ],
+    "reasoning": "破折号解释未经仔细思考的直接反应，上文 automatic、intuitively 也是同一路径。选择表示本能反应方式的词。",
+    "options": [
+      "保留：instinctively 表示本能地，符合自动而直接的反应。",
+      "排除：occasionally 表频率，这里解释反应如何发生。",
+      "排除：particularly 表程度，未体现自动识别的心理机制。",
+      "排除：aggressively 表攻击性，文中没有攻击行为。"
+    ]
+  },
+  "past-2014-2-q30": {
+    "type": "原因",
+    "anchors": [
+      {
+        "text": "Facebook",
+        "meaning": "平台名"
+      },
+      {
+        "text": "only the most flattering",
+        "meaning": "只展示最讨喜的"
+      }
+    ],
+    "locate": "圈 Facebook，进入末段 where 后的解释；注意 only 限制分享内容，再读末句 idealised version 理解这种筛选的结果。",
+    "evidence": [
+      {
+        "paragraph": 4,
+        "quote": "people can share only the most flattering photos",
+        "meaning": "人们可以只分享最讨喜的照片。"
+      },
+      {
+        "paragraph": 4,
+        "quote": "they portray an idealised version of themselves.",
+        "meaning": "他们呈现的是理想化版本的自己。"
+      }
+    ],
+    "reasoning": "only 分享好的一面，就意味着可以不展示不讨喜的一面。withhold unflattering sides 用反面表达同一个筛选机制。",
+    "options": [
+      "排除：原文说 not ... dishonest，理想化筛选未被判为造假档案。",
+      "排除：traditional lifestyles 中的传统属性没有依据。",
+      "排除：intellect 只是可展示优点之一，不能单独解释自我美化乐园。",
+      "保留：隐藏不讨喜的一面，对应只发布最讨喜内容的选择权。"
+    ]
+  },
+  "past-2014-3-q31": {
+    "type": "细节定位",
+    "anchors": [
+      {
+        "text": "economic downturns",
+        "meaning": "经济低迷"
+      },
+      {
+        "text": "most acutely felt",
+        "meaning": "最强烈感受到"
+      }
+    ],
+    "locate": "圈 economic downturns，在首段首句找到 during 前的 most acutely felt；向前找 this phenomenon 指的 man versus machine。",
+    "evidence": [
+      {
+        "paragraph": 0,
+        "quote": "this phenomenon tends to be most acutely felt during economic downturns and fragile recoveries.",
+        "meaning": "这一人机对抗现象在经济低迷和脆弱复苏中最为明显。"
+      }
+    ],
+    "reasoning": "this phenomenon 回指人机竞争，most acutely felt 表示感受更突出。highlight threat 保留“威胁更显眼”，未把低迷当技术革命的原因。",
+    "options": [
+      "排除：ease 表示缓解，和感受最强烈方向相反。",
+      "保留：突出机器对岗位的威胁，对应低迷中最明显的人机冲突。",
+      "排除：冲突更突出，未等于低迷触发一场技术革命。",
+      "排除：重构经济的是持续技术替代，选项换成经济低迷。"
+    ]
+  },
+  "past-2014-3-q32": {
+    "type": "细节定位",
+    "anchors": [
+      {
+        "text": "Race Against the Machine",
+        "meaning": "书名"
+      },
+      {
+        "text": "threatened",
+        "meaning": "受到威胁"
+      }
+    ],
+    "locate": "圈书名，在第 2 段找到 This argument；它回指前一句，重点读 once immune 与 suddenly threatened 的前后变化。",
+    "evidence": [
+      {
+        "paragraph": 1,
+        "quote": "jobs that were once thought to be immune from automation suddenly become threatened.",
+        "meaning": "原本被认为不受自动化影响的工作突然受到威胁。"
+      }
+    ],
+    "reasoning": "once 到 suddenly 说明安全岗位也受威胁，压缩人的就业机会是这一变化的概括。别把“以前安全”读成对未来的保证。",
+    "options": [
+      "保留：原先安全岗位也受威胁，支持就业机会被技术压缩。",
+      "排除：技术改善导致岗位威胁，选项换成自动化促进技术。",
+      "排除：once immune 后接 suddenly threatened，不能只取前半。",
+      "排除：没有宣布人类最终必胜，原段强调岗位风险。"
+    ]
+  },
+  "past-2014-3-q33": {
+    "type": "细节定位",
+    "anchors": [
+      {
+        "text": "Hagel",
+        "meaning": "人名"
+      },
+      {
+        "text": "highly standardized",
+        "meaning": "高度标准化"
+      },
+      {
+        "text": "creativity",
+        "meaning": "创造性"
+      }
+    ],
+    "locate": "圈 Hagel，到第 4 段找他评价工作设计的句子；tightly scripted 与 standardized 后的 no room for 明确指出缺了什么。",
+    "evidence": [
+      {
+        "paragraph": 3,
+        "quote": "leave no room for “individual initiative or creativity”.",
+        "meaning": "不给个人主动性或创造性留下空间。"
+      }
+    ],
+    "reasoning": "no room for creativity 表明设计排除了发挥创造力的机会。designed against human creativity 概括这一缺陷，先把否定方向看对。",
+    "options": [
+      "排除：innovative minds 说由创新人才完成，原文说不给创新留空间。",
+      "排除：individual style 与统一标准程序的方向不符。",
+      "排除：standardized 有依据，clear target 却把比喻的 target 当工作目标。",
+      "保留：排斥创造性的设计对应 no room for initiative or creativity。"
+    ]
+  },
+  "past-2014-3-q34": {
+    "type": "细节定位",
+    "anchors": [
+      {
+        "text": "touched on this point",
+        "meaning": "也谈到这一点"
+      },
+      {
+        "text": "augment human labor",
+        "meaning": "增强人类劳动"
+      }
+    ],
+    "locate": "题干给最后一段，先看 this point 回指第 5 段主动性与想象力；再看 In other words 后 augment 与 replace 的对照。",
+    "evidence": [
+      {
+        "paragraph": 5,
+        "quote": "we need to look at the ways in which machines can augment human labor rather than replace it.",
+        "meaning": "需要寻找机器增强人类劳动而非替代人类的方式。"
+      }
+    ],
+    "reasoning": "协作目标是发挥人的主动性，让机器辅助劳动。human involvement 概括人仍应参与并发挥作用的必要性。",
+    "options": [
+      "排除：predictable activities 在前段解释机器限制，未概括末段合作观点。",
+      "排除：conducted efficiently 强调效率，原文重心是人的独特作用。",
+      "排除：replace 是被对照的一侧，作者建议 augment，方向反了。",
+      "保留：机器增强劳动、发挥人的主动性，都要求人继续参与。"
+    ]
+  },
+  "past-2014-3-q35": {
+    "type": "主旨",
+    "anchors": [
+      {
+        "text": "man versus machine",
+        "meaning": "人与机器对抗"
+      },
+      {
+        "text": "race with the machine",
+        "meaning": "与机器协作"
+      }
+    ],
+    "locate": "标题题把首段 man versus machine 与末段 race with the machine 连起来；中间先讲岗位威胁，再讲人可以怎样改变工作应对。",
+    "evidence": [
+      {
+        "paragraph": 0,
+        "quote": "Certain jobs have gone away for good, outmoded by machines.",
+        "meaning": "一些工作被机器淘汰，永久消失。"
+      },
+      {
+        "paragraph": 5,
+        "quote": "We need to reframe race against the machine as race with the machine.",
+        "meaning": "需要把与机器对抗重新理解为与机器协作。"
+      }
+    ],
+    "reasoning": "全文提出挑战再寻找人的出路，疑问式标题能容纳两个阶段。只取末段方法或断言所有劳动被替代，范围都不完整。",
+    "options": [
+      "排除：工作创新是末段应对方法，未充分带出前文人机挑战。",
+      "排除：全文还主张合作，机器将替代人类劳动的笼统断言过宽。",
+      "保留：能否赢得人机竞争，涵盖岗位威胁及应对方式。",
+      "排除：低迷只是开篇背景，未被论证为创新的刺激因素。"
+    ]
+  },
+  "past-2014-4-q36": {
+    "type": "细节定位",
+    "anchors": [
+      {
+        "text": "politically charged",
+        "meaning": "充满政治因素"
+      },
+      {
+        "text": "housing sector",
+        "meaning": "住房行业"
+      }
+    ],
+    "locate": "题干问作者对住房行业的看法，回第 2 段末句；perhaps the most significant reason 提示最主要原因，随后就是要核对的性质。",
+    "evidence": [
+      {
+        "paragraph": 1,
+        "quote": "the issue has always been so politically charged.",
+        "meaning": "这个问题一直带有很强的政治因素。"
+      }
+    ],
+    "reasoning": "politically 直接对应 political factors。其余项借用 attention、value 等原词，需查是失去价值还是没有把价值传达好。",
+    "options": [
+      "排除：住房难获关注，has attracted much attention 方向相反。",
+      "保留：political factors 与 politically charged 直接对应。",
+      "排除：shoulder the blame 指应担部分责任，未说责任过多。",
+      "排除：缺的是沟通价值的能力，未说住房经济价值已消失。"
+    ]
+  },
+  "past-2014-4-q37": {
+    "type": "推断",
+    "anchors": [
+      {
+        "text": "historical prejudices",
+        "meaning": "历史偏见"
+      },
+      {
+        "text": "to one side",
+        "meaning": "放到一边"
+      }
+    ],
+    "locate": "圈 affordable housing，读第 3 段现状后看第 4 段 It needs；作者要求政府放下什么，反推此前什么妨碍了住房支持。",
+    "evidence": [
+      {
+        "paragraph": 3,
+        "quote": "It needs to put historical prejudices to one side",
+        "meaning": "政府需要把历史偏见放到一边。"
+      }
+    ],
+    "reasoning": "要求搁置 historical prejudices，说明政策处理中已有偏见。suffered government biases 把建议背后的既有问题说出来。",
+    "options": [
+      "排除：not building enough new homes 指供应不足，未说已增加供给。",
+      "排除：支出审查提供纠正问题的机会，未说住房提供消费机会。",
+      "保留：政府需放下历史偏见，支持住房曾受政府偏见影响。",
+      "排除：没有写政府因住房失望，desperate 描述住房紧张状况。"
+    ]
+  },
+  "past-2014-4-q38": {
+    "type": "细节定位",
+    "anchors": [
+      {
+        "text": "George Osborne",
+        "meaning": "人名"
+      },
+      {
+        "text": "cap",
+        "meaning": "上限"
+      },
+      {
+        "text": "borrow",
+        "meaning": "借贷"
+      }
+    ],
+    "locate": "题干限定第 5 段，圈人名后找 may introduce；抓 flexibility、cap、borrow，再看 if the cap were lifted 核对变化方向。",
+    "evidence": [
+      {
+        "paragraph": 4,
+        "quote": "may introduce more flexibility to the current cap on the amount that local authorities can borrow",
+        "meaning": "可能放宽地方政府借贷额度的现有上限。"
+      }
+    ],
+    "reasoning": "cap 是上限，flexibility 或 lifted 都朝放宽方向。对象是地方政府借钱建房，对应允许更大住房债务额度。",
+    "options": [
+      "保留：放宽地方政府住房借贷上限，对应允许更大债务空间。",
+      "排除：extra homes 是放宽后的可能效果，停止建房方向相反。",
+      "排除：放宽可借额度，未要求减少现有住房债务。",
+      "排除：GDP 是政策效果估算，未说部长要发布增长预测。"
+    ]
+  },
+  "past-2014-4-q39": {
+    "type": "推断",
+    "anchors": [
+      {
+        "text": "rental environment",
+        "meaning": "租赁环境"
+      },
+      {
+        "text": "fund new developments",
+        "meaning": "资助新开发"
+      }
+    ],
+    "locate": "圈 stable rental environment，在第 6 段找 greater certainty；后面的 which would have ... impact 是作用，直接读 fund 后的对象。",
+    "evidence": [
+      {
+        "paragraph": 5,
+        "quote": "the ability of registered providers to fund new developments from revenues.",
+        "meaning": "注册供给机构利用收入为新开发项目融资的能力。"
+      }
+    ],
+    "reasoning": "stable 对应 greater certainty，效果落在 fund new developments。跳过机构名称，也能看到稳定环境帮助融资的主线。",
+    "options": [
+      "排除：作用是通过收入筹措新项目资金，未写降低成本。",
+      "排除：政府干预影响大小未被比较，问题涉及融资效果。",
+      "保留：contribute to funding new developments 与定位句对应。",
+      "排除：部长被要求采取措施，未说会免除其职责。"
+    ]
+  },
+  "past-2014-4-q40": {
+    "type": "推断",
+    "anchors": [
+      {
+        "text": "2015",
+        "meaning": "时间点"
+      },
+      {
+        "text": "unlikely to be extended",
+        "meaning": "不大可能延续"
+      }
+    ],
+    "locate": "圈 after 2015，在第 7 段找 expire in 2015；连读 unlikely，再看 large-scale public grants，确定可能停止的是哪种支持。",
+    "evidence": [
+      {
+        "paragraph": 6,
+        "quote": "set to expire in 2015, is unlikely to be extended beyond then.",
+        "meaning": "定于 2015 年到期的计划不大可能在之后延续。"
+      },
+      {
+        "paragraph": 6,
+        "quote": "we are very unlikely to ever return to the era of large-scale public grants.",
+        "meaning": "我们很难再回到大规模公共补贴的时代。"
+      }
+    ],
+    "reasoning": "expire 加 unlikely extended 指到期难续，large-scale grants 限定支持类型。generous funding 对应大规模拨款，别扩大为全部住房政策。",
+    "options": [
+      "排除：前文短期措施不等于 2015 年后会实施更多政策。",
+      "排除：文中判断补贴难再回来，未说将重新评估需求。",
+      "排除：renew 与 unlikely to be extended 方向相反。",
+      "保留：停止慷慨拨款对应补贴难续及难回大规模资助时代。"
+    ]
+  },
+  "past-2015-1-q21": {
+    "type": "推断",
+    "anchors": [
+      {
+        "text": "contrary to most surveys",
+        "meaning": "与多数调查相反"
+      },
+      {
+        "text": "more stressed at home",
+        "meaning": "在家压力更大"
+      }
+    ],
+    "locate": "先圈题干 previous，确认问旧调查；回首段找到 contrary to，再读新研究 home 与 work 的比较，把这个比较方向反转。",
+    "evidence": [
+      {
+        "paragraph": 0,
+        "quote": "contrary to most surveys, people are actually more stressed at home than at work.",
+        "meaning": "与多数调查相反，人们实际上在家比在工作时压力更大。"
+      }
+    ],
+    "reasoning": "题干问以前，原句给现在且标 contrary。新结果“在家压力大”取反就是旧观点“在家更放松”，避免直接抄新结论。",
+    "options": [
+      "保留：较工作场所更放松，是新研究相反方向的旧调查结论。",
+      "排除：stress measurement 只是研究方法，未说家是理想测量地点。",
+      "排除：more stress 是新研究的发现，题目问 previous surveys。",
+      "排除：unrealistic relaxation 属于新研究对避风港想象的挑战，非旧结论。"
+    ]
+  },
+  "past-2015-1-q22": {
+    "type": "细节定位",
+    "anchors": [
+      {
+        "text": "men, not women",
+        "meaning": "男性而非女性"
+      },
+      {
+        "text": "nonparents",
+        "meaning": "没有孩子的人"
+      }
+    ],
+    "locate": "圈人名 Damaske，读第 2 段关于 happier at home 的句子；再找后面的 nonparents，把选项按性别和有无孩子分成两组筛选。",
+    "evidence": [
+      {
+        "paragraph": 1,
+        "quote": "It is men, not women, who report being happier at home than at work.",
+        "meaning": "报告在家比工作更快乐的是男性，而非女性。"
+      },
+      {
+        "paragraph": 1,
+        "quote": "the findings hold true for both those with children and without, but more so for nonparents.",
+        "meaning": "这些发现适用于有无孩子的人，对没有孩子的人更明显。"
+      }
+    ],
+    "reasoning": "按这道题的分组取舍，先用 men 排除两项女性，再结合 nonparents 在两项男性中选无孩者；抓住两个身份词即可完成定位。",
+    "options": [
+      "排除：mothers 是女性且有孩子，不符合本题筛选出的男性无孩组。",
+      "保留：husbands 对应男性，childless 对应 nonparents。",
+      "排除：fathers 是有孩子的男性，未对应段末强调的 nonparents。",
+      "排除：wives 是女性，前句明确把在家更快乐指向 men。"
+    ]
+  },
+  "past-2015-1-q23": {
+    "type": "细节定位",
+    "anchors": [
+      {
+        "text": "working women",
+        "meaning": "职业女性"
+      },
+      {
+        "text": "household tasks",
+        "meaning": "家务任务"
+      }
+    ],
+    "locate": "圈题干 roles，在第 3 段找到 blurring of roles；向前读 women who work outside 后的 catch-up-with-household tasks，看她们同时承担什么。",
+    "evidence": [
+      {
+        "paragraph": 2,
+        "quote": "for women who work outside the home, they often are playing catch-up-with-household tasks.",
+        "meaning": "在外工作的女性往往还要赶着补做家务。"
+      }
+    ],
+    "reasoning": "work outside 表示挣钱工作，household tasks 表示家务；roles 的模糊就是两种职责延伸到同一人身上。把两种角色并列出来。",
+    "options": [
+      "排除：kick back 是前句描述许多男性下班后的休息，不是职业女性的双重角色。",
+      "保留：bread winners 对应外出工作，housewives 对应承担家务。",
+      "排除：家务积压是现象，未完整概括工作与家庭双重身份。",
+      "排除：never leave the office 是形容在家女性工作的比喻，非题干职业女性的事实。"
+    ]
+  },
+  "past-2015-1-q24": {
+    "type": "词义",
+    "anchors": [
+      {
+        "text": "moola",
+        "meaning": "待猜词"
+      },
+      {
+        "text": "income",
+        "meaning": "收入"
+      },
+      {
+        "text": "draws out",
+        "meaning": "获得"
+      }
+    ],
+    "locate": "找到第 4 段末词 moola，先看前句 making money、draw an income；最后一句把同一交换重说了一遍，用熟悉词替换生词。",
+    "evidence": [
+      {
+        "paragraph": 3,
+        "quote": "doing the tasks they have to do in order to draw an income.",
+        "meaning": "完成为获得收入而必须做的任务。"
+      },
+      {
+        "paragraph": 3,
+        "quote": "Employee puts in hours of physical or mental labor and employee draws out life-sustaining moola.",
+        "meaning": "雇员投入体力或脑力劳动时间，换回维持生活的收入。"
+      }
+    ],
+    "reasoning": "puts in labor 与 draws out moola 构成投入劳动换回报。前句 income 已给出同义词，不用靠 life-sustaining 猜成食物或能量。",
+    "options": [
+      "排除：skills 是劳动所需能力，未对应前句 money 与 income。",
+      "排除：energy 通常是劳动投入，放在交换回报位置不合语境。",
+      "保留：earnings 与 income、money 同属劳动获得的收入。",
+      "排除：nutrition 只贴合维持生命的字面联想，忽略前文挣钱语境。"
+    ]
+  },
+  "past-2015-1-q25": {
+    "type": "细节定位",
+    "anchors": [
+      {
+        "text": "no such clarity",
+        "meaning": "没有这样的明确性"
+      },
+      {
+        "text": "division of labor",
+        "meaning": "劳动分工"
+      }
+    ],
+    "locate": "圈 differs，找第 5 段开头 On the home front, however；它与前段工作职责清楚相对，继续读 Rare is the household 后的具体方面。",
+    "evidence": [
+      {
+        "paragraph": 4,
+        "quote": "Rare is the household in which the division of labor is so clinically and methodically laid out.",
+        "meaning": "家庭中很少有如此清楚、系统的劳动分工安排。"
+      }
+    ],
+    "reasoning": "Rare is 是倒装，实际就是“很少有家庭分工这么明确”。seldom clear-cut 把 rare 与清晰分工的关系直接改写。",
+    "options": [
+      "排除：原文说 inadequate rewards，adequately rewarded 把报酬方向反了。",
+      "排除：cozier 泛指舒适环境，未抓住本段具体对比的分工清晰度。",
+      "排除：末段 harder to motivate，more motivating 与原文相反。",
+      "保留：seldom 对应 Rare，clear-cut 对应明确安排的分工。"
+    ]
+  },
+  "past-2015-2-q26": {
+    "type": "推断",
+    "anchors": [
+      {
+        "text": "recruit more",
+        "meaning": "招收更多"
+      },
+      {
+        "text": "a paradox",
+        "meaning": "矛盾结果"
+      }
+    ],
+    "locate": "圈 Recruiting，到首段先看扩招期待，再找 a paradox 后的实际结果；重点对照 advance economically 与 widen achievement gap。",
+    "evidence": [
+      {
+        "paragraph": 0,
+        "quote": "recruiting first-generation students, but then watching many of them fail",
+        "meaning": "招收第一代大学生后，却看到其中很多人失败。"
+      },
+      {
+        "paragraph": 0,
+        "quote": "continued to reproduce and widen, rather than close",
+        "meaning": "继续复制并扩大，而不是缩小。"
+      }
+    ],
+    "reasoning": "原目标是帮助弱势学生向上发展，实际却有许多失败并扩大差距。“目标与结果相反”可概括为 missed original purpose。",
+    "options": [
+      "排除：开头说 dropout rates are higher，未说扩招已降低退学率。",
+      "排除：实际 widen achievement gap，narrowed 把方向反了。",
+      "保留：扩招后仍大量失败且差距扩大，偏离帮助向上发展的原意。",
+      "排除：depressing 修饰论文开头的描述，未说扩招让学生抑郁。"
+    ]
+  },
+  "past-2015-2-q27": {
+    "type": "原因",
+    "anchors": [
+      {
+        "text": "optimistic",
+        "meaning": "乐观"
+      },
+      {
+        "text": "potential solution",
+        "meaning": "可能的解决办法"
+      }
+    ],
+    "locate": "圈 optimistic，在第 2 段找到同词；紧接 as 后给出理由，再用 can close 63 percent 看他们为何有解决信心。",
+    "evidence": [
+      {
+        "paragraph": 1,
+        "quote": "it outlines a potential solution to this problem",
+        "meaning": "文章提出这个问题的一个潜在解决办法。"
+      },
+      {
+        "paragraph": 1,
+        "quote": "can close 63 percent of the achievement gap",
+        "meaning": "可以缩小百分之六十三的成绩差距。"
+      }
+    ],
+    "reasoning": "as 引出乐观原因：有办法并显示缩小差距的效果。solvable 概括能解决；next-to-no-cost 是成本优势，costless 的绝对说法需核对。",
+    "options": [
+      "排除：研究结果是否受学生欢迎没有交代。",
+      "排除：提高招生人数是前段背景，并未自动解决成绩差距。",
+      "保留：potential solution 和缩小差距效果支持问题可以得到解决。",
+      "排除：next-to-no-cost 是几乎无成本，costless 擅自改成完全免费。"
+    ]
+  },
+  "past-2015-2-q28": {
+    "type": "推断",
+    "anchors": [
+      {
+        "text": "59.1 percent",
+        "meaning": "百分之五十九点一"
+      },
+      {
+        "text": "Pell Grants",
+        "meaning": "助学金"
+      }
+    ],
+    "locate": "圈 most first-generation，到第 3 段找超过一半的 59.1 percent；往后读 Pell Grants 的插入定义，确定领取资格是什么。",
+    "evidence": [
+      {
+        "paragraph": 2,
+        "quote": "Most of the first-generation students (59.1 percent) were recipients of Pell Grants, a federal grant for undergraduates with financial need",
+        "meaning": "多数第一代学生获得佩尔助学金，它面向有经济需要的本科生。"
+      }
+    ],
+    "reasoning": "most 被 59.1% 量化，助学金定义里的 financial need 说明经济困难。把多数领取者的资格对应成需要经济支持。",
+    "options": [
+      "排除：父母没有大学学位不等于只有一名家长，混淆两个定义。",
+      "排除：研究在一所私立大学进行，不能据此推广到多数第一代学生就读地点。",
+      "保留：多数领取面向经济困难者的助学金，支持需要经济帮助。",
+      "排除：样本完成研究且未全被描述为学业失败，failed 扩大了结论。"
+    ]
+  },
+  "past-2015-2-q29": {
+    "type": "细节定位",
+    "anchors": [
+      {
+        "text": "not in potential",
+        "meaning": "并非潜力不足"
+      },
+      {
+        "text": "practical knowledge",
+        "meaning": "实际知识"
+      }
+    ],
+    "locate": "题干问作者认为第一代学生怎样，进入第 4 段找 lacking not ... but ...；先跳过 not 后内容，把 but 后 practical knowledge 连到 deal with issues。",
+    "evidence": [
+      {
+        "paragraph": 3,
+        "quote": "most lacking not in potential but in practical knowledge about how to deal with the issues that face most college students.",
+        "meaning": "主要缺少的是处理大学常见问题的实际知识，而非潜力。"
+      }
+    ],
+    "reasoning": "not ... but ... 明确纠正不足所在。practical knowledge 缺乏可改写为 inexperienced，deal with issues 可改写为 handling issues。",
+    "options": [
+      "排除：没有把问题说成缺少申请研究项目的机会。",
+      "保留：处理大学事务经验不足，直接对应实际应对知识缺乏。",
+      "排除：potential 出现在被否定的不足项，未说对其他学生有潜在影响。",
+      "排除：学生在努力应对困难，原文没有说他们漠视成绩差距。"
+    ]
+  },
+  "past-2015-2-q30": {
+    "type": "推断",
+    "anchors": [
+      {
+        "text": "colleges don’t talk",
+        "meaning": "学校不谈"
+      },
+      {
+        "text": "seldom acknowledge",
+        "meaning": "很少承认"
+      }
+    ],
+    "locate": "题干限定末段，找 when colleges don’t talk 与 Because US colleges；顺着 because 读学校行为如何影响学生理解自己的困境。",
+    "evidence": [
+      {
+        "paragraph": 4,
+        "quote": "Because US colleges and universities seldom acknowledge how social class can affect students’ educational experiences",
+        "meaning": "由于美国高校很少承认社会阶层会怎样影响学生的教育经历。"
+      }
+    ],
+    "reasoning": "because 的主语是高校，结果是学生不理解困难及改进途径。把学校在因果链中的一部分作用概括为 partly responsible，程度适中。",
+    "options": [
+      "排除：学生难适应中产文化，未等于大学拒绝这种文化。",
+      "排除：段落指出学校少讲阶层问题，不能把资源不足归罪学生。",
+      "排除：阶层会影响经历，但 greatly enrich 把影响固定为积极且强烈。",
+      "保留：学校回避阶层差异使学生缺乏理解，因此负有部分责任。"
+    ]
+  },
+  "past-2015-3-q31": {
+    "type": "细节定位",
+    "anchors": [
+      {
+        "text": "Nancy Koehn",
+        "meaning": "人名"
+      },
+      {
+        "text": "more emotional",
+        "meaning": "更富情绪色彩"
+      }
+    ],
+    "locate": "圈 Nancy Koehn，回首段第一句；人名在 said 后，真正观点在引号内，直接找 than it was 20 years ago 前的比较词。",
+    "evidence": [
+      {
+        "paragraph": 0,
+        "quote": "the lingua franca of corporate America has gotten much more emotional and much more right-brained than it was 20 years ago",
+        "meaning": "美国企业通用语言比二十年前更富情绪和感性色彩。"
+      }
+    ],
+    "reasoning": "比较句直接给 more emotional。后面 journey、passion 只是举例，即使不认识这些词，也可先靠观点句与选项重复定位。",
+    "options": [
+      "排除：strategies 是过去常用词，未说现在语言较少具有策略性。",
+      "排除：过去不谈 energy，现在新增这类词，less energetic 方向相反。",
+      "排除：objectives 是旧词汇举例，more objective 混淆词义与语言变化。",
+      "保留：more emotional 在观点句中直接出现。"
+    ]
+  },
+  "past-2015-3-q32": {
+    "type": "原因",
+    "anchors": [
+      {
+        "text": "team",
+        "meaning": "团队"
+      },
+      {
+        "text": "sports",
+        "meaning": "体育"
+      },
+      {
+        "text": "coaches",
+        "meaning": "教练"
+      }
+    ],
+    "locate": "圈 Team-oriented，在第 2 段找到同词；not by coincidence 后解释来源，读 sports，再用 coach、team、win 这一组词核对。",
+    "evidence": [
+      {
+        "paragraph": 1,
+        "quote": "Let’s not forget sports – in male-dominated corporate America, it’s still a big deal.",
+        "meaning": "别忘了体育，在男性主导的美国企业中它仍很重要。"
+      }
+    ],
+    "reasoning": "coach、team、win 是同一体育词群，说明团队化公司用语借用了体育文化。male-dominated 是背景修饰，别把它当成性别差异比较。",
+    "options": [
+      "保留：sports 及教练、团队、获胜词群共同指向体育文化。",
+      "排除：male-dominated 描述公司环境，没有比较男女语言差异。",
+      "排除：未列举特定历史事件解释这些术语的来源。",
+      "排除：高管把自己比作教练，未说他们本人都是运动健将。"
+    ]
+  },
+  "past-2015-3-q33": {
+    "type": "目的",
+    "anchors": [
+      {
+        "text": "Khurana",
+        "meaning": "人名"
+      },
+      {
+        "text": "increase allegiance",
+        "meaning": "增强忠诚"
+      }
+    ],
+    "locate": "圈 Khurana，到第 3 段先看人名前面的 increase allegiance；题干 aims to 问目的，前句 intended to 已经给出目标。",
+    "evidence": [
+      {
+        "paragraph": 2,
+        "quote": "increase allegiance to the firm.",
+        "meaning": "增强对公司的忠诚。"
+      }
+    ],
+    "reasoning": "increase 对应 strengthen，allegiance 对应 loyalty，firm 对应公司。三组替换完整重合，宗教组织只是术语来源。",
+    "options": [
+      "排除：历史术语是被借用的素材，恢复旧词本身不是目的。",
+      "排除：文中目标是员工与公司关系，没有说对外提升公司形象。",
+      "排除：cooperation 偏合作行为，此句明确强调 allegiance 的忠诚关系。",
+      "保留：strengthen employee loyalty 直接改写 increase allegiance to the firm。"
+    ]
+  },
+  "past-2015-3-q34": {
+    "type": "推断",
+    "anchors": [
+      {
+        "text": "Lean In",
+        "meaning": "书名"
+      },
+      {
+        "text": "women still can’t have it all",
+        "meaning": "女性仍难兼得"
+      }
+    ],
+    "locate": "圈书名 Lean In，在第 4 段找到前面的 prompting arguments about why women；看书与什么议题并列，先识别服务的群体。",
+    "evidence": [
+      {
+        "paragraph": 3,
+        "quote": "prompting arguments about why women still can’t have it all and books like Sheryl Sandberg’s Lean In",
+        "meaning": "引发关于女性为何仍难兼得一切的争论，以及《向前一步》这样的书。"
+      }
+    ],
+    "reasoning": "书与职业女性工作生活兼顾的争论同列，说明它为这一群体发声。prompting 的方向是争论带来书，不能倒成书引发全部争论。",
+    "options": [
+      "保留：书被放在职业女性难兼顾工作家庭的讨论中，支持为其发声。",
+      "排除：passion 与延时工作出现在后文另一个例子，未描述书的目标读者。",
+      "排除：mommy wars 的讨论促成这类书，选项把引发关系倒转。",
+      "排除：motivated employees 是段首企业语言的作用，未说书在赞美他们。"
+    ]
+  },
+  "past-2015-3-q35": {
+    "type": "细节定位",
+    "anchors": [
+      {
+        "text": "makes fun of",
+        "meaning": "嘲笑"
+      },
+      {
+        "text": "willingly absorb",
+        "meaning": "乐于吸收"
+      }
+    ],
+    "locate": "圈 office speak，去末段找 irony；把 Everyone makes fun of 与 regular people willingly absorb 连起来，注意作者刻意并列的两种反应。",
+    "evidence": [
+      {
+        "paragraph": 4,
+        "quote": "Everyone makes fun of it, but managers love it, companies depend on it, and regular people willingly absorb it.",
+        "meaning": "人人都嘲笑它，但经理喜欢它、公司依赖它，普通人也乐于接受。"
+      }
+    ],
+    "reasoning": "Everyone 包括普通人，makes fun of 对应 mock；absorb 对应 accept。but 连接“嘴上笑、实际接受”的反差，两半都要保留。",
+    "options": [
+      "排除：语言学家转述人可同时觉得荒谬又接受，未表明所有语言学家都认为无意义。",
+      "保留：mock 与 makes fun of 对应，accept 与 willingly absorb 对应。",
+      "排除：depend on 表依赖，fundamentally 在后句修饰工作场所的冷漠，不能挪用。",
+      "排除：经理 love it，但文中未说 avoid it，后一半与喜欢接受的方向不符。"
+    ]
+  },
+  "past-2015-4-q36": {
+    "type": "细节定位",
+    "anchors": [
+      {
+        "text": "overlooked",
+        "meaning": "被忽略"
+      },
+      {
+        "text": "voluntarily working part-time",
+        "meaning": "自愿兼职"
+      }
+    ],
+    "locate": "圈 neglected，在第 2 段找同义词 overlooked；下一句 There was a big jump 直接补充被忽略的具体数据内容。",
+    "evidence": [
+      {
+        "paragraph": 1,
+        "quote": "There was a big jump in the number of people who report voluntarily working part-time.",
+        "meaning": "自述自愿兼职的人数大幅增加。"
+      }
+    ],
+    "reasoning": "neglected 对应 overlooked，increase 对应 big jump，voluntary part-time 保留就业类型。三个定位点一起核对可直接选。",
+    "options": [
+      "排除：总体就业变好是首段大家已谈论的消息，未被忽略。",
+      "保留：increase of voluntary part-time 对应第二段明确指出的被忽略增长。",
+      "排除：全面就业尚有长路，是首段判断，不是第二段新信息。",
+      "排除：创造岗位加快已在首段被普遍注意，非 overlooked 部分。"
+    ]
+  },
+  "past-2015-4-q37": {
+    "type": "原因",
+    "anchors": [
+      {
+        "text": "actually want full-time jobs",
+        "meaning": "其实想要全职工作"
+      },
+      {
+        "text": "all they can get",
+        "meaning": "只能找到这些"
+      }
+    ],
+    "locate": "圈 Many people work part-time，去第 3 段找实际想要什么；紧接 They take ... because 后给出选择兼职的原因。",
+    "evidence": [
+      {
+        "paragraph": 2,
+        "quote": "They take part-time work because this is all they can get.",
+        "meaning": "他们接受兼职，因为能找到的只有这种工作。"
+      }
+    ],
+    "reasoning": "because 后的 all they can get 表示选择受限，前句又明确想要全职。cannot get full-time jobs 正好把这两句合并。",
+    "options": [
+      "排除：actually want full-time 表明偏好全职，非更喜欢兼职。",
+      "排除：末句说 very hard time making ends meet，足够维生方向相反。",
+      "保留：想全职但只能找到兼职，对应无法获得全职工作。",
+      "排除：没有说这些人未看见市场疲弱，原因是岗位选择受限。"
+    ]
+  },
+  "past-2015-4-q38": {
+    "type": "细节定位",
+    "anchors": [
+      {
+        "text": "Involuntary part-time",
+        "meaning": "非自愿兼职"
+      },
+      {
+        "text": "general direction",
+        "meaning": "总体方向"
+      }
+    ],
+    "locate": "圈 involuntary，进入第 4 段；六月增长后有 but，转折后 general direction 才是总体趋势，再用同比下降数字复核。",
+    "evidence": [
+      {
+        "paragraph": 3,
+        "quote": "There was an increase in involuntary part-time in June, but the general direction has been down.",
+        "meaning": "六月非自愿兼职有所增加，但总体方向是下降。"
+      }
+    ],
+    "reasoning": "but 后直接说 general direction down。下一句 before recession 与 year ago 是两种基准，要分别读，避免拿同比下降推出低于衰退前。",
+    "options": [
+      "保留：general tendency of decline 直接对应 general direction has been down。",
+      "排除：人数下降没有直接说明个人获得此类岗位更难。",
+      "排除：非自愿兼职说明想要全职却无法获得，不能说满足真实需求。",
+      "排除：原文明说 still far higher than before recession，比较方向相反。"
+    ]
+  },
+  "past-2015-4-q39": {
+    "type": "推断",
+    "anchors": [
+      {
+        "text": "Obamacare",
+        "meaning": "医保改革"
+      },
+      {
+        "text": "outside of employment",
+        "meaning": "工作之外"
+      },
+      {
+        "text": "no longer a link",
+        "meaning": "不再绑定"
+      }
+    ],
+    "locate": "圈 with Obamacare，先看第 6 段目的 outside of employment，再看末段最后一句；注意 before 与 With 分别描述改革前后。",
+    "evidence": [
+      {
+        "paragraph": 5,
+        "quote": "one of the main purposes was to allow people to get insurance outside of employment.",
+        "meaning": "主要目的之一是让人们能在就业之外获得保险。"
+      },
+      {
+        "paragraph": 6,
+        "quote": "With Obamacare there is no longer a link between employment and insurance.",
+        "meaning": "改革后，就业和保险不再绑定。"
+      }
+    ],
+    "reasoning": "outside employment 与 no longer link 共同说明有工作不再是获保必要条件。precondition 是前提，正好概括这一关系改变。",
+    "options": [
+      "排除：改革增加工作之外的获保渠道，no longer easy 方向相反。",
+      "排除：full-time essential 属于改革前的绑定关系，题目问改革后。",
+      "排除：原文强调增加覆盖个人及家庭的选择，未把困难依旧作为结论。",
+      "保留：就业不再是获保前提，对应 outside employment 与不再绑定。"
+    ]
+  },
+  "past-2015-4-q40": {
+    "type": "主旨",
+    "anchors": [
+      {
+        "text": "new jobs",
+        "meaning": "新增岗位"
+      },
+      {
+        "text": "part-time",
+        "meaning": "兼职"
+      },
+      {
+        "text": "employment",
+        "meaning": "就业"
+      }
+    ],
+    "locate": "主旨题先串各段任务：首段就业数据，第 2—5 段兼职变化与分类，最后两段医保解释为什么有人能选择兼职；找能容纳全部的主题。",
+    "evidence": [
+      {
+        "paragraph": 0,
+        "quote": "the economy is creating jobs at a decent pace.",
+        "meaning": "经济正在以不错速度创造岗位。"
+      },
+      {
+        "paragraph": 5,
+        "quote": "The issue of voluntary part-time relates to Obamacare",
+        "meaning": "自愿兼职的问题与医保改革有关。"
+      }
+    ],
+    "reasoning": "就业是上位话题，兼职是其中一部分，医保是解释兼职变化的因素。标题范围要覆盖首段到末段，避免选后半篇的单一机制。",
+    "options": [
+      "保留：美国就业能覆盖岗位创造、兼职分类、趋势和政策原因。",
+      "排除：兼职分类只覆盖第 3—5 段，未涵盖总体就业及医保影响。",
+      "排除：Medicaid 是获得保险的一条途径，范围远小于全文。",
+      "排除：文章说明医保带来的选择变化，未把改革麻烦作为主线。"
+    ]
+  }
+}
