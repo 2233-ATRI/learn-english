@@ -1,0 +1,116 @@
+/* Shared reading controls; the compact breakpoint also covers phone landscape. */
+.mobile-reader-tool,.reader-mobile-dock{display:none}
+.question[hidden]{display:none!important}
+.reader .question-stem{font-size:var(--reading-size,20px)}
+.reader .option>.english{font-size:max(17px,calc(var(--reading-size,20px) - 2px));min-width:0;overflow-wrap:anywhere}
+.reader-font-tools{display:flex;align-items:center;gap:12px;margin-bottom:20px}
+.reader-font-tools>span{flex:1}.reader-font-tools b{display:block;font-weight:400;color:var(--muted)}
+.reader-tools-tips{width:100%;margin:10px 0 18px}
+.reader-mobile-tabs button{display:flex;align-items:center;justify-content:center;gap:7px}
+.question-pager{display:grid;grid-template-columns:minmax(0,1fr) minmax(80px,1fr) minmax(0,1fr);gap:8px;padding:8px 12px;border-bottom:1px solid var(--line)}
+.question-pager .btn{padding:10px 8px;font-size:13px;min-width:0;white-space:normal}
+.answer-card-entry{border:0;background:transparent;display:flex;flex-direction:column;justify-content:center;align-items:center;min-height:48px;border-radius:8px;padding:2px;color:var(--green)}
+.answer-card-entry strong{font-size:19px;line-height:1.2}.answer-card-entry small{font-weight:400;font-size:13px}
+.answer-card-entry>span{font-size:10px;color:var(--muted);margin-top:4px}
+.answer-card-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(58px,1fr));gap:10px;margin:20px 0}
+.answer-card-item{min-height:76px;padding:10px 4px;border:1px solid var(--line);border-radius:10px;background:var(--surface);display:flex;flex-direction:column;align-items:center;gap:6px}
+.answer-card-item strong{font-size:20px}.answer-card-item span{font-size:11px;color:var(--muted)}
+.answer-card-item.answered,.answer-card-item.right{background:var(--tint);border-color:var(--green)}
+.answer-card-item.wrong{background:#bd715112;border-color:var(--orange)}
+.answer-card-item[aria-current=step]{outline:2px solid var(--green);outline-offset:2px}
+.strategy-option>div{min-width:0;overflow-wrap:anywhere}
+
+@media(max-width:760px),(max-height:500px) and (max-width:1000px){
+ body{font-size:15px;-webkit-text-size-adjust:100%;text-size-adjust:100%}
+ .sidebar,.reading-mode .sidebar{display:none}
+ .main,.reading-mode .main{width:100%;margin-left:0}
+ .page{padding:24px max(16px,env(safe-area-inset-right)) calc(100px + env(safe-area-inset-bottom)) max(16px,env(safe-area-inset-left));overflow-wrap:anywhere}
+ .page-heading{gap:14px;margin-top:16px}.page-heading>div:first-child{min-width:0}
+ .page-heading h1{font-size:clamp(23px,6vw,30px);letter-spacing:-.4px}
+ .page-heading p{font-size:13px}.progress-ring{width:66px;height:66px;flex-shrink:0;border-width:4px}
+ .progress-ring strong{font-size:24px}.progress-ring span{font-size:9px}
+ .featured{padding:20px;min-height:0}.featured h2{font-size:22px}.featured .btn{min-height:48px}
+ .book-art{display:none}.lesson-grid{grid-template-columns:1fr}
+ .lesson-card{padding:20px}.lesson-card h3{font-size:20px}.card-meta{flex-wrap:wrap}.card-footer{font-size:11px}
+ .library-toolbar{gap:12px}.tabs{width:100%;gap:0;justify-content:space-between;overflow-x:auto}
+ .tabs button{padding:12px 5px;min-height:48px;flex-shrink:0}
+ .filters{width:100%;min-width:0}.filters select{min-height:48px;max-width:40%;font-size:14px}
+ .filters .search{min-width:0;flex:1;min-height:48px}.filters .search input{width:100%;font-size:14px}
+ .section-heading{flex-wrap:wrap;gap:12px}.section-heading h1,.page>h1{font-size:28px}
+ .method-entry{padding:16px;align-items:stretch;flex-direction:column;gap:12px}
+ .method-entry .btn{width:100%;min-height:48px}
+ .bottom-nav{display:flex;position:fixed;inset:auto 0 0;padding:6px max(4px,env(safe-area-inset-right)) calc(6px + env(safe-area-inset-bottom)) max(4px,env(safe-area-inset-left));border-top:1px solid var(--line);background:var(--surface);z-index:20}
+ .bottom-nav button{width:20%;min-height:52px;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:4px;border:0;border-radius:10px;background:transparent;color:var(--muted);font-size:10px;padding:4px 1px}
+ .bottom-nav button.active{color:var(--green);background:var(--tint)}
+ .reading-mode .bottom-nav{display:none}
+ .intro h1{font-size:28px}.intro-en{font-size:21px}.intro-meta{gap:10px 18px;font-size:12px;flex-wrap:wrap}
+ .summary-box{padding:20px}.summary-box h2{font-size:21px}.summary-box p{font-size:16px}
+ .structure>div,.tip-grid{grid-template-columns:1fr}
+ .intro-actions{flex-direction:column;align-items:stretch;gap:14px}.intro-actions>.btn{min-height:52px;width:100%}
+ .reader{height:100dvh;overflow:hidden}
+ .reader-header{min-height:60px;padding:6px 8px;gap:4px}
+ .reader-header>.icon-btn{min-width:44px;min-height:48px;flex-shrink:0}
+ .reader-header .desktop-reader-tool{display:none}
+ .reader-header .mobile-reader-tool{display:inline-flex}
+ .reader-name{flex:1;padding:0;min-width:0}.reader-name strong{max-width:none;font-size:14px}
+ .reader-name span{font-size:9px;letter-spacing:.7px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+ .timer{gap:0;font-size:13px}.timer>svg{display:none}.timer .icon-btn{min-width:44px;min-height:48px}
+ .reader-grid{display:block;overflow:hidden;flex:1;min-height:0}
+ .reader-grid[data-mobile=article] .question-pane,.reader-grid[data-mobile=questions] .article-pane{display:none}
+ .reader-grid>.article-pane,.reader-grid>.question-pane{height:100%;min-width:0;overflow:auto;scroll-padding-block:16px}
+ .article-pane{padding:20px 20px 28px 30px}.question-pane{padding:18px 16px 28px;border-left:0}
+ .reading-caption{font-size:9px;letter-spacing:.6px;gap:8px;flex-wrap:wrap}
+ .article-pane h2{font-size:26px;overflow-wrap:anywhere;margin-top:18px}
+ .word-instruction{font-size:11px;margin-bottom:24px;flex-wrap:wrap}
+ .paragraph-no{left:-20px}.paragraph{margin-bottom:26px}.paragraph>.english{line-height:1.9;overflow-wrap:anywhere}
+ .translation-toggle{min-height:48px;font-size:12px}
+ .questions-head h2{font-size:20px}.question{padding:16px 0 22px;border-bottom:0}
+ .question-label{font-size:11px;letter-spacing:.5px}.hint{font-size:13px}
+ .question-pane .option{padding:8px;gap:8px;min-height:64px}
+ .option-letter{min-width:48px;width:48px;height:48px;font-size:19px}
+ .option>.english{padding-right:2px;line-height:1.65}
+ .hint-toggle{min-height:48px;font-size:14px}.anchor-chip{min-height:48px}
+ .explanation{padding-left:10px}.strategy-step>p{font-size:15px}
+ .strategy-option{padding:12px 10px;gap:8px}.strategy-option p{font-size:14px}
+ .strategy-option .strategy-option-text{font-size:16px}
+ .reading-focus-bar{gap:6px;padding:6px 8px}.reading-focus-bar>span{font-size:11px}
+ .reading-focus-bar .btn{min-height:48px;padding:8px;font-size:12px}.reading-focus-bar .icon-btn{min-width:44px}
+ .reader .submit-footer{display:none}
+ .reader-mobile-dock{display:flex;flex-direction:column;flex-shrink:0;z-index:10;background:var(--surface);border-top:1px solid var(--line);padding-bottom:env(safe-area-inset-bottom)}
+ .reader-mobile-tabs{display:flex;border:0;flex-shrink:0;background:var(--surface)}
+ .reader-mobile-tabs button{width:50%;min-height:54px;padding:10px 8px;border:0;border-top:3px solid transparent;font-size:14px;background:transparent;color:var(--muted)}
+ .reader-mobile-tabs button.selected{color:var(--green);background:var(--tint);border-top-color:var(--green)}
+ .reader-mobile-tabs small{font-size:11px}
+ .word-popover{position:relative;top:auto!important;left:auto!important;width:100%;max-width:none;max-height:42dvh;flex-shrink:0;z-index:12;overflow:auto;overscroll-behavior:contain;border-radius:16px 16px 0 0;border-width:1px 0 0;padding:6px 16px 12px;box-shadow:0 -6px 24px #27321f12}
+ .word-pop-head{margin:0}.word-pop-head .icon-btn{min-width:48px;min-height:48px;margin-right:-6px}
+ .word-popover h3{font-size:26px;margin-bottom:2px}.word-popover .phonetic{margin:2px 0}
+ .word-popover .definition{margin:8px 0 12px;max-height:none;font-size:16px;overflow:visible}
+ .word-actions{gap:8px;margin-bottom:6px}.word-actions>.btn{min-height:48px;font-size:14px}
+ .word-actions>.icon-btn{min-width:48px;min-height:48px}
+ .word-popover textarea{font-size:16px}.word-popover form>.btn{width:100%;min-height:48px}
+ .overlay{padding:12px;align-items:center}.modal{max-height:calc(100dvh - 24px);padding:18px;width:520px;overflow-wrap:anywhere;overscroll-behavior:contain}
+ .modal>header{position:sticky;top:-18px;z-index:2;background:var(--surface);padding:10px 0;border-bottom:1px solid var(--line);margin-top:-8px}
+ .modal>header h2{font-size:20px}.modal .btn,.modal .icon-btn{min-height:48px;white-space:normal}
+ .modal-actions{gap:10px}.modal-actions .btn{flex:1;font-size:14px}
+ .form-row{grid-template-columns:1fr 1fr}.form-row>label:last-child{grid-column:1/-1}
+ .import-file{flex-direction:column;align-items:flex-start;gap:12px}
+ .theme-options{gap:8px}.theme-options button{flex:1;justify-content:center;padding:12px 8px;font-size:14px;min-width:0}
+ .inline-buttons .btn{min-height:48px}.vocab-list article{gap:8px}.vocab-list .pill{font-size:10px}
+ .stat-line{gap:14px}.stat-line .search{width:100%;margin-left:0!important}.stat-line .search input{width:100%}
+ .record-list article{gap:12px;flex-wrap:wrap}.record-list article>div{flex:auto;width:100%}.record-list b{margin-left:auto}
+ .mistake-list article{padding:18px}.signal-table{padding:12px;gap:8px;font-size:12px}
+ .toast{bottom:calc(80px + env(safe-area-inset-bottom));font-size:13px}
+ .reading-mode .toast{bottom:calc(138px + env(safe-area-inset-bottom))}
+}
+@media(max-width:360px){
+ .page-heading h1{font-size:23px}.progress-ring{width:58px;height:58px}.progress-ring strong{font-size:21px}
+ .reader-name strong{font-size:12px}.reader-name span{font-size:8px}.timer{font-size:12px}
+ .article-pane{padding-right:16px}.question-pane{padding-left:12px;padding-right:12px}
+ .question-pager{gap:5px;padding-inline:8px}.question-pager .btn{gap:4px;padding-inline:5px}
+ .reader-mobile-tabs button{gap:5px;font-size:13px}.signal-table{grid-template-columns:minmax(0,1fr) minmax(0,1fr)}
+}
+@media(max-height:500px) and (max-width:1000px){
+ .reader-header{min-height:52px;padding-block:2px}.reader-mobile-tabs button{min-height:48px;padding-block:6px}
+ .question-pager{padding-block:4px}.question-pager .btn{min-height:44px}.answer-card-entry{min-height:44px}
+ .word-popover{max-height:40dvh}.word-popover h3{font-size:23px}.word-popover .definition{font-size:15px}
+}

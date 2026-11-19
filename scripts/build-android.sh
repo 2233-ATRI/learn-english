@@ -24,7 +24,7 @@ if ! test -f .signing/shici-release.p12; then
   "$TASK_JAVA_HOME/bin/keytool" -genkeypair -keystore .signing/shici-release.p12 -storetype PKCS12 -storepass:file .signing/password.txt -alias shici -keyalg RSA -keysize 3072 -validity 10000 -dname "CN=Shici Local Release, O=Shici, C=CN" -noprompt
   chmod 600 .signing/shici-release.p12
 fi
-"$BUILD_TOOLS/apksigner" sign --ks .signing/shici-release.p12 --ks-key-alias shici --ks-pass file:.signing/password.txt --out "releases/拾词英语二-1.1.0-Android.apk" build/android/aligned.apk
-"$BUILD_TOOLS/apksigner" verify --verbose "releases/拾词英语二-1.1.0-Android.apk"
-"$BUILD_TOOLS/aapt" dump badging "releases/拾词英语二-1.1.0-Android.apk" > build/android/apk-info.txt
+"$BUILD_TOOLS/apksigner" sign --ks .signing/shici-release.p12 --ks-key-alias shici --ks-pass file:.signing/password.txt --out "releases/拾词英语二-1.2.0-Android.apk" build/android/aligned.apk
+"$BUILD_TOOLS/apksigner" verify --verbose "releases/拾词英语二-1.2.0-Android.apk"
+"$BUILD_TOOLS/aapt" dump badging "releases/拾词英语二-1.2.0-Android.apk" > build/android/apk-info.txt
 echo "Built and verified Android APK. Keep the signing key for future updates."

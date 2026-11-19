@@ -1,11 +1,11 @@
 {
   "name": "shici-english-two",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "private": true,
   "type": "module",
   "scripts": {
     "build": "node scripts/build.mjs",
-    "test": "node scripts/test.mjs && node scripts/test-strategies.mjs && node scripts/test-dom.mjs",
+    "test": "node scripts/test.mjs && node scripts/test-strategies.mjs && node scripts/test-dom.mjs && node scripts/test-mobile.mjs",
     "build:android": "bash scripts/build-android.sh"
   },
   "dependencies": {
